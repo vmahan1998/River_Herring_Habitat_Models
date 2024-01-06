@@ -1,0 +1,292 @@
+# Blueback Herring (*Alosa aestivalis*)
+
+This chapter aims to explore the habitat preferences and life cycle of blueback herring (*Alosa aestivalis*) in the northeastern United States.
+Alewives have faced significant declines,
+
+This chapter explores the favorable habitat conditions for spawning alewife adults, non-migratory juveniles, and larvae, which are influenced by factors such as suitable spawning habitats, water quality conditions, and availability of appropriate food resources [@lynch_projected_2015].
+
+## Life cycle overview
+
+## Habitat Requirements
+
+### Spawning Adults
+
+#### Temperature
+
+-   move into estuary begins at 14 and ceases at 27 @pardue_habitat_1983
+
+-   range 17 - 26 and optimal 20 - 24 \@pardue_habitat_1983
+
+-   spawning stops at 27 @pardue_habitat_1983
+
+-   Our results demonstrate that the spawning temperature that maximized juvenile blueback herring abundance in the Delaware River was 11 °C (tommasi 2015)
+
+#### Depth
+
+-   most found 5 - 20 meters, rarely above 40 @pardue_habitat_1983
+
+-   
+
+#### Salinity
+
+#### Flow Velocity
+
+-   blueback herring show a preferance for higher velocities than alewives (haro 2004)
+-   Low velocities (0.0--1.7 m/s) (Walsh et al 2005)
+-   0.11 m/s (O'Connell & Angermeier, 1997)
+
+#### Substrate
+
+-   Blueback herring do not usually spawn as far upstream as the alewife and selectively choose spawning sites in fast-flowing water over a hard substrate, particularly in shared spawning grounds (Loesch and Lund 1977; Jones et al. 1978; Scott and Scott 1988).
+
+-   
+
+### Non-Migratory Juveniles
+
+#### Temperature
+
+#### Depth
+
+#### Salinity
+
+#### Flow Velocity
+
+#### Substrate
+
+### Larvae
+
+#### Temperature
+
+-   blueback herring early egg stages were positively related to water temperature (14-22°C). (O'Connell & Angermeier, 1999)
+
+#### Depth
+
+#### Salinity
+
+#### Flow Velocity
+
+#### Substrate
+
+## Habitat suitability models
+
+### Spawning Adults
+
++----------------------------+--------------------+-------------------------------+
+| **Parameter**              | Range              | **Habitat Suitability Value** |
++============================+====================+===============================+
+| A. Temperature (°C)        | $0 < t < 8$        | 0.0                           |
+|                            |                    |                               |
+|                            | $8 <= t < 12$      | 0.5                           |
+|                            |                    |                               |
+|                            | $12 <= t < 16$     | 1.0                           |
+|                            |                    |                               |
+|                            | $16 <= t < 22$     | 1.0                           |
+|                            |                    |                               |
+|                            | $22 <= t < 27$     | 0.5                           |
+|                            |                    |                               |
+|                            | $27 <= t < 30$     | 0.1                           |
+|                            |                    |                               |
+|                            | $t > 30$           | 0.0                           |
++----------------------------+--------------------+-------------------------------+
+| B. Depth (*meters*)        | $MLT < d < 2$      | 0.0                           |
+|                            |                    |                               |
+|                            | $2 <= d < 10$      | 0.5                           |
+|                            |                    |                               |
+|                            | $10 <= d < 20$     | 1.0                           |
+|                            |                    |                               |
+|                            | $20 <= d < 50$     | 0.5                           |
+|                            |                    |                               |
+|                            | $50 <= d < 100$    | 0.5                           |
+|                            |                    |                               |
+|                            | $d > 100$          | 0.5                           |
++----------------------------+--------------------+-------------------------------+
+| C. Salinity (*psu*)        | $0 < s < 0.5$      | 1.0                           |
+|                            |                    |                               |
+|                            | $0.5 <= s < 5.0$   | 1.0                           |
+|                            |                    |                               |
+|                            | $5.0 <= s < 15.0$  | 1.0                           |
+|                            |                    |                               |
+|                            | $15.0 <= s < 20.0$ | 0.5                           |
+|                            |                    |                               |
+|                            | $s > 20$           | 0.0                           |
++----------------------------+--------------------+-------------------------------+
+| D. Flow Velocity (*m/s*)   | $0 < v < 0.3$      | 1.0                           |
+|                            |                    |                               |
+|                            | $0.3 <= v < 1.5$   | 1.0                           |
+|                            |                    |                               |
+|                            | $1.5 <= v < 3.5$   | 0.5                           |
+|                            |                    |                               |
+|                            | $3.5 <= v < 4.5$   | 0.3                           |
+|                            |                    |                               |
+|                            | $v > 5$            | 0.0                           |
++----------------------------+--------------------+-------------------------------+
+| E. Substrate               | Hard Substrate     | 0.5                           |
+|                            |                    |                               |
+|                            | Soft Substrate     | 1.0                           |
+|                            |                    |                               |
+|                            | Present SAV        | 1.0                           |
+|                            |                    |                               |
+|                            | Absent SAV         | 0.5                           |
++----------------------------+--------------------+-------------------------------+
+
+: **Table 1.** Model Parameters and Habitat Suitability Values for Spawning Adult Blueback Herring.
+
+#### Temperature
+
+#### Depth
+
+#### Salinity
+
+#### Flow Velocity
+
+#### Substrate
+
+### Non-Migratory Juveniles
+
++----------------------------+--------------------+-------------------------------+
+| **Parameter**              | Range              | **Habitat Suitability Value** |
++============================+====================+===============================+
+| A. Temperature (°C)        | $0 < t < 8$        | 0.0                           |
+|                            |                    |                               |
+|                            | $8 <= t < 12$      | 0.5                           |
+|                            |                    |                               |
+|                            | $12 <= t < 16$     | 1.0                           |
+|                            |                    |                               |
+|                            | $16 <= t < 22$     | 1.0                           |
+|                            |                    |                               |
+|                            | $22 <= t < 27$     | 0.5                           |
+|                            |                    |                               |
+|                            | $27 <= t < 30$     | 0.1                           |
+|                            |                    |                               |
+|                            | $t > 30$           | 0.0                           |
++----------------------------+--------------------+-------------------------------+
+| B. Depth (*meters*)        | $MLT < d < 2$      | 0.0                           |
+|                            |                    |                               |
+|                            | $2 <= d < 10$      | 0.5                           |
+|                            |                    |                               |
+|                            | $10 <= d < 20$     | 1.0                           |
+|                            |                    |                               |
+|                            | $20 <= d < 50$     | 0.5                           |
+|                            |                    |                               |
+|                            | $50 <= d < 100$    | 0.5                           |
+|                            |                    |                               |
+|                            | $d > 100$          | 0.5                           |
++----------------------------+--------------------+-------------------------------+
+| C. Salinity (*psu*)        | $0 < s < 0.5$      | 1.0                           |
+|                            |                    |                               |
+|                            | $0.5 <= s < 5.0$   | 1.0                           |
+|                            |                    |                               |
+|                            | $5.0 <= s < 15.0$  | 1.0                           |
+|                            |                    |                               |
+|                            | $15.0 <= s < 20.0$ | 0.5                           |
+|                            |                    |                               |
+|                            | $s > 20$           | 0.0                           |
++----------------------------+--------------------+-------------------------------+
+| D. Flow Velocity (*m/s*)   | $0 < v < 0.3$      | 1.0                           |
+|                            |                    |                               |
+|                            | $0.3 <= v < 1.5$   | 1.0                           |
+|                            |                    |                               |
+|                            | $1.5 <= v < 3.5$   | 0.5                           |
+|                            |                    |                               |
+|                            | $3.5 <= v < 4.5$   | 0.3                           |
+|                            |                    |                               |
+|                            | $v > 5$            | 0.0                           |
++----------------------------+--------------------+-------------------------------+
+| E. Substrate               | Hard Substrate     | 0.5                           |
+|                            |                    |                               |
+|                            | Soft Substrate     | 1.0                           |
+|                            |                    |                               |
+|                            | Present SAV        | 1.0                           |
+|                            |                    |                               |
+|                            | Absent SAV         | 0.5                           |
++----------------------------+--------------------+-------------------------------+
+
+: **Table 2.** Model Parameters and Habitat Suitability Values for Non-Migratory Juvenile Blueback Herring.
+
+#### Temperature
+
+#### Depth
+
+#### Salinity
+
+#### Flow Velocity
+
+#### Substrate
+
+Previous studies have presented conflicting information regarding the substrate preferences of spawning adult blueback herring, likely stemming from the generalization of alewives with blueback herring as river herring.
+Adult blueback herring spawn over both soft and hard substrates [@pardue_habitat_1983; @oconnell_spawning_1997; @brown_habitat_2000].
+
+Aside from their demonstrated dependence on soft substrates, spawning adult alewives also exhibit a pronounced inclination toward habitats containing sub-aquatic vegetation [@killgore_distribution_1988; @laney_relationship_1997].
+Comprehending and defining these substrate preferences is crucial to effectively manage and conserve the appropriate spawning habitats for alewives.
+
+### Larvae
+
++----------------------------+--------------------+-------------------------------+
+| **Parameter**              | Range              | **Habitat Suitability Value** |
++============================+====================+===============================+
+| A. Temperature (°C)        | $0 < t < 8$        | 0.0                           |
+|                            |                    |                               |
+|                            | $8 <= t < 12$      | 0.5                           |
+|                            |                    |                               |
+|                            | $12 <= t < 16$     | 1.0                           |
+|                            |                    |                               |
+|                            | $16 <= t < 22$     | 1.0                           |
+|                            |                    |                               |
+|                            | $22 <= t < 27$     | 0.5                           |
+|                            |                    |                               |
+|                            | $27 <= t < 30$     | 0.1                           |
+|                            |                    |                               |
+|                            | $t > 30$           | 0.0                           |
++----------------------------+--------------------+-------------------------------+
+| B. Depth (*meters*)        | $MLT < d < 2$      | 0.0                           |
+|                            |                    |                               |
+|                            | $2 <= d < 10$      | 0.5                           |
+|                            |                    |                               |
+|                            | $10 <= d < 20$     | 1.0                           |
+|                            |                    |                               |
+|                            | $20 <= d < 50$     | 0.5                           |
+|                            |                    |                               |
+|                            | $50 <= d < 100$    | 0.5                           |
+|                            |                    |                               |
+|                            | $d > 100$          | 0.5                           |
++----------------------------+--------------------+-------------------------------+
+| C. Salinity (*psu*)        | $0 < s < 0.5$      | 1.0                           |
+|                            |                    |                               |
+|                            | $0.5 <= s < 5.0$   | 1.0                           |
+|                            |                    |                               |
+|                            | $5.0 <= s < 15.0$  | 1.0                           |
+|                            |                    |                               |
+|                            | $15.0 <= s < 20.0$ | 0.5                           |
+|                            |                    |                               |
+|                            | $s > 20$           | 0.0                           |
++----------------------------+--------------------+-------------------------------+
+| D. Flow Velocity (*m/s*)   | $0 < v < 0.3$      | 1.0                           |
+|                            |                    |                               |
+|                            | $0.3 <= v < 1.5$   | 1.0                           |
+|                            |                    |                               |
+|                            | $1.5 <= v < 3.5$   | 0.5                           |
+|                            |                    |                               |
+|                            | $3.5 <= v < 4.5$   | 0.3                           |
+|                            |                    |                               |
+|                            | $v > 5$            | 0.0                           |
++----------------------------+--------------------+-------------------------------+
+| E. Substrate               | Hard Substrate     | 0.5                           |
+|                            |                    |                               |
+|                            | Soft Substrate     | 1.0                           |
+|                            |                    |                               |
+|                            | Present SAV        | 1.0                           |
+|                            |                    |                               |
+|                            | Absent SAV         | 0.5                           |
++----------------------------+--------------------+-------------------------------+
+
+: **Table 3.** Model Parameters and Habitat Suitability Values for Blueback Herring Larvae Stage.
+
+#### Temperature
+
+#### Depth
+
+#### Salinity
+
+#### Flow Velocity
+
+#### Substrate

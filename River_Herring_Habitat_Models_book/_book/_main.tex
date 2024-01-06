@@ -1,0 +1,1568 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+]{book}
+\usepackage{amsmath,amssymb}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math} % this also loads fontspec
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+\usepackage{lmodern}
+\ifPDFTeX\else
+  % xetex/luatex font selection
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\usepackage{longtable,booktabs,array}
+\usepackage{calc} % for calculating minipage widths
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\usepackage{graphicx}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{5}
+\newlength{\cslhangindent}
+\setlength{\cslhangindent}{1.5em}
+\newlength{\csllabelwidth}
+\setlength{\csllabelwidth}{3em}
+\newlength{\cslentryspacingunit} % times entry-spacing
+\setlength{\cslentryspacingunit}{\parskip}
+\newenvironment{CSLReferences}[2] % #1 hanging-ident, #2 entry spacing
+ {% don't indent paragraphs
+  \setlength{\parindent}{0pt}
+  % turn on hanging indent if param 1 is 1
+  \ifodd #1
+  \let\oldpar\par
+  \def\par{\hangindent=\cslhangindent\oldpar}
+  \fi
+  % set entry spacing
+  \setlength{\parskip}{#2\cslentryspacingunit}
+ }%
+ {}
+\usepackage{calc}
+\newcommand{\CSLBlock}[1]{#1\hfill\break}
+\newcommand{\CSLLeftMargin}[1]{\parbox[t]{\csllabelwidth}{#1}}
+\newcommand{\CSLRightInline}[1]{\parbox[t]{\linewidth - \csllabelwidth}{#1}\break}
+\newcommand{\CSLIndent}[1]{\hspace{\cslhangindent}#1}
+\usepackage{booktabs}
+\usepackage{amsthm}
+\makeatletter
+\def\thm@space@setup{%
+  \thm@preskip=8pt plus 2pt minus 4pt
+  \thm@postskip=\thm@preskip
+}
+\makeatother
+\ifLuaTeX
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same}
+\hypersetup{
+  pdftitle={River Herring Habitat in the Northeast United States},
+  pdfauthor={Vanessa Quintana, Justin Stevens},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+
+\title{River Herring Habitat in the Northeast United States}
+\author{Vanessa Quintana, Justin Stevens}
+\date{2024-01-06}
+
+\begin{document}
+\maketitle
+
+{
+\setcounter{tocdepth}{1}
+\tableofcontents
+}
+\hypertarget{preface}{%
+\chapter{Preface}\label{preface}}
+
+\hypertarget{background-and-history}{%
+\chapter{Background and History}\label{background-and-history}}
+
+\hypertarget{cross}{%
+\chapter{Methods}\label{cross}}
+
+\hypertarget{alewife-alosa-pseudoharengus}{%
+\chapter{\texorpdfstring{Alewife (\emph{Alosa pseudoharengus})}{Alewife (Alosa pseudoharengus)}}\label{alewife-alosa-pseudoharengus}}
+
+This chapter aims to explore the habitat preferences and life cycle of alewives ( \emph{Alosa pseudoharengus}) in the northeastern United States.
+Blueback herring populations have faced significant declines, leading to their classification as a ``species of concern'' by the U.S.
+National Marine Fisheries Service (National Marine Fisheries Service 2009).
+A combination of factors that have contributed to this decline, including deteriorating water quality, habitat loss, offshore bycatch/overfishing, increased predation, and dam construction (Kocovsky et al. 2008; National Marine Fisheries Service 2009; Bethoney, Stokesbury, and Cadrin 2014; Waldman and Quinn 2022).
+They have also been considered for inclusion in the U.S.
+Endangered Species List, as indicated in reports by the National Marine Fisheries Service in 2013 (National Marine Fisheries Service 2013).
+
+Recent stock assessment reports reveal diverse trends in documented alewife runs over the last ten years, with some populations showing signs of stabilization or even growth (ASMFC 2017).
+Additionally, in 2019, the National Marine Fisheries Service concluded that listing the alewife as threatened or endangered under the Endangered Species Act (ESA) was not warranted (National Marine Fisheries Service 2019).
+
+Alewives are widely distributed throughout the northeastern United States, thriving in freshwater rivers and estuaries along the Atlantic coast (ASMFC 1985).
+Historically, alewives have undertaken extensive migrations to spawn in freshwater tidal systems, but limited information is available about estuary and marine movements during the juvenile and adult phases for alewives (McCartin et al. 2019).
+
+This chapter explores the favorable habitat conditions for spawning alewife adults, non-migratory juveniles, and larvae, which are influenced by factors such as suitable spawning habitats, water quality conditions, and availability of appropriate food resources (Lynch et al. 2015).
+
+\hypertarget{life-cycle-overview}{%
+\section{Life cycle overview}\label{life-cycle-overview}}
+
+Alewives exhibit a complex life cycle characterized by distinct stages and behaviors.
+Spawning typically occurs in waves during the spring season, triggered by rising water temperatures and increasing day length (ASMFC 2009; McCartin et al. 2019; Able et al. 2020).
+Adult alewives migrate upstream from marine environments to reach suitable brackish or freshwater spawning habitats (H. B. Bigelow and Schroeder 1953; A. F. Bigelow et al. 2002).
+Recent observations show that alewife migration can also be correlated with the lunar phase (Legett et al. 2021).
+
+Alewives migration and spawning normally precedes that of bluebacks by 2--3 weeks (Fay, Neves, and Pardue 1983).
+Upon arrival at the spawning grounds, adult alewives engage in immense spawning runs, where large aggregations gather to deposit their adhesive eggs over a variety of substrates (O'Connell and Angermeier 1997; Able et al. 2020).
+After spawning, both males and females return to the marine environment(H. B. Bigelow and Schroeder 1953; A. F. Bigelow et al. 2002).
+
+In the spawning habitat, the incubation period for eggs typically lasts for 3-6 days (H. B. Bigelow and Schroeder 1953; Munroe 2000; A. F. Bigelow et al. 2002).
+Once hatched, the larvae begin their rapid migration downstream, eventually making their way towards estuary habitats where they will reside as they grow (Pardue 1983).
+This estuary environment serves as a nursery for juvenile alewives until they eventually migrate to the sea (Laney 1997; Kosa and Mather 2001).
+It is noteworthy that the survival rate for larvae is relatively low, with only a small percentage successfully reaching the sea for each female alewife that entered the spawning grounds.
+This percentage can be as low as 1\% or even less, depending on the specific conditions of the ecosystem (Kissil 1974).
+Similarly, mortality rates for migratory adults during a spawning season can reach as high as 90\% in southern regions (Brady et al. 2005).
+
+\hypertarget{habitat-requirements}{%
+\section{Habitat Requirements}\label{habitat-requirements}}
+
+\hypertarget{spawning-adult-alewives}{%
+\subsection{Spawning Adult Alewives}\label{spawning-adult-alewives}}
+
+Spawning adult alewives exhibit specific preferences and requirements related to habitat characteristics.
+Their annual migration during spawning is energetically demanding and notable variations in behavior have been observed.
+Some studies report fasting during the day and extensive feeding at night, while others document refraining from eating until their return downstream to productive tidal habitats (H. B. Bigelow and Schroeder 1953; Janssen and Brandt 1980; A. F. Bigelow et al. 2002).
+The preferred habitats for spawning are lacustrine and fluvial environments rather than riverine (Reback et al. 2004; Frank et al. 2011).
+
+\hypertarget{temperature}{%
+\subsubsection{Temperature}\label{temperature}}
+
+\begin{itemize}
+\tightlist
+\item
+  Alewives begin spawning at temperatures of 10.5 °C (Cianci 1969).
+\item
+  Upstream migration is reported to begin at temperatures between 5◦C and 10◦C (Loesch 1987), little instream movement occurs below 8◦C or over 18◦C (Collette and KleinMacPhee 2002), and spawning ceases at water temperatures exceeding 27◦C (Kissil 1974).
+\item
+  Appropriate spawning temperatures broadly fall between 10◦C and 22◦C (Tyus 1974; Pardue 1983; Collette and Klein-MacPhee 2002)
+\item
+  fish tagged when temperatures were 10.29--22.31◦C (O'Connell \& Angermeier, 1997)
+\end{itemize}
+
+Temperature preferences during spawning vary across studies, but there is a consensus that optimal temperatures for successful spawning fall within the range of 12 to 16 degrees Celsius (Brown et al. 2000).
+Suitable spawning temperatures broadly span from 12 to 22 degrees Celsius (Tyus 1974; Pardue 1983; Collette and Klein-MacPhee 2003; Mather et al. 2012) and during the migration inland, alewives tend to favor offshore locations where bottom temperatures are between 7 and 11 degrees Celsius (Munroe 2000).
+Spawning activity significantly diminishes above 27 degrees Celsius (Kissil 1974; Pardue 1983; Brown et al. 2000).
+Deviations from the optimal temperature range can significantly impact spawning success and the timing of migration.
+Water temperature also plays a critical role in alewife abundance and movement patterns (Legett et al. 2021).
+
+\hypertarget{depth}{%
+\subsubsection{Depth}\label{depth}}
+
+\begin{itemize}
+\tightlist
+\item
+  0.15--3 m Pardue (1983)
+\end{itemize}
+
+In terms of depth preferences, spawning adult alewives are generally known to favor depths ranging from Mean Low Tide (MLT) to 10 meters (Brown et al. 2000), but recent field observations indicate that a significant proportion of alewives can be found in habitats as shallow as 2 meters (Mather et al. 2012).
+Offshore alewives migrating inland have been documented to favor deeper depths (depth \textless{} 100m) (Pardue 1983; Munroe 2000).
+As such, alewives are capable of spawning in both shallow and deep water environments, highlighting their adaptability in selecting suitable spawning locations.
+
+\hypertarget{salinity}{%
+\subsubsection{Salinity}\label{salinity}}
+
+Further, documented behavior of alewives challenges the conventional belief that anadromous species exclusively depend on freshwater environments for spawning.
+Alewives have been observed spawning in freshwater habitats with minimal salinity concentrations, revealing a preference for environments with salinity levels below 0.5 psu.
+However, they can tolerate salinity levels as high as 8 psu for successful spawning, as documented in the study conducted by Able et al. (2020). More recently, Brown et al. (2000) emphasizes an additional heightened preference for habitats with salinity concentrations below 15 psu, while concentrations surpassing 20 psu are deemed unsuitable for spawning adults.
+Additionally, field studies have documented that adult alewives engage in spawning activities across a diverse array of estuarine habitats with varying salinity levels, including ponds within coastal systems, pond-like regions within coastal rivers and streams, oxbows, eddies, backwaters, stream pools, and flooded swamps (Pardue 1983; Mullen, Fay, and Moring 1986; Collette and Klein-MacPhee 2003; Walsh, Settle, and Peters 2005).
+
+\hypertarget{flow-velocity}{%
+\subsubsection{Flow Velocity}\label{flow-velocity}}
+
+\begin{itemize}
+\item
+  Because impingement of smaller species (alewife, bluebackherring, andwalleye)onthetail-waterweirscreenoccurred in initial 4.5m·s--1 trials, andbecauseperformance was poor under the 3.5m·s--1 condition (Fig. 4), these smallerspecieswerenotrunat4.5m·s--1. (Haro 2004)
+\item
+  alewives show a prefereance for lower velocities than blueback herring (haro 2004)
+\item
+  Tagged alewives spent little time in riffle--run habitats and substantial time in pools, although the locations of pool occupancy varied. (Mather et al., 2012)
+\item
+  Low velocities (0.0--1.7 m/s) (Walsh et al 2005)
+\item
+  \textless{} 0.30 m/s Pardue (1983)
+\end{itemize}
+
+Flow velocity is a crucial factor influencing the spawning of alewives (Tommasi et al. 2015).
+Alewives are thought to spawn in habitat that are slow moving with little or no current (Walsh, Settle, and Peters 2005).
+Pardue (1983) identifies velocities up to 0.3 m/s as suitable for spawning.
+However, Haro et al. (2004) conducted laboratory experiments showing that migratory alewives can travel farther distances upstream when flow velocities are up to 1.5 m/s, compared to 3.5 m/s.
+Notably, these experiments indicate some suitability at these flow velocities and very little suitability for upstream migration when velocities reach 4.5 m/s (Haro et al. 2004).
+Understanding the preferred flow velocities is essential in managing and preserving the habitat conditions required for successful alewife spawning.
+
+\hypertarget{substrate}{%
+\subsubsection{Substrate}\label{substrate}}
+
+Previous studies have presented conflicting information regarding the substrate preferences of spawning adult alewives, often stemming from the generalization of alewives with blueback herring as river herring.
+Moreover, although Brown et al. (2000) argues that substrate composition holds no significance in alewife models, contrasting observations from various sources present compelling evidence in favor of a more defined range of substrate preferences among spawning alewives (Fay, Neves, and Pardue 1983; Killgore, Morgan, and Hurley 1988; O'Connell and Angermeier 1997; Able et al. 2020).
+Adult alewives spawn over a range of unconsolidated substrates, including small gravel, sand, vegetation, and other soft substrates (Pardue 1983; O'Connell and Angermeier 1997; Brown et al. 2000).
+Aside from their demonstrated dependence on soft substrates, spawning adult alewives also exhibit a pronounced inclination toward habitats containing sub-aquatic vegetation (Killgore, Morgan, and Hurley 1988; Laney 1997).
+Comprehending and defining these substrate preferences is crucial to effectively manage and conserve the appropriate spawning habitats for alewives.
+
+\hypertarget{non-migratory-juveniles}{%
+\subsection{Non-Migratory Juveniles}\label{non-migratory-juveniles}}
+
+Non-migratory juvenile alewives exhibit distinct habitat preferences and requirements, which play a crucial role in influencing their survival and growth.
+Several factors influence the abundance and successful development of these young alewives, including river flow, temperature, salinity, depth, and substrate (Pardue 1983; Walsh, Settle, and Peters 2005; Tommasi et al. 2015).
+The preferred habitats for juvenile alewife are lacustrine and fluvial environments (Overton, Jones, and Rulifson 2012).
+
+\hypertarget{temperature-1}{%
+\subsubsection{Temperature}\label{temperature-1}}
+
+Temperature significantly influences the distribution, behavior, and early development of non-migratory juvenile alewives (Tommasi et al. 2015).
+Optimal temperatures for juvenile alewife development fall within the range of
+
+\begin{itemize}
+\item
+  12°C to 22°C Brown et al. (2000)
+\item
+  most juvenile recruitment in Delaware River at 22°C Potomac River at 22.3°C Nanticoke River 21.8°C (tommasi 2015)
+\item
+  The optimal nursery rearing temperature was 20--23 °C (tommasi 2015)
+\item
+  The optimal temperature for river herring juveniles during the nursery phase varied across systems and species, but ranged between 20 and 22 °C (tommasi)
+\item
+\item
+  exposure to temperature extremes during development in nursery habitats may constrain juvenile growth and decrease performance (Pörtner and Farrell 2008; Kellogg 1982; Henderson and Brown 1985; Overton et al.~2012).
+\item
+  broader suitability range for juvenile recruitment from 11°C to 28°C (Pardue 1983; Fay, Neves, and Pardue 1983; Klauda, Fischer, and Sullivan 1991; Brown et al. 2000; Munroe 2000; Tommasi et al. 2015).
+\end{itemize}
+
+Juvenile river herring do not survive temperatures of 3°C or less (Otto, Kitchel, and Rice 1976; Kellogg 1982; Pardue 1983).
+Maintaining water temperatures within these ranges is crucial for the successful development and overall health of non-migratory juvenile alewives and larvae.
+
+\hypertarget{depth-1}{%
+\subsubsection{Depth}\label{depth-1}}
+
+\begin{itemize}
+\item
+  MLT - 10 m Brown et al. (2000)
+\item
+\end{itemize}
+
+The depth preferences of non-migratory juvenile alewives differ from their adult counterparts, as juveniles exhibit a preference for depths ranging from 0 to 10 meters, with no habitat suitability observed beyond 20 meters (Brown et al. 2000; Höök et al. 2008).
+Research by Pardue (1983) further supports this finding, indicating that juveniles prefer depths between 0.5 to 5 meters, and that juvenile abundance increases around five meter depths (Pardue 1983).
+Overall, these field observations indicate that optimal depth for juvenile alewives \textgreater= 5 meters.
+
+\hypertarget{salinity-1}{%
+\subsubsection{Salinity}\label{salinity-1}}
+
+\begin{itemize}
+\tightlist
+\item
+  found up to 32 psu Pardue (1983)
+\item
+  prefer \textgreater{} 10 psu Brown et al. (2000)
+\item
+\end{itemize}
+
+Juvenile alewives exhibit a distinct salinity preference, favoring concentrations exceeding 10 psu and even tolerating levels up to 30 psu (Pardue 1983; Brown et al. 2000).
+Research by Fay, Neves, and Pardue (1983) notes their presence in areas with salinity below 12 psu, indicating adaptability to lower salinity environments.
+Turner and Limburg (2016) along with Able et al. (2020) emphasize the preference of juveniles for estuarine habitats with salinity concentrations spanning 0.5 to 25 psu, promoting an ideal balance between freshwater and marine conditions for growth.
+While salinities exceeding 20 psu might impede suitability by affecting feeding and physiological processes (Fabrizio et al. 2021), higher salinities up to 30 psu show minimal adverse effects on the health and survival of juvenile alewives, with a 100\% survival rate observed at 15 psu (DiMaggio et al. 2015).
+In summary, juvenile alewives exhibit a versatile salinity preference that ranges from thriving in concentrations exceeding 10 psu up to tolerating levels as high as 30 psu, highlighting their adaptability to diverse environments for optimal growth and survival.
+
+\hypertarget{flow-velocity-1}{%
+\subsubsection{Flow Velocity}\label{flow-velocity-1}}
+
+\begin{itemize}
+\tightlist
+\item
+  Numbers of recruits were maximized at a flow of 672 m3·s−1 and flow of6m3·s−1 (tommasi 2015)
+\end{itemize}
+
+Flow velocity is a crucial determinant of the development and survival of non-migratory juvenile alewives (Tommasi et al. 2015).
+Previous optimal velocities for larvae and egg development were observed from 0 to 0.3 m/s (Pardue 1983).
+Other studies document juvenile alewife preference for habitats with flow velocities ranging from 0.05 to 0.17 m/s (Richkus 1975; O'Connell and Angermeier 1999).
+Larval alewives are consistently found in water velocities up to approximately 0.12 m/s, but they are absent in faster currents (Ingel 2013).
+Slower flow rates offer suitable conditions for juveniles and larvae to conserve energy while effectively foraging for food (Haro et al. 2004).
+Conversely, higher flow velocities may hinder their ability to access critical food resources, maintain their position in the water column, and displace recently spawned eggs from their initial location (Haro et al. 2004; Able et al. 2020).
+Understanding the flow velocity preferences and effects on non-migratory juvenile alewives and larvae is crucial for effective habitat management and successful transition from egg to adulthood.
+
+\hypertarget{substrate-1}{%
+\subsubsection{Substrate}\label{substrate-1}}
+
+Non-migratory juvenile alewives exhibit diverse substrate preferences that reflect their adaptability to various environments.
+While previous studies suggest a preference for sandy substrates Fay, Neves, and Pardue (1983), more recent observations indicate a potential preference for rocky substrates (Janssen and Luebke 2004; Boscarino et al. 2020).
+Seagrass coverage also plays a vital role in the habitat of these juveniles.
+Despite some studies suggesting avoidance of areas with aquatic vegetation Ingel (2013), research by Laney (1997) and Smith and Rulifson (2015) demonstrates that seagrass beds provide essential nursery habitat, offering refuge from predators and abundant food sources.
+Seagrass beds enhance water quality by stabilizing sediments and promoting nutrient cycling, creating a favorable environment for juvenile alewives to thrive.
+These vegetated areas are also crucial for overwintering habitat (Killgore, Morgan, and Hurley 1988).
+Understanding these diverse substrate preferences and the importance of seagrass coverage is essential for effective habitat management and the successful development of non-migratory juvenile alewives.
+
+\hypertarget{eggs-larvae}{%
+\subsection{Eggs \& Larvae}\label{eggs-larvae}}
+
+\hypertarget{temperature-2}{%
+\subsubsection{Temperature}\label{temperature-2}}
+
+\begin{itemize}
+\item
+  most larvae growth at 26.4 with optimal estimated at 26.3 Pardue (1983)
+\item
+  hatching success ceases entirely above 29.7°C Kellogg (1982); Pardue (1983)
+\item
+  Moreover, temperature can reduce the suitability of nursery areas by influencing predation rates (Tommasi 2015).
+\item
+  Chowan River was the only system in which June maximum air temperature reached values above both the temperature of maximum alewife larval growth rate (29.1 °C) and their upper thermal tolerance (31 °C) (Kellogg 1982)
+\item
+  peak densities were positively associated with peaks in water temperature (within the range of 4-19 C) (O'Connell \& Angermeier, 1999).
+\end{itemize}
+
+\hypertarget{depth-2}{%
+\subsubsection{Depth}\label{depth-2}}
+
+Lake Ontario research by Ingel (2013) found that early post-hatch larvae are abundant in depths less than 3 meters, while larger larvae occupy progressively deeper habitats.
+Similarly, observations in Nova Scotia's Margaree River indicate that alewife larvae predominantly reside in depths shallower than 2 meters.
+These shallow-water habitats provide protection from predators and access to food sources, eventually facilitating growth and development into a juvenile.
+
+\begin{itemize}
+\tightlist
+\item
+  \textless{} 2 m Pardue (1983)
+\end{itemize}
+
+\hypertarget{salinity-2}{%
+\subsubsection{Salinity}\label{salinity-2}}
+
+\begin{itemize}
+\item
+  \textless{} 12 ppt Pardue (1983)
+\item
+  After hatching, the larvae and small juveniles use freshwater streams (Kosa and Mather 2001; tommasi 2015)
+\end{itemize}
+
+\hypertarget{flow-velocity-2}{%
+\subsubsection{Flow Velocity}\label{flow-velocity-2}}
+
+\begin{itemize}
+\item
+  Occurrences of alewife early egg stages were positively related velocity (3-20 cm/s) (O'Connell \& Angermeier, 1999)
+\item
+  Data from the Delaware River show that too high flows may also be detrimental to juvenile recruitment. High flow increases water velocity and may create high velocity barriers that reduce the swimming performance of anadromous fish (Haro et al.~2004).
+\end{itemize}
+
+\hypertarget{substrate-2}{%
+\subsubsection{Substrate}\label{substrate-2}}
+
+\hypertarget{habitat-suitability-models}{%
+\section{Habitat suitability models}\label{habitat-suitability-models}}
+
+The Alewives Habitat Suitability models, originally developed by Brown et al. (2000) and Pardue (1983), with reliance on similar sources such as H. B. Bigelow and Schroeder (1953), possess several limitations that make them inadequate for current applications.
+Primarily, these models are constructed solely on observations of alewives' daytime behavior, neglecting their significant nocturnal activity patterns.
+Recent studies have revealed that alewives are primarily active at night, engaging in feeding and exhibiting substantial downstream movement during these nocturnal periods (Janssen 1978; Janssen and Brandt 1980; McCartin et al. 2019).
+Collette and Klein-MacPhee (2003) even notes that groups of alewives spawn in the evening.
+Consequently, the exclusive focus on daytime behavior in the existing models fails to capture the true habitat preferences and requirements of alewives, particularly in estuary and brackish environments.
+
+Furthermore, the current models predominantly consider variables such as temperature, depth, and substrate, while disregarding other crucial factors that significantly influence alewives' habitat selection, including flow velocity, sub-aquatic vegetation, and life stage differences.
+This limited scope results in incomplete assessments of habitat suitability.
+Moreover, the existing models fall short of encompassing the comprehensive spectrum of knowledge available for alewives, as inconsistencies and potential inaccuracies emerge from conflicting information concerning substrate, salinity, and depth preferences.
+These limitations undermine the models' effectiveness in predicting habitat suitability for alewives, and since the release of these models, updated observations and stock assessments have been published that offer more detailed information on the habitat for alewives.
+
+To address these shortcomings, updated models should encompass a more comprehensive understanding of alewives' behavior, specifically acknowledging their use of estuarine and brackish habitats.
+These habitats serve as critical areas for alewives, exhibiting relatively high levels of habitat use (McCartin et al. 2019; Stevens, Saunders, and Duffy 2021).
+Incorporating these estuarine and brackish areas into management strategies is of paramount importance to ensure the conservation and successful management of the species.
+Notably, utilizing estuaries and brackish habitats for spawning may offer energetically favorable conditions for alewives, as it eliminates the need for them to acclimate to complete freshwater environments (DiMaggio et al. 2015).
+This recognition highlights the significance of incorporating these habitats into conservation efforts and management plans to safeguard the species and support their reproductive success.
+
+\hypertarget{spawning-adult-alewives-1}{%
+\subsection{Spawning Adult Alewives}\label{spawning-adult-alewives-1}}
+
+The updated HSI model for spawning adult alewives introduces several noteworthy breakpoints that distinguish it from previous models.
+These breakpoints provide a more refined understanding of alewife habitat preferences and suitability.
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.3494}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.2530}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.3855}}@{}}
+\toprule\noalign{}
+\begin{minipage}[b]{\linewidth}\raggedright
+\textbf{Parameter}
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Range
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+\textbf{Habitat Suitability Value}
+\end{minipage} \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+A. Temperature (°C) & \(0 < t < 8\)
+
+\(8 <= t < 12\)
+
+\(12 <= t < 16\)
+
+\(16 <= t < 22\)
+
+\(22 <= t < 27\)
+
+\(27 <= t < 30\)
+
+\(t > 30\) & 0.0
+
+0.5
+
+1.0
+
+1.0
+
+0.5
+
+0.1
+
+0.0 \\
+B. Depth (\emph{meters}) & \(MLT < d < 2\)
+
+\(2 <= d < 10\)
+
+\(10 <= d < 20\)
+
+\(20 <= d < 50\)
+
+\(50 <= d < 100\)
+
+\(d > 100\) & 0.0
+
+0.5
+
+1.0
+
+0.5
+
+0.5
+
+0.5 \\
+C. Salinity (\emph{psu}) & \(0 < s < 0.5\)
+
+\(0.5 <= s < 5.0\)
+
+\(5.0 <= s < 15.0\)
+
+\(15.0 <= s < 20.0\)
+
+\(s > 20\) & 1.0
+
+1.0
+
+1.0
+
+0.5
+
+0.0 \\
+D. Flow Velocity (\emph{m/s}) & \(0 < v < 0.3\)
+
+\(0.3 <= v < 1.5\)
+
+\(1.5 <= v < 3.5\)
+
+\(3.5 <= v < 4.5\)
+
+\(v > 5\) & 1.0
+
+1.0
+
+0.5
+
+0.3
+
+0.0 \\
+E. Substrate & Hard Substrate
+
+Soft Substrate
+
+Present SAV
+
+Absent SAV & 0.5
+
+1.0
+
+1.0
+
+0.5 \\
+\end{longtable}
+
+\textbf{Table 1.} Model Parameters and Habitat Suitability Values for Spawning Adult Alewives
+
+\hypertarget{temperature-3}{%
+\subsubsection{Temperature}\label{temperature-3}}
+
+In contrast to earlier models, the new HSI model delineates mean daily temperature preferences with greater accuracy.
+While previous models often employed broader temperature categories, the current model introduces finer distinctions.
+For instance, the new model identifies a specific range (12 to 16 degrees Celsius) where alewives exhibit peak suitability, providing a more accurate depiction of their thermal requirements for successful spawning.
+Moreover, the model highlights an upper mean daily temperature limit (27 degrees Celsius) where suitability drastically decreases, emphasizing the importance of maintaining suitable thermal conditions in spawning habitats.
+
+\hypertarget{depth-3}{%
+\subsubsection{Depth}\label{depth-3}}
+
+The updated model also offers more detailed depth preferences.
+Previous models might have employed generalized depth categories, but the new model introduces distinct depth ranges.
+This allows for a more refined assessment of habitat suitability.
+For instance, the new model specifies a peak suitability range (2 to 10 meters), reflecting the depth preferences of spawning adult alewives more accurately.
+Additionally, it identifies a depth threshold (100 meters) beyond which habitats are unsuitable for spawning.
+
+\hypertarget{salinity-3}{%
+\subsubsection{Salinity}\label{salinity-3}}
+
+The new HSI model also refines the depiction of alewife salinity preferences.
+Unlike earlier models, which may have had narrow salinity categories, the updated model provides a more nuanced view.
+It pinpoints a specific range (0 to 5 psu) where alewives exhibit the highest suitability, aligning closely with empirical data.
+Moreover, it designates a clear upper limit (20 psu) where suitability declines significantly, indicating the importance of maintaining lower salinity levels in suitable habitats.
+
+\hypertarget{flow-velocity-3}{%
+\subsubsection{Flow Velocity}\label{flow-velocity-3}}
+
+The new model enhances our understanding of alewife flow velocity preferences.
+While previous models might have used less specific flow velocity categories, the updated model introduces distinct ranges.
+For example, it highlights a range (0 to 0.3 meters per second) where alewives demonstrate the highest suitability and extends moderate suitability to a broader range (0.3 to 1.5 meters per second), offering a more defined view of their flow velocity requirements.
+Additionally, it designates an upper threshold (4.5 meters per second) beyond which habitat would be considered unsuitable, in line with observed behaviors.
+
+\hypertarget{substrate-3}{%
+\subsubsection{Substrate}\label{substrate-3}}
+
+Substrate preferences remain a crucial aspect of spawning habitat for alewives.
+Previous models have employed general substrate categories, while the new model emphasizes the significance of diverse substrate types, including soft (e.g.~small gravel, sand, silt, detritus) and hard substrates (e.g.~cobble, rock, boulders, clam beds), as well as sub-aquatic vegetation (i.e.~absence/presence).
+
+\hypertarget{non-migratory-juveniles-1}{%
+\subsection{Non-Migratory Juveniles}\label{non-migratory-juveniles-1}}
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.3494}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.2530}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.3855}}@{}}
+\caption{\textbf{Table 2.} Model Parameters and Habitat Suitability Values for Non-Migratory Juvenile Alewives}\tabularnewline
+\toprule\noalign{}
+\begin{minipage}[b]{\linewidth}\raggedright
+\textbf{Parameter}
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Range
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+\textbf{Habitat Suitability Value}
+\end{minipage} \\
+\midrule\noalign{}
+\endfirsthead
+\toprule\noalign{}
+\begin{minipage}[b]{\linewidth}\raggedright
+\textbf{Parameter}
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Range
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+\textbf{Habitat Suitability Value}
+\end{minipage} \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+A. Temperature (°C) & \(0 < t < 8\)
+
+\(8 <= t < 12\)
+
+\(12 <= t < 16\)
+
+\(16 <= t < 22\)
+
+\(22 <= t < 27\)
+
+\(27 <= t < 30\)
+
+\(t > 30\) & 0.0
+
+0.5
+
+1.0
+
+1.0
+
+0.5
+
+0.1
+
+0.0 \\
+B. Depth (\emph{meters}) & \(MLT < d < 2\)
+
+\(2 <= d < 10\)
+
+\(10 <= d < 20\)
+
+\(20 <= d < 50\)
+
+\(50 <= d < 100\)
+
+\(d > 100\) & 0.0
+
+0.5
+
+1.0
+
+0.5
+
+0.5
+
+0.5 \\
+C. Salinity (\emph{psu}) & \(0 < s < 0.5\)
+
+\(0.5 <= s < 5.0\)
+
+\(5.0 <= s < 15.0\)
+
+\(15.0 <= s < 20.0\)
+
+\(s > 20\) & 1.0
+
+1.0
+
+1.0
+
+0.5
+
+0.0 \\
+D. Flow Velocity (\emph{m/s}) & \(0 < v < 0.3\)
+
+\(0.3 <= v < 1.5\)
+
+\(1.5 <= v < 3.5\)
+
+\(3.5 <= v < 4.5\)
+
+\(v > 5\) & 1.0
+
+1.0
+
+0.5
+
+0.3
+
+0.0 \\
+E. Substrate & Hard Substrate
+
+Soft Substrate
+
+Present SAV
+
+Absent SAV & 0.5
+
+1.0
+
+1.0
+
+0.5 \\
+\end{longtable}
+
+\hypertarget{temperature-4}{%
+\subsubsection{Temperature}\label{temperature-4}}
+
+\hypertarget{depth-4}{%
+\subsubsection{Depth}\label{depth-4}}
+
+\hypertarget{salinity-4}{%
+\subsubsection{Salinity}\label{salinity-4}}
+
+\hypertarget{flow-velocity-4}{%
+\subsubsection{Flow Velocity}\label{flow-velocity-4}}
+
+\hypertarget{substrate-4}{%
+\subsubsection{Substrate}\label{substrate-4}}
+
+\hypertarget{eggs-larvae-1}{%
+\subsection{Eggs \& Larvae}\label{eggs-larvae-1}}
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.3494}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.2530}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.3855}}@{}}
+\caption{\textbf{Table 3.} Model Parameters and Habitat Suitability Values for Alewife Larvae and Egg Development Stages}\tabularnewline
+\toprule\noalign{}
+\begin{minipage}[b]{\linewidth}\raggedright
+\textbf{Parameter}
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Range
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+\textbf{Habitat Suitability Value}
+\end{minipage} \\
+\midrule\noalign{}
+\endfirsthead
+\toprule\noalign{}
+\begin{minipage}[b]{\linewidth}\raggedright
+\textbf{Parameter}
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Range
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+\textbf{Habitat Suitability Value}
+\end{minipage} \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+A. Temperature (°C) & \(0 < t < 8\)
+
+\(8 <= t < 12\)
+
+\(12 <= t < 16\)
+
+\(16 <= t < 22\)
+
+\(22 <= t < 27\)
+
+\(27 <= t < 30\)
+
+\(t > 30\) & 0.0
+
+0.5
+
+1.0
+
+1.0
+
+0.5
+
+0.1
+
+0.0 \\
+B. Depth (\emph{meters}) & \(MLT < d < 2\)
+
+\(2 <= d < 10\)
+
+\(10 <= d < 20\)
+
+\(20 <= d < 50\)
+
+\(50 <= d < 100\)
+
+\(d > 100\) & 0.0
+
+0.5
+
+1.0
+
+0.5
+
+0.5
+
+0.5 \\
+C. Salinity (\emph{psu}) & \(0 < s < 0.5\)
+
+\(0.5 <= s < 5.0\)
+
+\(5.0 <= s < 15.0\)
+
+\(15.0 <= s < 20.0\)
+
+\(s > 20\) & 1.0
+
+1.0
+
+1.0
+
+0.5
+
+0.0 \\
+D. Flow Velocity (\emph{m/s}) & \(0 < v < 0.3\)
+
+\(0.3 <= v < 1.5\)
+
+\(1.5 <= v < 3.5\)
+
+\(3.5 <= v < 4.5\)
+
+\(v > 5\) & 1.0
+
+1.0
+
+0.5
+
+0.3
+
+0.0 \\
+E. Substrate & Hard Substrate
+
+Soft Substrate
+
+Present SAV
+
+Absent SAV & 0.5
+
+1.0
+
+1.0
+
+0.5 \\
+\end{longtable}
+
+\hypertarget{temperature-5}{%
+\subsubsection{Temperature}\label{temperature-5}}
+
+\hypertarget{depth-5}{%
+\subsubsection{Depth}\label{depth-5}}
+
+\hypertarget{salinity-5}{%
+\subsubsection{Salinity}\label{salinity-5}}
+
+\hypertarget{flow-velocity-5}{%
+\subsubsection{Flow Velocity}\label{flow-velocity-5}}
+
+\hypertarget{substrate-5}{%
+\subsubsection{Substrate}\label{substrate-5}}
+
+\hypertarget{blueback-herring-alosa-aestivalis}{%
+\chapter{\texorpdfstring{Blueback Herring (\emph{Alosa aestivalis})}{Blueback Herring (Alosa aestivalis)}}\label{blueback-herring-alosa-aestivalis}}
+
+This chapter aims to explore the habitat preferences and life cycle of blueback herring (\emph{Alosa aestivalis}) in the northeastern United States.
+Alewives have faced significant declines,
+
+This chapter explores the favorable habitat conditions for spawning alewife adults, non-migratory juveniles, and larvae, which are influenced by factors such as suitable spawning habitats, water quality conditions, and availability of appropriate food resources (Lynch et al. 2015).
+
+\hypertarget{life-cycle-overview-1}{%
+\section{Life cycle overview}\label{life-cycle-overview-1}}
+
+\hypertarget{habitat-requirements-1}{%
+\section{Habitat Requirements}\label{habitat-requirements-1}}
+
+\hypertarget{spawning-adults}{%
+\subsection{Spawning Adults}\label{spawning-adults}}
+
+\hypertarget{temperature-6}{%
+\subsubsection{Temperature}\label{temperature-6}}
+
+\begin{itemize}
+\item
+  move into estuary begins at 14 and ceases at 27 Pardue (1983)
+\item
+  range 17 - 26 and optimal 20 - 24 @pardue\_habitat\_1983
+\item
+  spawning stops at 27 Pardue (1983)
+\item
+  Our results demonstrate that the spawning temperature that maximized juvenile blueback herring abundance in the Delaware River was 11 °C (tommasi 2015)
+\end{itemize}
+
+\hypertarget{depth-6}{%
+\subsubsection{Depth}\label{depth-6}}
+
+\begin{itemize}
+\item
+  most found 5 - 20 meters, rarely above 40 Pardue (1983)
+\item
+\end{itemize}
+
+\hypertarget{salinity-6}{%
+\subsubsection{Salinity}\label{salinity-6}}
+
+\hypertarget{flow-velocity-6}{%
+\subsubsection{Flow Velocity}\label{flow-velocity-6}}
+
+\begin{itemize}
+\tightlist
+\item
+  blueback herring show a preferance for higher velocities than alewives (haro 2004)
+\item
+  Low velocities (0.0--1.7 m/s) (Walsh et al 2005)
+\item
+  0.11 m/s (O'Connell \& Angermeier, 1997)
+\end{itemize}
+
+\hypertarget{substrate-6}{%
+\subsubsection{Substrate}\label{substrate-6}}
+
+\begin{itemize}
+\item
+  Blueback herring do not usually spawn as far upstream as the alewife and selectively choose spawning sites in fast-flowing water over a hard substrate, particularly in shared spawning grounds (Loesch and Lund 1977; Jones et al.~1978; Scott and Scott 1988).
+\item
+\end{itemize}
+
+\hypertarget{non-migratory-juveniles-2}{%
+\subsection{Non-Migratory Juveniles}\label{non-migratory-juveniles-2}}
+
+\hypertarget{temperature-7}{%
+\subsubsection{Temperature}\label{temperature-7}}
+
+\hypertarget{depth-7}{%
+\subsubsection{Depth}\label{depth-7}}
+
+\hypertarget{salinity-7}{%
+\subsubsection{Salinity}\label{salinity-7}}
+
+\hypertarget{flow-velocity-7}{%
+\subsubsection{Flow Velocity}\label{flow-velocity-7}}
+
+\hypertarget{substrate-7}{%
+\subsubsection{Substrate}\label{substrate-7}}
+
+\hypertarget{larvae}{%
+\subsection{Larvae}\label{larvae}}
+
+\hypertarget{temperature-8}{%
+\subsubsection{Temperature}\label{temperature-8}}
+
+\begin{itemize}
+\tightlist
+\item
+  blueback herring early egg stages were positively related to water temperature (14-22°C). (O'Connell \& Angermeier, 1999)
+\end{itemize}
+
+\hypertarget{depth-8}{%
+\subsubsection{Depth}\label{depth-8}}
+
+\hypertarget{salinity-8}{%
+\subsubsection{Salinity}\label{salinity-8}}
+
+\hypertarget{flow-velocity-8}{%
+\subsubsection{Flow Velocity}\label{flow-velocity-8}}
+
+\hypertarget{substrate-8}{%
+\subsubsection{Substrate}\label{substrate-8}}
+
+\hypertarget{habitat-suitability-models-1}{%
+\section{Habitat suitability models}\label{habitat-suitability-models-1}}
+
+\hypertarget{spawning-adults-1}{%
+\subsection{Spawning Adults}\label{spawning-adults-1}}
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.3494}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.2530}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.3855}}@{}}
+\caption{\textbf{Table 1.} Model Parameters and Habitat Suitability Values for Spawning Adult Blueback Herring.}\tabularnewline
+\toprule\noalign{}
+\begin{minipage}[b]{\linewidth}\raggedright
+\textbf{Parameter}
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Range
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+\textbf{Habitat Suitability Value}
+\end{minipage} \\
+\midrule\noalign{}
+\endfirsthead
+\toprule\noalign{}
+\begin{minipage}[b]{\linewidth}\raggedright
+\textbf{Parameter}
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Range
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+\textbf{Habitat Suitability Value}
+\end{minipage} \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+A. Temperature (°C) & \(0 < t < 8\)
+
+\(8 <= t < 12\)
+
+\(12 <= t < 16\)
+
+\(16 <= t < 22\)
+
+\(22 <= t < 27\)
+
+\(27 <= t < 30\)
+
+\(t > 30\) & 0.0
+
+0.5
+
+1.0
+
+1.0
+
+0.5
+
+0.1
+
+0.0 \\
+B. Depth (\emph{meters}) & \(MLT < d < 2\)
+
+\(2 <= d < 10\)
+
+\(10 <= d < 20\)
+
+\(20 <= d < 50\)
+
+\(50 <= d < 100\)
+
+\(d > 100\) & 0.0
+
+0.5
+
+1.0
+
+0.5
+
+0.5
+
+0.5 \\
+C. Salinity (\emph{psu}) & \(0 < s < 0.5\)
+
+\(0.5 <= s < 5.0\)
+
+\(5.0 <= s < 15.0\)
+
+\(15.0 <= s < 20.0\)
+
+\(s > 20\) & 1.0
+
+1.0
+
+1.0
+
+0.5
+
+0.0 \\
+D. Flow Velocity (\emph{m/s}) & \(0 < v < 0.3\)
+
+\(0.3 <= v < 1.5\)
+
+\(1.5 <= v < 3.5\)
+
+\(3.5 <= v < 4.5\)
+
+\(v > 5\) & 1.0
+
+1.0
+
+0.5
+
+0.3
+
+0.0 \\
+E. Substrate & Hard Substrate
+
+Soft Substrate
+
+Present SAV
+
+Absent SAV & 0.5
+
+1.0
+
+1.0
+
+0.5 \\
+\end{longtable}
+
+\hypertarget{temperature-9}{%
+\subsubsection{Temperature}\label{temperature-9}}
+
+\hypertarget{depth-9}{%
+\subsubsection{Depth}\label{depth-9}}
+
+\hypertarget{salinity-9}{%
+\subsubsection{Salinity}\label{salinity-9}}
+
+\hypertarget{flow-velocity-9}{%
+\subsubsection{Flow Velocity}\label{flow-velocity-9}}
+
+\hypertarget{substrate-9}{%
+\subsubsection{Substrate}\label{substrate-9}}
+
+\hypertarget{non-migratory-juveniles-3}{%
+\subsection{Non-Migratory Juveniles}\label{non-migratory-juveniles-3}}
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.3494}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.2530}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.3855}}@{}}
+\caption{\textbf{Table 2.} Model Parameters and Habitat Suitability Values for Non-Migratory Juvenile Blueback Herring.}\tabularnewline
+\toprule\noalign{}
+\begin{minipage}[b]{\linewidth}\raggedright
+\textbf{Parameter}
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Range
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+\textbf{Habitat Suitability Value}
+\end{minipage} \\
+\midrule\noalign{}
+\endfirsthead
+\toprule\noalign{}
+\begin{minipage}[b]{\linewidth}\raggedright
+\textbf{Parameter}
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Range
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+\textbf{Habitat Suitability Value}
+\end{minipage} \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+A. Temperature (°C) & \(0 < t < 8\)
+
+\(8 <= t < 12\)
+
+\(12 <= t < 16\)
+
+\(16 <= t < 22\)
+
+\(22 <= t < 27\)
+
+\(27 <= t < 30\)
+
+\(t > 30\) & 0.0
+
+0.5
+
+1.0
+
+1.0
+
+0.5
+
+0.1
+
+0.0 \\
+B. Depth (\emph{meters}) & \(MLT < d < 2\)
+
+\(2 <= d < 10\)
+
+\(10 <= d < 20\)
+
+\(20 <= d < 50\)
+
+\(50 <= d < 100\)
+
+\(d > 100\) & 0.0
+
+0.5
+
+1.0
+
+0.5
+
+0.5
+
+0.5 \\
+C. Salinity (\emph{psu}) & \(0 < s < 0.5\)
+
+\(0.5 <= s < 5.0\)
+
+\(5.0 <= s < 15.0\)
+
+\(15.0 <= s < 20.0\)
+
+\(s > 20\) & 1.0
+
+1.0
+
+1.0
+
+0.5
+
+0.0 \\
+D. Flow Velocity (\emph{m/s}) & \(0 < v < 0.3\)
+
+\(0.3 <= v < 1.5\)
+
+\(1.5 <= v < 3.5\)
+
+\(3.5 <= v < 4.5\)
+
+\(v > 5\) & 1.0
+
+1.0
+
+0.5
+
+0.3
+
+0.0 \\
+E. Substrate & Hard Substrate
+
+Soft Substrate
+
+Present SAV
+
+Absent SAV & 0.5
+
+1.0
+
+1.0
+
+0.5 \\
+\end{longtable}
+
+\hypertarget{temperature-10}{%
+\subsubsection{Temperature}\label{temperature-10}}
+
+\hypertarget{depth-10}{%
+\subsubsection{Depth}\label{depth-10}}
+
+\hypertarget{salinity-10}{%
+\subsubsection{Salinity}\label{salinity-10}}
+
+\hypertarget{flow-velocity-10}{%
+\subsubsection{Flow Velocity}\label{flow-velocity-10}}
+
+\hypertarget{substrate-10}{%
+\subsubsection{Substrate}\label{substrate-10}}
+
+Previous studies have presented conflicting information regarding the substrate preferences of spawning adult blueback herring, likely stemming from the generalization of alewives with blueback herring as river herring.
+Adult blueback herring spawn over both soft and hard substrates (Pardue 1983; O'Connell and Angermeier 1997; Brown et al. 2000).
+
+Aside from their demonstrated dependence on soft substrates, spawning adult alewives also exhibit a pronounced inclination toward habitats containing sub-aquatic vegetation (Killgore, Morgan, and Hurley 1988; Laney 1997).
+Comprehending and defining these substrate preferences is crucial to effectively manage and conserve the appropriate spawning habitats for alewives.
+
+\hypertarget{larvae-1}{%
+\subsection{Larvae}\label{larvae-1}}
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.3494}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.2530}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.3855}}@{}}
+\caption{\textbf{Table 3.} Model Parameters and Habitat Suitability Values for Blueback Herring Larvae Stage.}\tabularnewline
+\toprule\noalign{}
+\begin{minipage}[b]{\linewidth}\raggedright
+\textbf{Parameter}
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Range
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+\textbf{Habitat Suitability Value}
+\end{minipage} \\
+\midrule\noalign{}
+\endfirsthead
+\toprule\noalign{}
+\begin{minipage}[b]{\linewidth}\raggedright
+\textbf{Parameter}
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Range
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+\textbf{Habitat Suitability Value}
+\end{minipage} \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+A. Temperature (°C) & \(0 < t < 8\)
+
+\(8 <= t < 12\)
+
+\(12 <= t < 16\)
+
+\(16 <= t < 22\)
+
+\(22 <= t < 27\)
+
+\(27 <= t < 30\)
+
+\(t > 30\) & 0.0
+
+0.5
+
+1.0
+
+1.0
+
+0.5
+
+0.1
+
+0.0 \\
+B. Depth (\emph{meters}) & \(MLT < d < 2\)
+
+\(2 <= d < 10\)
+
+\(10 <= d < 20\)
+
+\(20 <= d < 50\)
+
+\(50 <= d < 100\)
+
+\(d > 100\) & 0.0
+
+0.5
+
+1.0
+
+0.5
+
+0.5
+
+0.5 \\
+C. Salinity (\emph{psu}) & \(0 < s < 0.5\)
+
+\(0.5 <= s < 5.0\)
+
+\(5.0 <= s < 15.0\)
+
+\(15.0 <= s < 20.0\)
+
+\(s > 20\) & 1.0
+
+1.0
+
+1.0
+
+0.5
+
+0.0 \\
+D. Flow Velocity (\emph{m/s}) & \(0 < v < 0.3\)
+
+\(0.3 <= v < 1.5\)
+
+\(1.5 <= v < 3.5\)
+
+\(3.5 <= v < 4.5\)
+
+\(v > 5\) & 1.0
+
+1.0
+
+0.5
+
+0.3
+
+0.0 \\
+E. Substrate & Hard Substrate
+
+Soft Substrate
+
+Present SAV
+
+Absent SAV & 0.5
+
+1.0
+
+1.0
+
+0.5 \\
+\end{longtable}
+
+\hypertarget{temperature-11}{%
+\subsubsection{Temperature}\label{temperature-11}}
+
+\hypertarget{depth-11}{%
+\subsubsection{Depth}\label{depth-11}}
+
+\hypertarget{salinity-11}{%
+\subsubsection{Salinity}\label{salinity-11}}
+
+\hypertarget{flow-velocity-11}{%
+\subsubsection{Flow Velocity}\label{flow-velocity-11}}
+
+\hypertarget{substrate-11}{%
+\subsubsection{Substrate}\label{substrate-11}}
+
+\hypertarget{application}{%
+\chapter{Application}\label{application}}
+
+\hypertarget{validation}{%
+\chapter{Validation}\label{validation}}
+
+\hypertarget{discussion}{%
+\chapter{Discussion}\label{discussion}}
+
+\hypertarget{summary}{%
+\chapter{Summary}\label{summary}}
+
+\hypertarget{references}{%
+\chapter*{References}\label{references}}
+\addcontentsline{toc}{chapter}{References}
+
+\hypertarget{appendices}{%
+\chapter*{Appendices}\label{appendices}}
+\addcontentsline{toc}{chapter}{Appendices}
+
+\hypertarget{refs}{}
+\begin{CSLReferences}{1}{0}
+\leavevmode\vadjust pre{\hypertarget{ref-able_alewife_2020}{}}%
+Able, K. W., T. M. Grothues, M. J. Shaw, S. M. VanMorter, M. C. Sullivan, and D. D. Ambrose. 2020. {``Alewife ({Alosa} Pseudoharengus) Spawning and Nursery Areas in a Sentinel Estuary: Spatial and Temporal Patterns.''} \emph{Environmental Biology of Fishes} 103 (11): 1419--36. \url{https://doi.org/10.1007/s10641-020-01032-0}.
+
+\leavevmode\vadjust pre{\hypertarget{ref-asmfc_fishery_1985}{}}%
+ASMFC. 1985. {``Fishery {Management} {Plan} for {American} {Shad} and {River} {Herrings}.''} Fisheries \{Management\} \{Report\} 6. Washington, D. C. 20036: Atlantic States Marine Fisheries Commission.
+
+\leavevmode\vadjust pre{\hypertarget{ref-asmfc_amendment_2009}{}}%
+---------. 2009. {``{AMENDMENT} 2 to the {Interstate} {Fishery} {Management} {Plan} for {SHAD} {AND} {RIVER} {HERRING} ({River} {Herring} {Management}).''} Fisheries \{Management\} \{Report\} 35. Washington, D. C. 20036: Atlantic States Marine Fisheries Commission.
+
+\leavevmode\vadjust pre{\hypertarget{ref-asmfc_river_2017}{}}%
+---------. 2017. {``River {Herring} {Stock} {Assessment} {Update} {Volume} {I}: {Coastwide} {Summary}.''} Stock \{Assessment\} \{Report\} 12-02. Washington, D. C.: Atlantic States Marine Fisheries Commission.
+
+\leavevmode\vadjust pre{\hypertarget{ref-bethoney_environmental_2014}{}}%
+Bethoney, N. David, Kevin D. E. Stokesbury, and Steven X. Cadrin. 2014. {``Environmental Links to Alosine at-Sea Distribution and Bycatch in the {Northwest} {Atlantic} Midwater Trawl Fishery.''} \emph{ICES Journal of Marine Science} 71 (5): 1246--55. \url{https://doi.org/10.1093/icesjms/fst013}.
+
+\leavevmode\vadjust pre{\hypertarget{ref-bigelow_bigelow_2002}{}}%
+Bigelow, Andrew Frank, William C. Schroeder, Bruce B. Collette, Grace Klein-MacPhee, and Henry Bryant Bigelow. 2002. \emph{Bigelow and {Schroeder}'s Fishes of the {Gulf} of {Maine}}. 3rd ed. Washington, DC: Smithsonian Institution Press.
+
+\leavevmode\vadjust pre{\hypertarget{ref-bigelow_fishes_1953}{}}%
+Bigelow, Henry Bryant, and William Schroeder. 1953. \emph{Fishes of the {Gulf} of {Maine}}. 7135th Series. Fish Bulletin. \url{http://www.gma.org/fogm/}.
+
+\leavevmode\vadjust pre{\hypertarget{ref-boscarino_influence_2020}{}}%
+Boscarino, Brent T., Sonomi Oyagi, Elinor K. Stapylton, Katherine E. McKeon, Noland O. Michels, Susan F. Cushman, and Meghan E. Brown. 2020. {``The Influence of Light, Substrate, and Fish on the Habitat Preferences of the Invasive Bloody Red Shrimp, {Hemimysis} Anomala.''} \emph{Journal of Great Lakes Research} 46 (2): 311--22. \url{https://doi.org/10.1016/j.jglr.2020.01.004}.
+
+\leavevmode\vadjust pre{\hypertarget{ref-brady_part_2005}{}}%
+Brady, P. D., Kenneth E. Reback, Katherine D. McLaughlin, and Cheryl Milliken. 2005. {``Part 4. {Boston} {Harbor}, {North} {Shore}, and {Merrimack} {River}.''} Technical \{Report\}. Pocasset, MA: Massachusetts Division of Marine Fisheries.
+
+\leavevmode\vadjust pre{\hypertarget{ref-brown_habitat_2000}{}}%
+Brown, Stephen K., Kenneth R. Buja, Steven H. Jury, Mark E. Monaco, and Arnold Banner. 2000. {``Habitat {Suitability} {Index} {Models} for {Eight} {Fish} and {Invertebrate} {Species} in {Casco} and {Sheepscot} {Bays}, {Maine}.''} \emph{North American Journal of Fisheries Management} 20 (2): 408--35. \url{https://doi.org/10.1577/1548-8675(2000)020\%3C0408:HSIMFE\%3E2.3.CO;2}.
+
+\leavevmode\vadjust pre{\hypertarget{ref-collette_fishes_2003}{}}%
+Collette, Bruce, and Grace Klein-MacPhee. 2003. {``Fishes of the {Gulf} of {Maine} for the 21st {Century}: {A} {Look} at the {New} {Bigelow} and {Schroeder}.''} \emph{BioScience} 53 (8): 772. \url{https://doi.org/10.1641/0006-3568(2003)053\%5B0772:FOTGOM\%5D2.0.CO;2}.
+
+\leavevmode\vadjust pre{\hypertarget{ref-dimaggio_spawning_2015}{}}%
+DiMaggio, Matthew A., Harvey J. Pine, Linas W. Kenter, and David L. Berlinsky. 2015. {``Spawning, {Larviculture}, and {Salinity} {Tolerance} of {Alewives} and {Blueback} {Herring} in {Captivity}.''} \emph{North American Journal of Aquaculture} 77 (3): 302--11. \url{https://doi.org/10.1080/15222055.2015.1009590}.
+
+\leavevmode\vadjust pre{\hypertarget{ref-fabrizio_extent_2021}{}}%
+Fabrizio, Mary C., Troy D. Tuckey, Aaron J. Bever, and Michael L. MacWilliams. 2021. {``The {Extent} of {Seasonally} {Suitable} {Habitats} {May} {Limit} {Forage} {Fish} {Production} in a {Temperate} {Estuary}.''} \emph{Frontiers in Marine Science} 8 (October): 706666. \url{https://doi.org/10.3389/fmars.2021.706666}.
+
+\leavevmode\vadjust pre{\hypertarget{ref-fay_alewifeblueback_1983}{}}%
+Fay, Clemon, Richard Neves, and Garland Pardue. 1983. {``Alewife/{Blueback} {Herring}.''} Biological \{Report\} FWS/OBS-82/11.9. Blacksburg, VA: U.S. Fish; WIldlife Service, Division of Biological Sciences, U.S. Army Corps of Engineers. \url{https://apps.dtic.mil/sti/tr/pdf/ADA180383.pdf}.
+
+\leavevmode\vadjust pre{\hypertarget{ref-frank_role_2011}{}}%
+Frank, H. J., M. E. Mather, J. M. Smith, R. M. Muth, and J. T. Finn. 2011. {``Role of Origin and Release Location in Pre-Spawning Distribution and Movements of Anadromous Alewife: {PRE}-{SPAWNING} {ALEWIFE} {DISTRIBUTION} {AND} {MOVEMENT}.''} \emph{Fisheries Management and Ecology} 18 (1): 12--24. \url{https://doi.org/10.1111/j.1365-2400.2010.00759.x}.
+
+\leavevmode\vadjust pre{\hypertarget{ref-haro_swimming_2004}{}}%
+Haro, Alex, Theodore Castro-Santos, John Noreika, and Mufeed Odeh. 2004. {``Swimming Performance of Upstream Migrant Fishes in Open-Channel Flow: A New Approach to Predicting Passage Through Velocity Barriers.''} \emph{Canadian Journal of Fisheries and Aquatic Sciences} 61 (9): 1590--1601. \url{https://doi.org/10.1139/f04-093}.
+
+\leavevmode\vadjust pre{\hypertarget{ref-hook_annual_2008}{}}%
+Höök, Tomas O., Edward S. Rutherford, Thomas E. Croley, Doran M. Mason, and Charles P. Madenjian. 2008. {``Annual Variation in Habitat-Specific Recruitment Success: Implications from an Individual-Based Model of {Lake} {Michigan} Alewife ({Alosa} Pseudoharengus).''} \emph{Canadian Journal of Fisheries and Aquatic Sciences} 65 (7): 1402--12. \url{https://doi.org/10.1139/F08-066}.
+
+\leavevmode\vadjust pre{\hypertarget{ref-ingel_habitat_2013}{}}%
+Ingel, Claire. 2013. {``Habitat {Use}, {Growth}, and {Feeding} of {Larval} {Alewife} in a {Shallow} {River} {Margin} of the {Upper} {Hudson} {River}.''} Master's thesis, Cornell University. \url{https://ecommons.cornell.edu/bitstream/handle/1813/33829/ces279.pdf?sequence=1\&isAllowed=y}.
+
+\leavevmode\vadjust pre{\hypertarget{ref-janssen_will_1978}{}}%
+Janssen, John. 1978. {``Will Alewives ({Alosa} Pseudoharengus) Feed in the Dark?''} \emph{Environmental Biology of Fishes} 3 (2): 239--40. \url{https://doi.org/10.1007/BF00691949}.
+
+\leavevmode\vadjust pre{\hypertarget{ref-janssen_feeding_1980}{}}%
+Janssen, John, and Stephen B. Brandt. 1980. {``Feeding {Ecology} and {Vertical} {Migration} of {Adult} {Alewives} ( \emph{{Alosa} Pseudoharengus} ) in {Lake} {Michigan}.''} \emph{Canadian Journal of Fisheries and Aquatic Sciences} 37 (2): 177--84. \url{https://doi.org/10.1139/f80-023}.
+
+\leavevmode\vadjust pre{\hypertarget{ref-janssen_preference_2004}{}}%
+Janssen, John, and Michelle A. Luebke. 2004. {``Preference for {Rocky} {Habitat} by {Age}-0 {Yellow} {Perch} and {Alewives}.''} \emph{Journal of Great Lakes Research} 30 (1): 93--99. \url{https://doi.org/10.1016/S0380-1330(04)70332-9}.
+
+\leavevmode\vadjust pre{\hypertarget{ref-kellogg_temperature_1982}{}}%
+Kellogg, Robert L. 1982. {``Temperature {Requirements} for the {Survival} and {Early} {Development} of the {Anadromous} {Alewife}.''} \emph{The Progressive Fish-Culturist} 44 (2): 63--73. \url{https://doi.org/10.1577/1548-8659(1982)44\%5B63:TRFTSA\%5D2.0.CO;2}.
+
+\leavevmode\vadjust pre{\hypertarget{ref-killgore_distribution_1988}{}}%
+Killgore, K. Jack, Raymond P. Morgan, and Linda M. Hurley. 1988. {``Distribution and {Abundance} of {Fishes} in {Aquatic} {Vegetation}.''} Miscellaneous \{Paper\} \{A\}-87-2 88-11-15-001. Vicksburg, Mississippi: Engineer Research; Development Center (U.S.).
+
+\leavevmode\vadjust pre{\hypertarget{ref-kissil_spawning_1974}{}}%
+Kissil, George William. 1974. {``Spawning of the {Anadromous} {Alewife}, {Alosa} Pseudoharengus, in {Bride} {Lake}, {Connecticut}.''} \emph{Transactions of the American Fisheries Society} 103 (2): 312--17. \url{https://doi.org/10.1577/1548-8659(1974)103\%3C312:SOTAAA\%3E2.0.CO;2}.
+
+\leavevmode\vadjust pre{\hypertarget{ref-klauda_alewife_1991}{}}%
+Klauda, R. J., L. W. Hall Fischer, and J. A. Sullivan. 1991. {``Alewife and {Blueback} {Herring}, {Alosa} Pseudoharengus and {Alosa} Aestivalis.''} Solomons, Maryland.
+
+\leavevmode\vadjust pre{\hypertarget{ref-kocovsky_linking_2008}{}}%
+Kocovsky, Patrick M., Robert M. Ross, David S. Dropkin, and John M. Campbell. 2008. {``Linking {Landscapes} and {Habitat} {Suitability} {Scores} for {Diadromous} {Fish} {Restoration} in the {Susquehanna} {River} {Basin}.''} \emph{North American Journal of Fisheries Management} 28 (3): 906--18. \url{https://doi.org/10.1577/M06-120.1}.
+
+\leavevmode\vadjust pre{\hypertarget{ref-kosa_processes_2001}{}}%
+Kosa, Jarrad T., and Martha E. Mather. 2001. {``Processes {Contributing} to {Variability} in {Regional} {Patterns} of {Juvenile} {River} {Herring} {Abundance} Across {Small} {Coastal} {Systems}.''} \emph{Transactions of the American Fisheries Society} 130 (4): 600--619. \url{https://doi.org/10.1577/1548-8659(2001)130\%3C0600:PCTVIR\%3E2.0.CO;2}.
+
+\leavevmode\vadjust pre{\hypertarget{ref-laney_relationship_1997}{}}%
+Laney, R. Wilson. 1997. {``The {Relationship} of {Submerged} {Aquatic} {Vegetation} ({SAV}) {Ecological} {Value} to {Species} {Managed} by the {Atlantic} {States} {Marine} {Fisheries} {Commission} ({ASMFC}): {Summary} for the {ASMFC} {SAV} {Subcommittee}.''} \{ASMFC\} \{Habitat\} \{Management\} \{Series\} \textbackslash\#1. South Atlantic Fisheries Resources Coordination Office, Raleigh, NC: U.S. Fish; Wildlife Service, Southeast Region, Southeast Region.
+
+\leavevmode\vadjust pre{\hypertarget{ref-legett_daily_2021}{}}%
+Legett, Henry D., Adrian Jordaan, Allison H. Roy, John J. Sheppard, Marcelo Somos‐Valenzuela, and Michelle D. Staudinger. 2021. {``Daily {Patterns} of {River} {Herring} ( \emph{Alosa} Spp.) {Spawning} {Migrations}: {Environmental} {Drivers} and {Variation} Among {Coastal} {Streams} in {Massachusetts}.''} \emph{Transactions of the American Fisheries Society} 150 (4): 501--13. \url{https://doi.org/10.1002/tafs.10301}.
+
+\leavevmode\vadjust pre{\hypertarget{ref-lynch_projected_2015}{}}%
+Lynch, Patrick D., Janet A. Nye, Jonathan A. Hare, Charles A. Stock, Michael A. Alexander, James D. Scott, Kiersten L. Curti, and Katherine Drew. 2015. {``Projected Ocean Warming Creates a Conservation Challenge for River Herring Populations.''} \emph{ICES Journal of Marine Science} 72 (2): 374--87. \url{https://doi.org/10.1093/icesjms/fsu134}.
+
+\leavevmode\vadjust pre{\hypertarget{ref-mather_assessing_2012}{}}%
+Mather, Martha E., Holly J. Frank, Joseph M. Smith, Roxann D. Cormier, Robert M. Muth, and John T. Finn. 2012. {``Assessing {Freshwater} {Habitat} of {Adult} {Anadromous} {Alewives} {Using} {Multiple} {Approaches}.''} \emph{Marine and Coastal Fisheries} 4 (1): 188--200. \url{https://doi.org/10.1080/19425120.2012.675980}.
+
+\leavevmode\vadjust pre{\hypertarget{ref-mccartin_new_2019}{}}%
+McCartin, Kellie, Adrian Jordaan, Matthew Sclafani, Robert Cerrato, and Michael G. Frisk. 2019. {``A {New} {Paradigm} in {Alewife} {Migration}: {Oscillations} Between {Spawning} {Grounds} and {Estuarine} {Habitats}.''} \emph{Transactions of the American Fisheries Society} 148 (3): 605--19. \url{https://doi.org/10.1002/tafs.10155}.
+
+\leavevmode\vadjust pre{\hypertarget{ref-mullen_species_1986}{}}%
+Mullen, D. M., C. W. Fay, and J. R. Moring. 1986. {``Species Profiles: Life Histories and Environmental Requirements of Coastal Fishes and Invertebrates ({North} {Atlantic})--Alewife/Blueback Herring.''} U.\{S\}. \{Fish\} and \{Wildlife\} \{Service\} \{Biological\} \{Report\} 82(11.56). USACE.
+
+\leavevmode\vadjust pre{\hypertarget{ref-munroe_overview_2000}{}}%
+Munroe, Thomas. 2000. {``An Overview of the Biology, Ecology, and Fisheries of the Clupeoid Fishes Occurring in the {Gulf} of {Maine}.''} Reference \{Document\} 00-02. Woods Hole, Massachusetts: National Matine Fisheries Service, Northeast Fisheries Science Center. \url{https://repository.library.noaa.gov/view/noaa/5081}.
+
+\leavevmode\vadjust pre{\hypertarget{ref-nmfs_national_marine_fisheries_service_species_2009}{}}%
+National Marine Fisheries Service, (NMFS). 2009. {``Species of Concern: River Herring.''} \href{https://nmfs.noaa.gov/pr/species/concern/}{nmfs.noaa.gov/pr/species/concern/}.
+
+\leavevmode\vadjust pre{\hypertarget{ref-nmfs_national_marine_fisheries_service_endangered_2013}{}}%
+---------. 2013. {``Endangered and Threatened Wildlife and Plants; Endangered Species Act Listing Determination for Alewife and Blueback Herring.''}
+
+\leavevmode\vadjust pre{\hypertarget{ref-nmfs_national_marine_fisheries_service_not_2019}{}}%
+---------. 2019. {``Not {Warented} {Listing} {Determination}.''}
+
+\leavevmode\vadjust pre{\hypertarget{ref-oconnell_spawning_1997}{}}%
+O'Connell, Ann M. (Uzee), and Paul L. Angermeier. 1997. {``Spawning {Location} and {Distribution} of {Early} {Life} {Stages} of {Alewife} and {Blueback} {Herring} in a {Virginia} {Stream}.''} \emph{Estuaries} 20 (4): 779. \url{https://doi.org/10.2307/1352251}.
+
+\leavevmode\vadjust pre{\hypertarget{ref-oconnell_habitat_1999}{}}%
+---------. 1999. {``Habitat {Relationships} for {Alewife} and {Blueback} {Herring} {Spawning} in a {Virginia} {Stream}.''} \emph{Journal of Freshwater Ecology} 14 (3): 357--70. \url{https://doi.org/10.1080/02705060.1999.9663691}.
+
+\leavevmode\vadjust pre{\hypertarget{ref-otto_lethal_1976}{}}%
+Otto, Robert G., Max A. Kitchel, and John O'Hara Rice. 1976. {``Lethal and {Preferred} {Temperatures} of the {Alewife} ({Alosa} Pseudoharengus) in {Lake} {Michigan}.''} \emph{Transactions of the American Fisheries Society} 105 (1): 96--106. \url{https://doi.org/10.1577/1548-8659(1976)105\%3C96:LAPTOT\%3E2.0.CO;2}.
+
+\leavevmode\vadjust pre{\hypertarget{ref-overton_spatial_2012}{}}%
+Overton, Anthony S., Nicholas A. Jones, and Roger Rulifson. 2012. {``Spatial and {Temporal} {Variability} in {Instantaneous} {Growth}, {Mortality}, and {Recruitment} of {Larval} {River} {Herring} in {Tar}--{Pamlico} {River}, {North} {Carolina}.''} \emph{Marine and Coastal Fisheries} 4 (1): 218--27. \url{https://doi.org/10.1080/19425120.2012.675976}.
+
+\leavevmode\vadjust pre{\hypertarget{ref-pardue_habitat_1983}{}}%
+Pardue, Garland. 1983. {``Habitat {Suitability} {Index} {Models}: {Alewife} and {Blueback} {Herring}.''} \{FWS\}/\{OBS\} 82/10.58. Department of Interior, Fish; Wildlife Service. \url{https://books.google.com/books?hl=en\&lr=\&id=WpTBLRItqHYC\&oi=fnd\&pg=PR6\&dq=Habitat+Suitability+for+Alewives\&ots=Rh70Hi2dbQ\&sig=mWMhRZ5FcP--mJX1NxJuFuZkhoM\#v=onepage\&q=Habitat\%20Suitability\%20for\%20Alewives\&f=false}.
+
+\leavevmode\vadjust pre{\hypertarget{ref-reback_survey_2004}{}}%
+Reback, Kenneth E., Phillips Brady, Katherine D. McLaughlin, and Cheryl Milliken. 2004. {``A {Survey} of {Anadromous} {Fish} {Passage} in {Coastal} {Massachusetts}. {Part} 1, {Southern} {Massachusetts}.''} Massachusetts: Massachusetts Division of Marine Fisheries.
+
+\leavevmode\vadjust pre{\hypertarget{ref-richkus_response_1975}{}}%
+Richkus, William A. 1975. {``The {Response} of {Juvenile} {Alewives} to {Water} {Currents} in an {Experimental} {Chamber}.''} \emph{Transactions of the American Fisheries Society} 104 (3): 494--98. \url{https://doi.org/10.1577/1548-8659(1975)104\%3C494:TROJAT\%3E2.0.CO;2}.
+
+\leavevmode\vadjust pre{\hypertarget{ref-smith_overlapping_2015}{}}%
+Smith, M. Chad, and Roger A. Rulifson. 2015. {``Overlapping {Habitat} {Use} of {Multiple} {Anadromous} {Fish} {Species} in a {Restricted} {Coastal} {Watershed}.''} \emph{Transactions of the American Fisheries Society} 144 (6): 1173--83. \url{https://doi.org/10.1080/00028487.2015.1074617}.
+
+\leavevmode\vadjust pre{\hypertarget{ref-stevens_evidence_2021}{}}%
+Stevens, Justin R., Rory Saunders, and William Duffy. 2021. {``Evidence of {Life} {Cycle} {Diversity} of {River} {Herring} in the {Penobscot} {River} {Estuary}, {Maine}.''} \emph{Marine and Coastal Fisheries} 13 (3): 292--305. \url{https://doi.org/10.1002/mcf2.10157}.
+
+\leavevmode\vadjust pre{\hypertarget{ref-tommasi_effect_2015}{}}%
+Tommasi, Désirée, Janet Nye, Charles Stock, Jonathan A. Hare, Michael Alexander, and Katie Drew. 2015. {``Effect of Environmental Conditions on Juvenile Recruitment of Alewife ( \emph{{Alosa} Pseudoharengus} ) and Blueback Herring ( \emph{{Alosa} Aestivalis} ) in Fresh Water: A Coastwide Perspective.''} Edited by Keith Tierney. \emph{Canadian Journal of Fisheries and Aquatic Sciences} 72 (7): 1037--47. \url{https://doi.org/10.1139/cjfas-2014-0259}.
+
+\leavevmode\vadjust pre{\hypertarget{ref-turner_juvenile_2016}{}}%
+Turner, Sara M., and Karin E. Limburg. 2016. {``Juvenile River Herring Habitat Use and Marine Emigration Trends: Comparing Populations.''} \emph{Oecologia} 180 (1): 77--89. \url{https://doi.org/10.1007/s00442-015-3443-y}.
+
+\leavevmode\vadjust pre{\hypertarget{ref-tyus_movements_1974}{}}%
+Tyus, Harold M. 1974. {``Movements and {Spawning} of {Anadromous} {Alewives}, {Alosa} Pseudoharengus ({Wilson}) at {Lake} {Mattamuskeet}, {North} {Carolina}.''} \emph{Transactions of the American Fisheries Society} 103 (2): 392--96. \url{https://doi.org/10.1577/1548-8659(1974)103\%3C392:MASOAA\%3E2.0.CO;2}.
+
+\leavevmode\vadjust pre{\hypertarget{ref-waldman_north_2022}{}}%
+Waldman, John R., and Thomas P. Quinn. 2022. {``North {American} Diadromous Fishes: {Drivers} of Decline and Potential for Recovery in the {Anthropocene}.''} \emph{Science Advances} 8 (4): eabl5486. \url{https://doi.org/10.1126/sciadv.abl5486}.
+
+\leavevmode\vadjust pre{\hypertarget{ref-walsh_early_2005}{}}%
+Walsh, Harvey J., Lawrence R. Settle, and David S. Peters. 2005. {``Early {Life} {History} of {Blueback} {Herring} and {Alewife} in the {Lower} {Roanoke} {River}, {North} {Carolina}.''} \emph{Transactions of the American Fisheries Society} 134 (4): 910--26. \url{https://doi.org/10.1577/T04-060.1}.
+
+\end{CSLReferences}
+
+\end{document}

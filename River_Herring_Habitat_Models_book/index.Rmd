@@ -1,0 +1,14 @@
+--- 
+title: "River Herring Habitat in the Northeast United States"
+author: "Vanessa Quintana, Justin Stevens"
+date: "`r Sys.Date()`"
+output:
+  word_document: default
+  pdf_document: default
+documentclass: book
+bibliography: Lit.R_Alewives.bib
+link-citations: no
+github-repo: null
+site: bookdown::bookdown_site
+---
+# Preface

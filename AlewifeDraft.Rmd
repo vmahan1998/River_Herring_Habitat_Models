@@ -10,7 +10,7 @@ output:
 bibliography: Lit.R_Alewives.bib
 ---
 # Alewives
-
+(O’Connell & Angermeier, 1999)
 This chapter aims to explore the habitat preferences and life cycle of alewives (Alosa pseudoharengus) in the northeastern United States. Alewives have faced significant declines, leading to their classification as a "species of concern" by the U.S. National Marine Fisheries Service [@nmfs_national_marine_fisheries_service_species_2009]. A combination of factors that have contributed to this decline, including deteriorating water quality, habitat loss, offshore bycatch/overfishing, increased predation, and dam construction [@kocovsky_linking_2008; @nmfs_national_marine_fisheries_service_species_2009; @bethoney_environmental_2014; @waldman_north_2022]. They have also been considered for inclusion in the U.S. Endangered Species List, as indicated in reports by the National Marine Fisheries Service in 2013 [@nmfs_national_marine_fisheries_service_endangered_2013].
 
 Recent stock assessment reports reveal diverse trends in documented alewife runs over the last ten years, with some populations showing signs of stabilization or even growth [@asmfc_river_2017]. Additionally, in 2019, the National Marine Fisheries Service concluded that listing the alewife as threatened or endangered under the Endangered Species Act (ESA) was not warranted [@nmfs_national_marine_fisheries_service_not_2019].
