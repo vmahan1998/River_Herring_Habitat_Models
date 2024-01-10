@@ -6,3 +6,5 @@ author: "Vanessa Mahan"
 However,assertions that fish will consistently seek out zones of lowest velocity (e.g., Beamish 1978; Pavlov et al. 2000) were not borne out by our observations.
 Although some species (most notably white suckers) actively selected these low-velocity zones at the 1.5 and 2.5 m·s--1 conditions, all species swam near the cross-sectional center of the flume at the higher velocities (Castro-Santos2002).
 (Haro et al 2004)
+
+Light intensity controls river herring activity during spawning. Alewives avoid light during the initial stages of migration and spawning (Cooper 1961).

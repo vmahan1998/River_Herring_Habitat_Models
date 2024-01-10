@@ -5,6 +5,8 @@ Alewives have faced significant declines,
 
 This chapter explores the favorable habitat conditions for spawning alewife adults, non-migratory juveniles, and larvae, which are influenced by factors such as suitable spawning habitats, water quality conditions, and availability of appropriate food resources [@lynch_projected_2015].
 
+ blueback herring spawn in higher salinity, faster-moving waters in the lower river (Turner & Limburg, 2016)
+ 
 ## Life cycle overview
 
 ## Habitat Requirements
@@ -13,17 +15,21 @@ This chapter explores the favorable habitat conditions for spawning alewife adul
 
 #### Temperature
 
--   move into estuary begins at 14 and ceases at 27 @pardue_habitat_1983
+- move into estuary begins at 14 and ceases at 27 @pardue_habitat_1983
 
--   range 17 - 26 and optimal 20 - 24 \@pardue_habitat_1983
+- 16 - 16 klauda et al 1991
 
--   spawning stops at 27 @pardue_habitat_1983
+- Our results indicate that blueback herring adults require temperatures of at least 16.8"C to spawn. (O'Connell & Angermeier, 1999)
 
--   Our results demonstrate that the spawning temperature that maximized juvenile blueback herring abundance in the Delaware River was 11 °C (tommasi 2015)
+- range 17 - 26 and optimal 20 - 24 @pardue_habitat_1983
+
+- spawning stops at 27 @pardue_habitat_1983
+
+- Our results demonstrate that the spawning temperature that maximized juvenile blueback herring abundance in the Delaware River was 11 °C (tommasi 2015)
 
 #### Depth
 
--   most found 5 - 20 meters, rarely above 40 @pardue_habitat_1983
+- most found 5 - 20 meters, rarely above 40 @pardue_habitat_1983
 
 -   
 
@@ -53,17 +59,24 @@ This chapter explores the favorable habitat conditions for spawning alewife adul
 
 #### Substrate
 
-### Larvae
+### Eggs and Larvae
 
 #### Temperature
 
 -   blueback herring early egg stages were positively related to water temperature (14-22°C). (O'Connell & Angermeier, 1999)
+- Blueback herring eggs have been found in  water temperatures ranging from 7 to 14°C in the upper Chesapeake Bay, with most being collected at  14°C (Dove1 1971).
+- Temperatures observed in our study were always below those known to impair hatching success (32.9 to 36.1°C) or cause larval deformities (34°C). (O'Connell & Angermeier, 1999)
+
 
 #### Depth
 
 #### Salinity
 
 #### Flow Velocity
+
+- peak densities were positively associated with peaks in water temperature (within the range of 4-19 C) (O’Connell & Angermeier, 1999).
+
+- lower temperatures and peaks in river flow negatively impacted early life stages (O’Connell & Angermeier, 1999)
 
 #### Substrate
 

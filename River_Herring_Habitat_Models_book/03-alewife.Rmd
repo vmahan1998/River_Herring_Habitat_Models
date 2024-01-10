@@ -6,7 +6,7 @@ output:
 ---
 # Alewife (*Alosa pseudoharengus*)
 
-This chapter aims to explore the habitat preferences and life cycle of alewives ( *Alosa pseudoharengus*) in the northeastern United States.
+This chapter aims to explore the habitat preferences and life cycle of alewives (*Alosa pseudoharengus*) in the northeastern United States.
 Blueback herring populations have faced significant declines, leading to their classification as a "species of concern" by the U.S.
 National Marine Fisheries Service [@nmfs_national_marine_fisheries_service_species_2009].
 A combination of factors that have contributed to this decline, including deteriorating water quality, habitat loss, offshore bycatch/overfishing, increased predation, and dam construction [@kocovsky_linking_2008; @nmfs_national_marine_fisheries_service_species_2009; @bethoney_environmental_2014; @waldman_north_2022].
@@ -48,6 +48,8 @@ Their annual migration during spawning is energetically demanding and notable va
 Some studies report fasting during the day and extensive feeding at night, while others document refraining from eating until their return downstream to productive tidal habitats [@bigelow_fishes_1953; @janssen_feeding_1980; @bigelow_bigelow_2002].
 The preferred habitats for spawning are lacustrine and fluvial environments rather than riverine [@reback_survey_2004; @frank_role_2011].
 
+Alewife spawn and rear in lower salinity upper river pools (Turner & Limburg, 2016)
+
 #### Temperature
 
 - Alewives begin spawning at temperatures of 10.5 °C (Cianci 1969).
@@ -78,9 +80,9 @@ Additionally, field studies have documented that adult alewives engage in spawni
 
 #### Flow Velocity
 
-- Because impingement of smaller species (alewife, bluebackherring, andwalleye)onthetail-waterweirscreenoccurred in initial 4.5m·s–1 trials, andbecauseperformance was poor under the 3.5m·s–1 condition (Fig. 4), these smallerspecieswerenotrunat4.5m·s–1. (Haro 2004)
+- Because impingement of smaller species (alewife, blueback herring, and walleye) on the tail-water weir screen occurred in initial 4.5 m·s–1 trials, and because performance was poor under the 3.5m·s–1 condition (Fig. 4), these smaller species were not run at 4.5 m·s–1. (Haro 2004)
 
-- alewives show a prefereance for lower velocities than blueback herring (haro 2004)
+- alewives show a preference for lower velocities than blueback herring (haro 2004)
 - Tagged alewives spent little time in riffle–run habitats and substantial time in pools, although the locations of pool occupancy varied. (Mather et al., 2012)
 - Low velocities (0.0–1.7 m/s) (Walsh et al 2005)
 - < 0.30 m/s @pardue_habitat_1983
@@ -186,6 +188,10 @@ Understanding these diverse substrate preferences and the importance of seagrass
 
 - peak densities were positively associated with peaks in water temperature (within the range of 4-19 C) (O’Connell & Angermeier, 1999).
 
+- lower temperatures and peaks in river flow negatively impacted early life stages (O’Connell & Angermeier, 1999)
+
+- The two highest peaks of alewife egg 'b' densities occurred at temperatures within optimal and suitable ranges (O’Connell & Angermeier, 1999) (16-21°C and 11-28"C, respectively, Klauda et al. 1991)
+
 #### Depth
 
 Lake Ontario research by @ingel_habitat_2013 found that early post-hatch larvae are abundant in depths less than 3 meters, while larger larvae occupy progressively deeper habitats.
@@ -203,6 +209,7 @@ These shallow-water habitats provide protection from predators and access to foo
 #### Flow Velocity
 
 - Occurrences of alewife early egg stages were positively related velocity (3-20 cm/s) (O’Connell & Angermeier, 1999)
+- Rapid decline in larvae associated with high flows (O’Connell & Angermeier, 1999)
 
 - Data from the Delaware River show that too high flows may also be detrimental to juvenile recruitment. High flow increases water velocity and may create high velocity barriers that reduce the swimming performance of anadromous fish (Haro et al. 2004).
 

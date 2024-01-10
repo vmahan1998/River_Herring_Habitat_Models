@@ -1,1 +1,13 @@
 # Discussion
+
+- Utility
+  - management
+  - what do the results tell us
+  
+- Limitations
+  - regional 
+  - accuracy based on current knowledge
+  - prediction power
+  
+- Compare to similar models (Pardue & Brown)
+
