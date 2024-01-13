@@ -4,6 +4,8 @@
 
 We propose that there are temporal and spatial differences in the larval growth and mortality of river herring and that these differences are species specific. (Overton et al., 2012)
 
+Due to their differences in biology, a single management plan will affect each species differently and exploitation within a river system may be biased towards one species (Schmidt et al 2003).
+
 - how hsi breakpoints were derrived
 
 - input data

@@ -108,7 +108,7 @@
 
 \title{River Herring Habitat in the Northeast United States}
 \author{Vanessa Quintana, Justin Stevens}
-\date{2024-01-06}
+\date{2024-01-10}
 
 \begin{document}
 \maketitle
@@ -123,13 +123,41 @@
 \hypertarget{background-and-history}{%
 \chapter{Background and History}\label{background-and-history}}
 
+potential sources:
+
+\begin{itemize}
+\item
+  However, overexploitation has reduced the population size of both species throughout their ranges (Gibson and Myers 2003; Schmidt et al.~2003).
+\item
+  Widespread declines in these stocks and those of other alosine species have been attributed to overfishing, degraded water quality, and loss of habitat (Crecco and Savoy 1984; Kosa and Mather 2001).
+\end{itemize}
+
 \hypertarget{cross}{%
 \chapter{Methods}\label{cross}}
+
+\begin{itemize}
+\tightlist
+\item
+  methods in ecological modeling
+\end{itemize}
+
+We propose that there are temporal and spatial differences in the larval growth and mortality of river herring and that these differences are species specific. (Overton et al., 2012)
+
+\begin{itemize}
+\item
+  how hsi breakpoints were derrived
+\item
+  input data
+\item
+  r functions?
+\item
+  output format?
+\end{itemize}
 
 \hypertarget{alewife-alosa-pseudoharengus}{%
 \chapter{\texorpdfstring{Alewife (\emph{Alosa pseudoharengus})}{Alewife (Alosa pseudoharengus)}}\label{alewife-alosa-pseudoharengus}}
 
-This chapter aims to explore the habitat preferences and life cycle of alewives ( \emph{Alosa pseudoharengus}) in the northeastern United States.
+This chapter aims to explore the habitat preferences and life cycle of alewives (\emph{Alosa pseudoharengus}) in the northeastern United States.
 Blueback herring populations have faced significant declines, leading to their classification as a ``species of concern'' by the U.S.
 National Marine Fisheries Service (National Marine Fisheries Service 2009).
 A combination of factors that have contributed to this decline, including deteriorating water quality, habitat loss, offshore bycatch/overfishing, increased predation, and dam construction (Kocovsky et al. 2008; National Marine Fisheries Service 2009; Bethoney, Stokesbury, and Cadrin 2014; Waldman and Quinn 2022).
@@ -173,6 +201,8 @@ Spawning adult alewives exhibit specific preferences and requirements related to
 Their annual migration during spawning is energetically demanding and notable variations in behavior have been observed.
 Some studies report fasting during the day and extensive feeding at night, while others document refraining from eating until their return downstream to productive tidal habitats (H. B. Bigelow and Schroeder 1953; Janssen and Brandt 1980; A. F. Bigelow et al. 2002).
 The preferred habitats for spawning are lacustrine and fluvial environments rather than riverine (Reback et al. 2004; Frank et al. 2011).
+
+Alewife spawn and rear in lower salinity upper river pools (Turner \& Limburg, 2016)
 
 \hypertarget{temperature}{%
 \subsubsection{Temperature}\label{temperature}}
@@ -221,9 +251,9 @@ Additionally, field studies have documented that adult alewives engage in spawni
 
 \begin{itemize}
 \item
-  Because impingement of smaller species (alewife, bluebackherring, andwalleye)onthetail-waterweirscreenoccurred in initial 4.5m·s--1 trials, andbecauseperformance was poor under the 3.5m·s--1 condition (Fig. 4), these smallerspecieswerenotrunat4.5m·s--1. (Haro 2004)
+  Because impingement of smaller species (alewife, blueback herring, and walleye) on the tail-water weir screen occurred in initial 4.5 m·s--1 trials, and because performance was poor under the 3.5m·s--1 condition (Fig. 4), these smaller species were not run at 4.5 m·s--1. (Haro 2004)
 \item
-  alewives show a prefereance for lower velocities than blueback herring (haro 2004)
+  alewives show a preference for lower velocities than blueback herring (haro 2004)
 \item
   Tagged alewives spent little time in riffle--run habitats and substantial time in pools, although the locations of pool occupancy varied. (Mather et al., 2012)
 \item
@@ -356,6 +386,10 @@ Understanding these diverse substrate preferences and the importance of seagrass
   Chowan River was the only system in which June maximum air temperature reached values above both the temperature of maximum alewife larval growth rate (29.1 °C) and their upper thermal tolerance (31 °C) (Kellogg 1982)
 \item
   peak densities were positively associated with peaks in water temperature (within the range of 4-19 C) (O'Connell \& Angermeier, 1999).
+\item
+  lower temperatures and peaks in river flow negatively impacted early life stages (O'Connell \& Angermeier, 1999)
+\item
+  The two highest peaks of alewife egg `b' densities occurred at temperatures within optimal and suitable ranges (O'Connell \& Angermeier, 1999) (16-21°C and 11-28''C, respectively, Klauda et al.~1991)
 \end{itemize}
 
 \hypertarget{depth-2}{%
@@ -387,6 +421,8 @@ These shallow-water habitats provide protection from predators and access to foo
 \begin{itemize}
 \item
   Occurrences of alewife early egg stages were positively related velocity (3-20 cm/s) (O'Connell \& Angermeier, 1999)
+\item
+  Rapid decline in larvae associated with high flows (O'Connell \& Angermeier, 1999)
 \item
   Data from the Delaware River show that too high flows may also be detrimental to juvenile recruitment. High flow increases water velocity and may create high velocity barriers that reduce the swimming performance of anadromous fish (Haro et al.~2004).
 \end{itemize}
@@ -860,6 +896,8 @@ Alewives have faced significant declines,
 
 This chapter explores the favorable habitat conditions for spawning alewife adults, non-migratory juveniles, and larvae, which are influenced by factors such as suitable spawning habitats, water quality conditions, and availability of appropriate food resources (Lynch et al. 2015).
 
+blueback herring spawn in higher salinity, faster-moving waters in the lower river (Turner \& Limburg, 2016)
+
 \hypertarget{life-cycle-overview-1}{%
 \section{Life cycle overview}\label{life-cycle-overview-1}}
 
@@ -876,7 +914,11 @@ This chapter explores the favorable habitat conditions for spawning alewife adul
 \item
   move into estuary begins at 14 and ceases at 27 Pardue (1983)
 \item
-  range 17 - 26 and optimal 20 - 24 @pardue\_habitat\_1983
+  16 - 16 klauda et al 1991
+\item
+  Our results indicate that blueback herring adults require temperatures of at least 16.8''C to spawn. (O'Connell \& Angermeier, 1999)
+\item
+  range 17 - 26 and optimal 20 - 24 Pardue (1983)
 \item
   spawning stops at 27 Pardue (1983)
 \item
@@ -935,8 +977,8 @@ This chapter explores the favorable habitat conditions for spawning alewife adul
 \hypertarget{substrate-7}{%
 \subsubsection{Substrate}\label{substrate-7}}
 
-\hypertarget{larvae}{%
-\subsection{Larvae}\label{larvae}}
+\hypertarget{eggs-and-larvae}{%
+\subsection{Eggs and Larvae}\label{eggs-and-larvae}}
 
 \hypertarget{temperature-8}{%
 \subsubsection{Temperature}\label{temperature-8}}
@@ -945,6 +987,10 @@ This chapter explores the favorable habitat conditions for spawning alewife adul
 \tightlist
 \item
   blueback herring early egg stages were positively related to water temperature (14-22°C). (O'Connell \& Angermeier, 1999)
+\item
+  Blueback herring eggs have been found in water temperatures ranging from 7 to 14°C in the upper Chesapeake Bay, with most being collected at 14°C (Dove1 1971).
+\item
+  Temperatures observed in our study were always below those known to impair hatching success (32.9 to 36.1°C) or cause larval deformities (34°C). (O'Connell \& Angermeier, 1999)
 \end{itemize}
 
 \hypertarget{depth-8}{%
@@ -955,6 +1001,13 @@ This chapter explores the favorable habitat conditions for spawning alewife adul
 
 \hypertarget{flow-velocity-8}{%
 \subsubsection{Flow Velocity}\label{flow-velocity-8}}
+
+\begin{itemize}
+\item
+  peak densities were positively associated with peaks in water temperature (within the range of 4-19 C) (O'Connell \& Angermeier, 1999).
+\item
+  lower temperatures and peaks in river flow negatively impacted early life stages (O'Connell \& Angermeier, 1999)
+\end{itemize}
 
 \hypertarget{substrate-8}{%
 \subsubsection{Substrate}\label{substrate-8}}
@@ -1248,8 +1301,8 @@ Adult blueback herring spawn over both soft and hard substrates (Pardue 1983; O'
 Aside from their demonstrated dependence on soft substrates, spawning adult alewives also exhibit a pronounced inclination toward habitats containing sub-aquatic vegetation (Killgore, Morgan, and Hurley 1988; Laney 1997).
 Comprehending and defining these substrate preferences is crucial to effectively manage and conserve the appropriate spawning habitats for alewives.
 
-\hypertarget{larvae-1}{%
-\subsection{Larvae}\label{larvae-1}}
+\hypertarget{larvae}{%
+\subsection{Larvae}\label{larvae}}
 
 \begin{longtable}[]{@{}
   >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.3494}}
@@ -1391,11 +1444,91 @@ Absent SAV & 0.5
 \hypertarget{application}{%
 \chapter{Application}\label{application}}
 
+example of application to martha's vineyard
+
+\hypertarget{study-area}{%
+\section{Study Area}\label{study-area}}
+
+\hypertarget{input-data}{%
+\section{Input Data}\label{input-data}}
+
+\hypertarget{pre-processing}{%
+\section{Pre-Processing}\label{pre-processing}}
+
+\hypertarget{post-processing}{%
+\section{Post-Processing}\label{post-processing}}
+
+\hypertarget{results}{%
+\section{Results}\label{results}}
+
+\hypertarget{spawning-adults-2}{%
+\subsection{Spawning Adults}\label{spawning-adults-2}}
+
+\begin{itemize}
+\tightlist
+\item
+  Alewives
+\item
+  Blueback Herring
+\end{itemize}
+
+\hypertarget{non-migratory-juveniles-4}{%
+\subsection{Non-Migratory Juveniles}\label{non-migratory-juveniles-4}}
+
+\begin{itemize}
+\tightlist
+\item
+  Alewives
+\item
+  Blueback Herring
+\end{itemize}
+
+\hypertarget{eggs-and-larvae-1}{%
+\subsection{Eggs and Larvae}\label{eggs-and-larvae-1}}
+
+\begin{itemize}
+\tightlist
+\item
+  Alewives
+\item
+  Blueback Herring
+\end{itemize}
+
 \hypertarget{validation}{%
 \chapter{Validation}\label{validation}}
 
+Future tagging data??
+
 \hypertarget{discussion}{%
 \chapter{Discussion}\label{discussion}}
+
+\begin{itemize}
+\tightlist
+\item
+  Utility
+
+  \begin{itemize}
+  \tightlist
+  \item
+    management
+  \item
+    what do the results tell us
+  \end{itemize}
+\item
+  Limitations
+
+  \begin{itemize}
+  \tightlist
+  \item
+    regional
+  \item
+    accuracy based on current knowledge
+  \item
+    prediction power
+  \end{itemize}
+\item
+  Compare to similar models (Pardue \& Brown)
+\end{itemize}
 
 \hypertarget{summary}{%
 \chapter{Summary}\label{summary}}

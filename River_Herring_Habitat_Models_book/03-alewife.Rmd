@@ -28,16 +28,17 @@ Spawning typically occurs in waves during the spring season, triggered by rising
 Adult alewives migrate upstream from marine environments to reach suitable brackish or freshwater spawning habitats [@bigelow_fishes_1953; @bigelow_bigelow_2002].
 Recent observations show that alewife migration can also be correlated with the lunar phase [@legett_daily_2021].
 
-Alewives migration and spawning normally precedes that of bluebacks by 2--3 weeks [@fay_alewifeblueback_1983].
-Upon arrival at the spawning grounds, adult alewives engage in immense spawning runs, where large aggregations gather to deposit their adhesive eggs over a variety of substrates [@oconnell_spawning_1997; @able_alewife_2020].
+Alewives migration and spawning normally precedes that of bluebacks by 2-3 weeks [@fay_alewifeblueback_1983].
+Upon arrival at the spawning grounds, adult alewives engage in immense spawning runs, where large groups gather to deposit their adhesive eggs over a variety of substrates [@oconnell_spawning_1997; @able_alewife_2020].
 After spawning, both males and females return to the marine environment[@bigelow_fishes_1953; @bigelow_bigelow_2002].
 
-In the spawning habitat, the incubation period for eggs typically lasts for 3-6 days [@bigelow_fishes_1953; @munroe_overview_2000; @bigelow_bigelow_2002].
-Once hatched, the larvae begin their rapid migration downstream, eventually making their way towards estuary habitats where they will reside as they grow [@pardue_habitat_1983].
-This estuary environment serves as a nursery for juvenile alewives until they eventually migrate to the sea [@laney_relationship_1997; @kosa_processes_2001].
-It is noteworthy that the survival rate for larvae is relatively low, with only a small percentage successfully reaching the sea for each female alewife that entered the spawning grounds.
-This percentage can be as low as 1% or even less, depending on the specific conditions of the ecosystem [@kissil_spawning_1974].
-Similarly, mortality rates for migratory adults during a spawning season can reach as high as 90% in southern regions [@brady_part_2005].
+In the spawning habitat, the incubation period for eggs typically lasts for 3-6 days [@bigelow_fishes_1953; @munroe_overview_2000; @bigelow_bigelow_2002]. 
+
+Yolk-sac larvae represent a developmental stage in early fish life, where the larvae rely on an attached yolk sac for essential nutrients before transitioning to actively feeding on external sources. For alewives, this stage typically lasts 2-3 days for alewives ( _Bourne 1990_).
+
+After this stage, the post-sac larvae remain in the estuary to grow and begin their migration downstream, eventually making their way towards more brackish areas where they will reside as they mature into juvenile fish [@pardue_habitat_1983].
+
+This estuary environment serves as a nursery for juvenile alewives until they eventually migrate to the sea [@laney_relationship_1997; @kosa_processes_2001]. Alewife larvae demonstrate the ability to adapt to marine environments by 50 days post-hatch (DiMaggio et al., 2015). It is noteworthy that the survival rate for larvae is relatively low, with only a small percentage successfully reaching the sea for each female alewife that entered the spawning grounds. This percentage can be as low as 1% or even less, depending on the specific conditions of the ecosystem [@kissil_spawning_1974]. Similarly, mortality rates for migratory adults during a spawning season can reach as high as 90% [@brady_part_2005].
 
 ## Habitat Requirements
 
@@ -73,6 +74,7 @@ As such, alewives are capable of spawning in both shallow and deep water environ
 
 #### Salinity
 
+
 Further, documented behavior of alewives challenges the conventional belief that anadromous species exclusively depend on freshwater environments for spawning.
 Alewives have been observed spawning in freshwater habitats with minimal salinity concentrations, revealing a preference for environments with salinity levels below 0.5 psu.
 However, they can tolerate salinity levels as high as 8 psu for successful spawning, as documented in the study conducted by @able_alewife_2020. More recently, @brown_habitat_2000 emphasizes an additional heightened preference for habitats with salinity concentrations below 15 psu, while concentrations surpassing 20 psu are deemed unsuitable for spawning adults.
@@ -98,9 +100,11 @@ Understanding the preferred flow velocities is essential in managing and preserv
 
 Previous studies have presented conflicting information regarding the substrate preferences of spawning adult alewives, often stemming from the generalization of alewives with blueback herring as river herring.
 Moreover, although @brown_habitat_2000 argues that substrate composition holds no significance in alewife models, contrasting observations from various sources present compelling evidence in favor of a more defined range of substrate preferences among spawning alewives [@fay_alewifeblueback_1983; @killgore_distribution_1988; @oconnell_spawning_1997; @able_alewife_2020].
-Adult alewives spawn over a range of unconsolidated substrates, including small gravel, sand, vegetation, and other soft substrates [@pardue_habitat_1983; @oconnell_spawning_1997; @brown_habitat_2000].
+Adult alewives spawn over a range of unconsolidated substrates, including small gravel, sand, vegetation, and other soft substrates [@pardue_habitat_1983; _bourne 1990_; @oconnell_spawning_1997; @brown_habitat_2000].
 Aside from their demonstrated dependence on soft substrates, spawning adult alewives also exhibit a pronounced inclination toward habitats containing sub-aquatic vegetation [@killgore_distribution_1988; @laney_relationship_1997].
 Comprehending and defining these substrate preferences is crucial to effectively manage and conserve the appropriate spawning habitats for alewives.
+
+- no strong preference for bottom substrate type
 
 ### Non-Migratory Juveniles
 
@@ -121,7 +125,7 @@ Optimal temperatures for juvenile alewife development fall within the range of
 
 - The optimal temperature for river herring juveniles during the nursery phase varied across systems and species, but ranged between 20 and 22 °C (tommasi)
 
-- 
+-  final preference of young alewives was estimated to be 26.3 C (Kellogg, 1982).
 
 - exposure to temperature extremes during development in nursery habitats may constrain juvenile growth and decrease performance (Pörtner and Farrell 2008; Kellogg 1982; Henderson and Brown 1985; Overton et al. 2012).
 
@@ -138,15 +142,20 @@ Maintaining water temperatures within these ranges is crucial for the successful
 
 The depth preferences of non-migratory juvenile alewives differ from their adult counterparts, as juveniles exhibit a preference for depths ranging from 0 to 10 meters, with no habitat suitability observed beyond 20 meters [@brown_habitat_2000; @hook_annual_2008].
 Research by @pardue_habitat_1983 further supports this finding, indicating that juveniles prefer depths between 0.5 to 5 meters, and that juvenile abundance increases around five meter depths [@pardue_habitat_1983].
-Overall, these field observations indicate that optimal depth for juvenile alewives \>= 5 meters.
+Overall, these field observations indicate that optimal depth for juvenile alewives >= 5 meters.
 
 #### Salinity
 
+- The findings in the study suggest that alewives, during their juvenile development, exhibit adaptations in response to different levels of salinity (salt in the water). When exposed to seawater, the alewives showed increased activity in specific proteins and structures in their gills, indicating a capacity for osmoregulation, or the ability to regulate salt and water balance. This adaptation suggests that alewives are capable of maintaining a stable internal environment in seawater. While the study doesn't explicitly state a salinity preference, the observed physiological adjustments imply that alewives have the ability to thrive in environments with varying salinity, making them adaptable to both freshwater and saltwater habitats during different stages of their life cycle (Christensen et al., 2012). 
+
 -   found up to 32 psu @pardue_habitat_1983
 -   prefer > 10 psu @brown_habitat_2000
--   
+-   Alewives demonstrate complete survival when maintained in control conditions (0‰ to 0‰ salinity).
+However, when transferred from higher salinities (15‰ and 30‰) to 0‰ salinity, Alewives show significantly lower survival rates.
+The lower survival rates under sudden shifts to lower salinities suggest that Alewives may be less tolerant to rapid decreases in salinity, emphasizing a potential preference for higher salinity environments.
+This information implies that Alewives might be better adapted to or have a preference for estuarine areas with higher salinities.(DiMaggio et al., 2015)
 
-Juvenile alewives exhibit a distinct salinity preference, favoring concentrations exceeding 10 psu and even tolerating levels up to 30 psu [@pardue_habitat_1983; @brown_habitat_2000].
+Juvenile alewives exhibit a distinct salinity preference, favoring concentrations exceeding 10 psu and even tolerating levels up to 30 psu [@brown_habitat_2000].
 Research by @fay_alewifeblueback_1983 notes their presence in areas with salinity below 12 psu, indicating adaptability to lower salinity environments.
 @turner_juvenile_2016 along with @able_alewife_2020 emphasize the preference of juveniles for estuarine habitats with salinity concentrations spanning 0.5 to 25 psu, promoting an ideal balance between freshwater and marine conditions for growth.
 While salinities exceeding 20 psu might impede suitability by affecting feeding and physiological processes [@fabrizio_extent_2021], higher salinities up to 30 psu show minimal adverse effects on the health and survival of juvenile alewives, with a 100% survival rate observed at 15 psu [@dimaggio_spawning_2015].
@@ -157,28 +166,30 @@ In summary, juvenile alewives exhibit a versatile salinity preference that range
 - Numbers of recruits were maximized at a flow of 672 m3·s−1 and flow of6m3·s−1 (tommasi 2015)
 
 Flow velocity is a crucial determinant of the development and survival of non-migratory juvenile alewives [@tommasi_effect_2015].
-Previous optimal velocities for larvae and egg development were observed from 0 to 0.3 m/s [@pardue_habitat_1983].
 Other studies document juvenile alewife preference for habitats with flow velocities ranging from 0.05 to 0.17 m/s [@richkus_response_1975; @oconnell_habitat_1999].
-Larval alewives are consistently found in water velocities up to approximately 0.12 m/s, but they are absent in faster currents [@ingel_habitat_2013].
-Slower flow rates offer suitable conditions for juveniles and larvae to conserve energy while effectively foraging for food [@haro_swimming_2004].
+Slower flow rates offer suitable conditions for juveniles to conserve energy while effectively foraging for food [@haro_swimming_2004].
 Conversely, higher flow velocities may hinder their ability to access critical food resources, maintain their position in the water column, and displace recently spawned eggs from their initial location [@haro_swimming_2004; @able_alewife_2020].
-Understanding the flow velocity preferences and effects on non-migratory juvenile alewives and larvae is crucial for effective habitat management and successful transition from egg to adulthood.
+Understanding the flow velocity preferences and effects on non-migratory juvenile alewives is crucial for effective habitat management and successful transition from egg to adulthood.
 
 #### Substrate
 
 Non-migratory juvenile alewives exhibit diverse substrate preferences that reflect their adaptability to various environments.
 While previous studies suggest a preference for sandy substrates @fay_alewifeblueback_1983, more recent observations indicate a potential preference for rocky substrates [@janssen_preference_2004; @boscarino_influence_2020].
 Seagrass coverage also plays a vital role in the habitat of these juveniles.
-Despite some studies suggesting avoidance of areas with aquatic vegetation @ingel_habitat_2013, research by @laney_relationship_1997 and @smith_overlapping_2015 demonstrates that seagrass beds provide essential nursery habitat, offering refuge from predators and abundant food sources.
+Despite some studies suggesting avoidance of areas with aquatic vegetation @ingel_habitat_2013, research by @laney_relationship_1997 and @smith_overlapping_2015 demonstrates that seagrass beds provide essential nursery habitat for juveniles, offering refuge from predators and abundant food sources.
 Seagrass beds enhance water quality by stabilizing sediments and promoting nutrient cycling, creating a favorable environment for juvenile alewives to thrive.
 These vegetated areas are also crucial for overwintering habitat [@killgore_distribution_1988].
 Understanding these diverse substrate preferences and the importance of seagrass coverage is essential for effective habitat management and the successful development of non-migratory juvenile alewives.
 
 ### Eggs & Larvae
 
+- Alewife planktonic larval phases are vulnerable to passive transport dispersal (Schmidt et al 1988
+
 #### Temperature
 
 - most larvae growth at 26.4 with optimal estimated at 26.3 @pardue_habitat_1983
+
+- 12 - 30 egg survival broad range (Kellogg, 1982).
 
 - hatching success ceases entirely above 29.7°C @kellogg_temperature_1982; @pardue_habitat_1983
 
@@ -192,19 +203,38 @@ Understanding these diverse substrate preferences and the importance of seagrass
 
 - The two highest peaks of alewife egg 'b' densities occurred at temperatures within optimal and suitable ranges (O’Connell & Angermeier, 1999) (16-21°C and 11-28"C, respectively, Klauda et al. 1991)
 
+-  A metric of the optimal hatching temperature for alewife larvae was defined as 16°C, as used by Edsall (1970).
+
+- maximum hatching success occurred at 12.7 and 15.0, 20.8 C, fell significantly 26.7-26.8 C, and no hatch occurred at 29.7 C (Kellogg, 1982).
+
+- 31 degrees larvae mortality (Kellogg, 1982).
+
+Edsall (1970) observed similar temperature require- ments for survival of eggs from Lake Michigan alewives incubated at temperatures ranging from 5.6 to 30.6 ø C. He reported that hatching occurred over a range of temperatures from 6.9 to 29.4 ø C, but that the highest percentage hatch of alewife eggs generally occurred at temperatures above 10øC and below 26.7 ø C.The optimum temperature for hatch of eggs from Lake Michigan alewives was about 17.8øC
+
 #### Depth
 
 Lake Ontario research by @ingel_habitat_2013 found that early post-hatch larvae are abundant in depths less than 3 meters, while larger larvae occupy progressively deeper habitats.
+
 Similarly, observations in Nova Scotia's Margaree River indicate that alewife larvae predominantly reside in depths shallower than 2 meters.
 These shallow-water habitats provide protection from predators and access to food sources, eventually facilitating growth and development into a juvenile.
 
 -   < 2 m @pardue_habitat_1983
+
+- very few larvae were found at sampling locations shallower than 0.5 m (Ingel, 2013).
+
+-  In Lake Ontario, early post-hatch larvae were most abundant in shallow areas less than 3m in depth, with larger larvae progressively occupying deeper habitat (Dunstall 1984).
 
 #### Salinity
 
 -   < 12 ppt @pardue_habitat_1983
 
 -   After hatching, the larvae and small juveniles use freshwater streams (Kosa and Mather 2001; tommasi 2015)
+
+- Alewives:
+
+The highest mean survival rate for Alewives is observed at 15‰ salinity (76.0%).
+As salinity increases to 20‰ and 30‰, the mean survival rates for Alewives decrease (69.3% and 64.7%, respectively).
+This pattern suggests that Alewives may exhibit a preference for lower salinity conditions, as indicated by their higher survival rates at 15‰ compared to higher salinities. (DiMaggio et al., 2015)
 
 #### Flow Velocity
 
@@ -213,7 +243,18 @@ These shallow-water habitats provide protection from predators and access to foo
 
 - Data from the Delaware River show that too high flows may also be detrimental to juvenile recruitment. High flow increases water velocity and may create high velocity barriers that reduce the swimming performance of anadromous fish (Haro et al. 2004).
 
+-  Larval alewives were consistently found in water velocities up to 12 cm/sec, but not in faster currents (Ingel, 2013).
+
+-  alewife distribution is not primarily influenced by overall tidal fluctuations or the highest speeds of water flow but rather by more localized and instantaneous changes in velocity,  Larvae are not solely distributed in pockets of constant low-velocity habitat  (Ingel, 2013).
+
+- Previous optimal velocities for larvae and egg development were observed from 0 to 0.3 m/s [@pardue_habitat_1983].
+
 #### Substrate
+
+-  thought to provide spawning and nursery habitat for anadromous and resident fishes (Miller et al 2006); however, in the case of alewives, larval catch was inversely related to vegetation density. larvae were most frequently found in areas with less than 10 percent vegetation density and were never found in areas where vegetation density exceeded 30 percent (Ingel, 2013).
+
+- Anderson and Schmidt (1989) found that alewife larvae were a dominant fish species prior to the development of dense water-chestnut cover, but no longer inhabited these areas after the establishment of this invasive plant, while larval minnows and killifish persisted in the dense beds. Schmidt and Kiviat (1988) caught small numbers of larval alewife in water-chestnut and water celery beds compared to minnows and killifish larvae. 
+
 
 ## Habitat suitability models
 
@@ -285,6 +326,8 @@ These breakpoints provide a more refined understanding of alewife habitat prefer
 |                            | $1.5 <= v < 3.5$   | 0.5                           |
 |                            |                    |                               |
 |                            | $3.5 <= v < 4.5$   | 0.3                           |
+|                            |                    |                               |
+|                            | $4.5 <= v < 5$     | 0.1                           |
 |                            |                    |                               |
 |                            | $v > 5$            | 0.0                           |
 +----------------------------+--------------------+-------------------------------+

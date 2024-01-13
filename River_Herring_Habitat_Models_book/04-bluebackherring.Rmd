@@ -9,6 +9,10 @@ This chapter explores the favorable habitat conditions for spawning alewife adul
  
 ## Life cycle overview
 
+- Alewives enter the river first, followed by blueback herring 2-3 weeks later (Jessop 2003).
+- juveniles may take longer to move into brackish waters (Schmidt et al. 1988).
+- Blueback larvae demonstrate the ability to adapt to marine environments by 58 days post-hatch (DiMaggio et al., 2015).
+
 ## Habitat Requirements
 
 ### Spawning Adults
@@ -35,17 +39,23 @@ This chapter explores the favorable habitat conditions for spawning alewife adul
 
 #### Salinity
 
+-  spawning begins then or shortly thereafter. Although this species apparently spawns primarily in fresh water, spawning also occurs in brackish ponds at Woods Hole (Nichols and Breder, 1926; Hildebrand, 1963). 
+
+- I  found that the chief spawning grounds in the Delaware River were in tidal water (Chittenden, 1972)
+
+
 #### Flow Velocity
 
 -   blueback herring show a preferance for higher velocities than alewives (haro 2004)
 -   Low velocities (0.0--1.7 m/s) (Walsh et al 2005)
 -   0.11 m/s (O'Connell & Angermeier, 1997)
+- blueback tend to favor running water and a fairly clean hard bottom, Bourne 1990
 
 #### Substrate
 
 -   Blueback herring do not usually spawn as far upstream as the alewife and selectively choose spawning sites in fast-flowing water over a hard substrate, particularly in shared spawning grounds (Loesch and Lund 1977; Jones et al. 1978; Scott and Scott 1988).
 
--   
+-   blueback tend to favor running water and a fairly clean hard bottom, bourne 1990
 
 ### Non-Migratory Juveniles
 
@@ -55,11 +65,20 @@ This chapter explores the favorable habitat conditions for spawning alewife adul
 
 #### Salinity
 
+Bluebacks:
+
+Bluebacks exhibit high survival rates when transferred between certain salinities, particularly from 3‰, 15‰, and 30‰ into 3‰ salinity.
+The high survival rates indicate that Bluebacks are well-adapted and can thrive under a range of salinity conditions within the specified experimental scenarios.
+While the information does not explicitly state a preference for specific salinities, the high survival rates suggest that Bluebacks may have a relatively broad salinity tolerance in the studied range.(DiMaggio et al., 2015)
+
+- blueback herring is highly salinity tolerant early in life (28 psu)  (Chittenden, 1972)
+
 #### Flow Velocity
 
 #### Substrate
 
 ### Eggs and Larvae
+
 
 #### Temperature
 
@@ -67,10 +86,17 @@ This chapter explores the favorable habitat conditions for spawning alewife adul
 - Blueback herring eggs have been found in  water temperatures ranging from 7 to 14°C in the upper Chesapeake Bay, with most being collected at  14°C (Dove1 1971).
 - Temperatures observed in our study were always below those known to impair hatching success (32.9 to 36.1°C) or cause larval deformities (34°C). (O'Connell & Angermeier, 1999)
 
-
 #### Depth
 
+-  In Lake Ontario, early post-hatch larvae were most abundant in shallow areas less than 3m in depth, with larger larvae progressively occupying deeper habitat (Dunstall 1984).
+
 #### Salinity
+
+- Bluebacks:
+
+The mean survival rates for Bluebacks consistently increase with higher salinities.
+The highest mean survival rate for Bluebacks is observed at 30‰ salinity (95.3%).
+This pattern indicates that Bluebacks may exhibit a preference for higher salinity conditions, as indicated by their higher survival rates at 30‰ compared to lower salinities. (DiMaggio et al., 2015)
 
 #### Flow Velocity
 
@@ -79,6 +105,8 @@ This chapter explores the favorable habitat conditions for spawning alewife adul
 - lower temperatures and peaks in river flow negatively impacted early life stages (O’Connell & Angermeier, 1999)
 
 #### Substrate
+
+-  thought to provide spawning and nursery habitat for anadromous and resident fishes (Miller et al 2006); however, in the case of alewives, larval catch was inversely related to vegetation density. larvae were most frequently found in areas with less than 10 percent vegetation density and were never found in areas where vegetation density exceeded 30 percent (Ingel, 2013).
 
 ## Habitat suitability models
 
