@@ -168,6 +168,7 @@ In summary, juvenile alewives exhibit a versatile salinity preference that range
 #### Flow Velocity
 
 - Numbers of recruits were maximized at a flow of 672 m3·s−1 and flow of6m3·s−1 (tommasi 2015)
+- Both species spawn primarily in habitats with little or no current Walsh 2005
 
 Flow velocity is a crucial determinant of the development and survival of non-migratory juvenile alewives [@tommasi_effect_2015].
 Other studies document juvenile alewife preference for habitats with flow velocities ranging from 0.05 to 0.17 m/s [@richkus_response_1975; @oconnell_habitat_1999].
@@ -219,6 +220,9 @@ Understanding these diverse substrate preferences and the importance of seagrass
 - Edsall (1970) Eggs hatched at test temperatures between 7 and 29.5 *C.
 
 - larval health decreases at 26.5 C (Mullen et al., 1986)
+
+- 11.48C to 23.08C, 10.98C to 20.88C (walsh 2005)
+- Larvae were not found in the canal oroxbow  until  late  April  and  were  never  abundantat water temperatures below 14 C (walsh 2005).
 
 #### Depth
 
