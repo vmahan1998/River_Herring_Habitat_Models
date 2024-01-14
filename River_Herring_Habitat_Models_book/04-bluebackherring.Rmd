@@ -31,11 +31,13 @@ This chapter explores the favorable habitat conditions for spawning alewife adul
 
 - Our results demonstrate that the spawning temperature that maximized juvenile blueback herring abundance in the Delaware River was 11 °C (tommasi 2015)
 
+- spawning begins at 14 C (Mullen et al., 1986)
+
 #### Depth
 
-- most found 5 - 20 meters, rarely above 40 @pardue_habitat_1983
+- 0.15–3 m @pardue_habitat_1983
+- spawning habitat were all 0.5 m or less (Kosa & Mather, 2001)
 
--   
 
 #### Salinity
 
@@ -57,11 +59,16 @@ This chapter explores the favorable habitat conditions for spawning alewife adul
 
 -   blueback tend to favor running water and a fairly clean hard bottom, bourne 1990
 
+- prefer hard substrate (Loesch and Lund 1977)
+
 ### Non-Migratory Juveniles
 
 #### Temperature
+- supported in observations where Eel River had a mean temperature of 23.1°C, while the Herring River (Bourne) had temperatures with a mean of 25.1°C (Ames & Lichter, 2013).
 
 #### Depth
+
+-   Juvenile Blueback herring in Potomac River, Virginia abundant in 4.6 m(Mullen et al., 1986)
 
 #### Salinity
 
@@ -76,19 +83,22 @@ While the information does not explicitly state a preference for specific salini
 #### Flow Velocity
 
 #### Substrate
+-   blueback tend to favor running water and a fairly clean hard bottom, bourne 1990
 
 ### Eggs and Larvae
 
-
 #### Temperature
 
--   blueback herring early egg stages were positively related to water temperature (14-22°C). (O'Connell & Angermeier, 1999)
+-  blueback herring early egg stages were positively related to water temperature (14-22°C). (O'Connell & Angermeier, 1999)
 - Blueback herring eggs have been found in  water temperatures ranging from 7 to 14°C in the upper Chesapeake Bay, with most being collected at  14°C (Dove1 1971).
 - Temperatures observed in our study were always below those known to impair hatching success (32.9 to 36.1°C) or cause larval deformities (34°C). (O'Connell & Angermeier, 1999)
+- eggs recorded at 20-24 C (Mullen et al., 1986)
+- 19 C 0-5% deformities, 20 0-24% deformities, Complete larval deformities in eggs exposed to 34 C (Koo and Johnston 1978)
 
 #### Depth
 
 -  In Lake Ontario, early post-hatch larvae were most abundant in shallow areas less than 3m in depth, with larger larvae progressively occupying deeper habitat (Dunstall 1984).
+- Larval Alosa in Nova Scotian fmgs rivers inhabite-i-waters that were relatively shallow (<2 m) (Mullen et al., 1986)
 
 #### Salinity
 
@@ -97,6 +107,9 @@ While the information does not explicitly state a preference for specific salini
 The mean survival rates for Bluebacks consistently increase with higher salinities.
 The highest mean survival rate for Bluebacks is observed at 30‰ salinity (95.3%).
 This pattern indicates that Bluebacks may exhibit a preference for higher salinity conditions, as indicated by their higher survival rates at 30‰ compared to lower salinities. (DiMaggio et al., 2015)
+
+- highly tolerant of salinity changes (Mullen et al., 1986)
+
 
 #### Flow Velocity
 

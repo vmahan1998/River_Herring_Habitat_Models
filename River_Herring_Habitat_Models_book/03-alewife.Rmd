@@ -57,6 +57,8 @@ Alewife spawn and rear in lower salinity upper river pools (Turner & Limburg, 20
 - Upstream migration is reported to begin at temperatures between 5◦C and 10◦C (Loesch 1987), little instream movement occurs below 8◦C or over 18◦C (Collette and KleinMacPhee 2002), and spawning ceases at water temperatures exceeding 27◦C (Kissil 1974).
 - Appropriate spawning temperatures broadly fall between 10◦C and 22◦C (Tyus 1974; Pardue 1983; Collette and Klein-MacPhee 2002)
 - fish tagged when temperatures were 10.29–22.31◦C (O’Connell & Angermeier, 1997)
+- temps measured before the spawning run around 6 C and temps measured during the spawning run 12.8 C-14 C (Durbin et al., 1979).
+- spawning begins at 10.5 C (Mullen et al., 1986)
 
 Temperature preferences during spawning vary across studies, but there is a consensus that optimal temperatures for successful spawning fall within the range of 12 to 16 degrees Celsius [@brown_habitat_2000].
 Suitable spawning temperatures broadly span from 12 to 22 degrees Celsius [@tyus_movements_1974; @pardue_habitat_1983; @collette_fishes_2003; @mather_assessing_2012] and during the migration inland, alewives tend to favor offshore locations where bottom temperatures are between 7 and 11 degrees Celsius [@munroe_overview_2000].
@@ -67,16 +69,16 @@ Water temperature also plays a critical role in alewife abundance and movement p
 #### Depth
 
 - 0.15–3 m @pardue_habitat_1983
+- spawning habitat were all 0.5m or less (Kosa & Mather, 2001)
 
 In terms of depth preferences, spawning adult alewives are generally known to favor depths ranging from Mean Low Tide (MLT) to 10 meters [@brown_habitat_2000], but recent field observations indicate that a significant proportion of alewives can be found in habitats as shallow as 2 meters [@mather_assessing_2012].
-Offshore alewives migrating inland have been documented to favor deeper depths (depth \< 100m) [@pardue_habitat_1983; @munroe_overview_2000].
+Offshore alewives migrating inland have been documented to favor deeper depths (depth < 100m) [@pardue_habitat_1983; @munroe_overview_2000].
 As such, alewives are capable of spawning in both shallow and deep water environments, highlighting their adaptability in selecting suitable spawning locations.
 
 #### Salinity
 
-
 Further, documented behavior of alewives challenges the conventional belief that anadromous species exclusively depend on freshwater environments for spawning.
-Alewives have been observed spawning in freshwater habitats with minimal salinity concentrations, revealing a preference for environments with salinity levels below 0.5 psu.
+Alewives have been observed spawning in freshwater tidal habitats with minimal salinity concentrations, revealing a preference for environments with salinity levels below 0.5 psu.
 However, they can tolerate salinity levels as high as 8 psu for successful spawning, as documented in the study conducted by @able_alewife_2020. More recently, @brown_habitat_2000 emphasizes an additional heightened preference for habitats with salinity concentrations below 15 psu, while concentrations surpassing 20 psu are deemed unsuitable for spawning adults.
 Additionally, field studies have documented that adult alewives engage in spawning activities across a diverse array of estuarine habitats with varying salinity levels, including ponds within coastal systems, pond-like regions within coastal rivers and streams, oxbows, eddies, backwaters, stream pools, and flooded swamps [@pardue_habitat_1983; @mullen_species_1986; @collette_fishes_2003; @walsh_early_2005].
 
@@ -131,14 +133,16 @@ Optimal temperatures for juvenile alewife development fall within the range of
 
 - broader suitability range for juvenile recruitment from 11°C to 28°C [@pardue_habitat_1983; @fay_alewifeblueback_1983; @klauda_alewife_1991; @brown_habitat_2000; @munroe_overview_2000; @tommasi_effect_2015].
 
-Juvenile river herring do not survive temperatures of 3°C or less [@otto_lethal_1976; @kellogg_temperature_1982; @pardue_habitat_1983].
+Juvenile river herring do not survive temperatures of 3°C or less [@otto_lethal_1976; @kellogg_temperature_1982; @pardue_habitat_1983:(Mullen et al., 1986)].
 Maintaining water temperatures within these ranges is crucial for the successful development and overall health of non-migratory juvenile alewives and larvae.
+
+- supported in observations where Eel River had a mean temperature of 23.1°C, while the Herring River (Bourne) had temperatures with a mean of 25.1°C (Ames & Lichter, 2013).
+- feeding behavior disrupted at 6.7 C, 4.5 C schooling behavior is disrupted, 2.8 fish are completely disoriented (Mullen et al., 1986)
 
 #### Depth
 
 -   MLT - 10 m @brown_habitat_2000
 
--   
 
 The depth preferences of non-migratory juvenile alewives differ from their adult counterparts, as juveniles exhibit a preference for depths ranging from 0 to 10 meters, with no habitat suitability observed beyond 20 meters [@brown_habitat_2000; @hook_annual_2008].
 Research by @pardue_habitat_1983 further supports this finding, indicating that juveniles prefer depths between 0.5 to 5 meters, and that juvenile abundance increases around five meter depths [@pardue_habitat_1983].
@@ -181,6 +185,9 @@ Seagrass beds enhance water quality by stabilizing sediments and promoting nutri
 These vegetated areas are also crucial for overwintering habitat [@killgore_distribution_1988].
 Understanding these diverse substrate preferences and the importance of seagrass coverage is essential for effective habitat management and the successful development of non-migratory juvenile alewives.
 
+- Alewife catches at rocky sites were about four times those for sandy sites @janssen_preference_2004
+- could be because Wells (1980) rocky habitat was more profitable in feeding on zooplankton. 
+
 ### Eggs & Larvae
 
 - Alewife planktonic larval phases are vulnerable to passive transport dispersal (Schmidt et al 1988
@@ -209,7 +216,9 @@ Understanding these diverse substrate preferences and the importance of seagrass
 
 - 31 degrees larvae mortality (Kellogg, 1982).
 
-Edsall (1970) observed similar temperature require- ments for survival of eggs from Lake Michigan alewives incubated at temperatures ranging from 5.6 to 30.6 ø C. He reported that hatching occurred over a range of temperatures from 6.9 to 29.4 ø C, but that the highest percentage hatch of alewife eggs generally occurred at temperatures above 10øC and below 26.7 ø C.The optimum temperature for hatch of eggs from Lake Michigan alewives was about 17.8øC
+- Edsall (1970) Eggs hatched at test temperatures between 7 and 29.5 *C.
+
+- larval health decreases at 26.5 C (Mullen et al., 1986)
 
 #### Depth
 
@@ -224,11 +233,14 @@ These shallow-water habitats provide protection from predators and access to foo
 
 -  In Lake Ontario, early post-hatch larvae were most abundant in shallow areas less than 3m in depth, with larger larvae progressively occupying deeper habitat (Dunstall 1984).
 
+- Larval Alosa in Nova Scotian fmgs rivers inhabite-i-waters that were relatively shallow (<2 m) (Mullen et al., 1986)
+
 #### Salinity
 
 -   < 12 ppt @pardue_habitat_1983
 
 -   After hatching, the larvae and small juveniles use freshwater streams (Kosa and Mather 2001; tommasi 2015)
+- highly tolerant of salinity changes (Mullen et al., 1986)
 
 - Alewives:
 
