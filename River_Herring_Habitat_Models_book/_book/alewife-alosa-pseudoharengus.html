@@ -23,7 +23,7 @@
 <meta name="author" content="Vanessa Quintana, Justin Stevens" />
 
 
-<meta name="date" content="2024-01-06" />
+<meta name="date" content="2024-01-24" />
 
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="apple-mobile-web-app-capable" content="yes" />
@@ -124,16 +124,28 @@ div.csl-indent {
 <ul>
 <li class="chapter" data-level="5.2.1" data-path="blueback-herring-alosa-aestivalis.html"><a href="blueback-herring-alosa-aestivalis.html#spawning-adults"><i class="fa fa-check"></i><b>5.2.1</b> Spawning Adults</a></li>
 <li class="chapter" data-level="5.2.2" data-path="blueback-herring-alosa-aestivalis.html"><a href="blueback-herring-alosa-aestivalis.html#non-migratory-juveniles-2"><i class="fa fa-check"></i><b>5.2.2</b> Non-Migratory Juveniles</a></li>
-<li class="chapter" data-level="5.2.3" data-path="blueback-herring-alosa-aestivalis.html"><a href="blueback-herring-alosa-aestivalis.html#larvae"><i class="fa fa-check"></i><b>5.2.3</b> Larvae</a></li>
+<li class="chapter" data-level="5.2.3" data-path="blueback-herring-alosa-aestivalis.html"><a href="blueback-herring-alosa-aestivalis.html#eggs-and-larvae"><i class="fa fa-check"></i><b>5.2.3</b> Eggs and Larvae</a></li>
 </ul></li>
 <li class="chapter" data-level="5.3" data-path="blueback-herring-alosa-aestivalis.html"><a href="blueback-herring-alosa-aestivalis.html#habitat-suitability-models-1"><i class="fa fa-check"></i><b>5.3</b> Habitat suitability models</a>
 <ul>
 <li class="chapter" data-level="5.3.1" data-path="blueback-herring-alosa-aestivalis.html"><a href="blueback-herring-alosa-aestivalis.html#spawning-adults-1"><i class="fa fa-check"></i><b>5.3.1</b> Spawning Adults</a></li>
 <li class="chapter" data-level="5.3.2" data-path="blueback-herring-alosa-aestivalis.html"><a href="blueback-herring-alosa-aestivalis.html#non-migratory-juveniles-3"><i class="fa fa-check"></i><b>5.3.2</b> Non-Migratory Juveniles</a></li>
-<li class="chapter" data-level="5.3.3" data-path="blueback-herring-alosa-aestivalis.html"><a href="blueback-herring-alosa-aestivalis.html#larvae-1"><i class="fa fa-check"></i><b>5.3.3</b> Larvae</a></li>
+<li class="chapter" data-level="5.3.3" data-path="blueback-herring-alosa-aestivalis.html"><a href="blueback-herring-alosa-aestivalis.html#larvae"><i class="fa fa-check"></i><b>5.3.3</b> Larvae</a></li>
 </ul></li>
 </ul></li>
-<li class="chapter" data-level="6" data-path="application.html"><a href="application.html"><i class="fa fa-check"></i><b>6</b> Application</a></li>
+<li class="chapter" data-level="6" data-path="application.html"><a href="application.html"><i class="fa fa-check"></i><b>6</b> Application</a>
+<ul>
+<li class="chapter" data-level="6.1" data-path="application.html"><a href="application.html#study-area"><i class="fa fa-check"></i><b>6.1</b> Study Area</a></li>
+<li class="chapter" data-level="6.2" data-path="application.html"><a href="application.html#input-data"><i class="fa fa-check"></i><b>6.2</b> Input Data</a></li>
+<li class="chapter" data-level="6.3" data-path="application.html"><a href="application.html#pre-processing"><i class="fa fa-check"></i><b>6.3</b> Pre-Processing</a></li>
+<li class="chapter" data-level="6.4" data-path="application.html"><a href="application.html#post-processing"><i class="fa fa-check"></i><b>6.4</b> Post-Processing</a></li>
+<li class="chapter" data-level="6.5" data-path="application.html"><a href="application.html#results"><i class="fa fa-check"></i><b>6.5</b> Results</a>
+<ul>
+<li class="chapter" data-level="6.5.1" data-path="application.html"><a href="application.html#spawning-adults-2"><i class="fa fa-check"></i><b>6.5.1</b> Spawning Adults</a></li>
+<li class="chapter" data-level="6.5.2" data-path="application.html"><a href="application.html#non-migratory-juveniles-4"><i class="fa fa-check"></i><b>6.5.2</b> Non-Migratory Juveniles</a></li>
+<li class="chapter" data-level="6.5.3" data-path="application.html"><a href="application.html#eggs-and-larvae-1"><i class="fa fa-check"></i><b>6.5.3</b> Eggs and Larvae</a></li>
+</ul></li>
+</ul></li>
 <li class="chapter" data-level="7" data-path="validation.html"><a href="validation.html"><i class="fa fa-check"></i><b>7</b> Validation</a></li>
 <li class="chapter" data-level="8" data-path="discussion.html"><a href="discussion.html"><i class="fa fa-check"></i><b>8</b> Discussion</a></li>
 <li class="chapter" data-level="9" data-path="summary.html"><a href="summary.html"><i class="fa fa-check"></i><b>9</b> Summary</a></li>
@@ -161,76 +173,39 @@ div.csl-indent {
             <section class="normal" id="section-">
 <div id="alewife-alosa-pseudoharengus" class="section level1 hasAnchor" number="4">
 <h1><span class="header-section-number">Chapter 4</span> Alewife (<em>Alosa pseudoharengus</em>)<a href="alewife-alosa-pseudoharengus.html#alewife-alosa-pseudoharengus" class="anchor-section" aria-label="Anchor link to header"></a></h1>
-<p>This chapter aims to explore the habitat preferences and life cycle of alewives ( <em>Alosa pseudoharengus</em>) in the northeastern United States.
-Blueback herring populations have faced significant declines, leading to their classification as a “species of concern” by the U.S.
-National Marine Fisheries Service <span class="citation">(National Marine Fisheries Service 2009)</span>.
-A combination of factors that have contributed to this decline, including deteriorating water quality, habitat loss, offshore bycatch/overfishing, increased predation, and dam construction <span class="citation">(Kocovsky et al. 2008; National Marine Fisheries Service 2009; Bethoney, Stokesbury, and Cadrin 2014; Waldman and Quinn 2022)</span>.
-They have also been considered for inclusion in the U.S.
-Endangered Species List, as indicated in reports by the National Marine Fisheries Service in 2013 <span class="citation">(National Marine Fisheries Service 2013)</span>.</p>
-<p>Recent stock assessment reports reveal diverse trends in documented alewife runs over the last ten years, with some populations showing signs of stabilization or even growth <span class="citation">(ASMFC 2017)</span>.
-Additionally, in 2019, the National Marine Fisheries Service concluded that listing the alewife as threatened or endangered under the Endangered Species Act (ESA) was not warranted <span class="citation">(National Marine Fisheries Service 2019)</span>.</p>
-<p>Alewives are widely distributed throughout the northeastern United States, thriving in freshwater rivers and estuaries along the Atlantic coast <span class="citation">(ASMFC 1985)</span>.
-Historically, alewives have undertaken extensive migrations to spawn in freshwater tidal systems, but limited information is available about estuary and marine movements during the juvenile and adult phases for alewives <span class="citation">(McCartin et al. 2019)</span>.</p>
-<p>This chapter explores the favorable habitat conditions for spawning alewife adults, non-migratory juveniles, and larvae, which are influenced by factors such as suitable spawning habitats, water quality conditions, and availability of appropriate food resources <span class="citation">(Lynch et al. 2015)</span>.</p>
+<p>This chapter is dedicated to the exploration of the habitat preferences and life cycle of alewives (<em>Alosa pseudoharengus</em>) in the northeastern United States. Despite their historical significance, alewife populations have encountered significant declines, leading to their classification as a “species of concern” by the U.S. National Marine Fisheries Service <span class="citation">(National Marine Fisheries Service 2009)</span>. Various factors contribute to this decline, including deteriorating water quality, habitat loss, offshore bycatch/overfishing, increased predation, and dam construction <span class="citation">(Kocovsky et al. 2008; National Marine Fisheries Service 2009; Bethoney, Stokesbury, and Cadrin 2014; Waldman and Quinn 2022)</span>. The consideration for inclusion in the U.S. Endangered Species List has also been raised, as indicated in reports by the National Marine Fisheries Service in 2013 <span class="citation">(National Marine Fisheries Service 2013)</span>.</p>
+<p>Recent stock assessments reveal diverse trends in documented alewife runs over the last ten years, with some populations showing signs of stabilization or even growth <span class="citation">(ASMFC 2017)</span>. In 2019, the National Marine Fisheries Service concluded that listing the alewife as threatened or endangered under the Endangered Species Act (ESA) was not warranted <span class="citation">(National Marine Fisheries Service 2019)</span>.</p>
+<p>Alewives are widely distributed throughout the northeastern United States, thriving in freshwater rivers and estuaries along the Atlantic coast <span class="citation">(ASMFC 1985)</span>. While historically known for extensive migrations to spawn in freshwater tidal systems, limited information is available about estuary and marine movements during the juvenile and adult phases for alewives <span class="citation">(McCartin et al. 2019)</span>. This chapter aims to explore the favorable habitat conditions for spawning alewife adults, non-migratory juveniles, as well as eggs and larvae, considering factors such as suitable spawning habitats, water quality conditions, and availability of appropriate food resources.</p>
 <div id="life-cycle-overview" class="section level2 hasAnchor" number="4.1">
 <h2><span class="header-section-number">4.1</span> Life cycle overview<a href="alewife-alosa-pseudoharengus.html#life-cycle-overview" class="anchor-section" aria-label="Anchor link to header"></a></h2>
-<p>Alewives exhibit a complex life cycle characterized by distinct stages and behaviors.
-Spawning typically occurs in waves during the spring season, triggered by rising water temperatures and increasing day length <span class="citation">(ASMFC 2009; McCartin et al. 2019; Able et al. 2020)</span>.
-Adult alewives migrate upstream from marine environments to reach suitable brackish or freshwater spawning habitats <span class="citation">(H. B. Bigelow and Schroeder 1953; A. F. Bigelow et al. 2002)</span>.
-Recent observations show that alewife migration can also be correlated with the lunar phase <span class="citation">(Legett et al. 2021)</span>.</p>
-<p>Alewives migration and spawning normally precedes that of bluebacks by 2–3 weeks <span class="citation">(Fay, Neves, and Pardue 1983)</span>.
-Upon arrival at the spawning grounds, adult alewives engage in immense spawning runs, where large aggregations gather to deposit their adhesive eggs over a variety of substrates <span class="citation">(O’Connell and Angermeier 1997; Able et al. 2020)</span>.
-After spawning, both males and females return to the marine environment<span class="citation">(H. B. Bigelow and Schroeder 1953; A. F. Bigelow et al. 2002)</span>.</p>
-<p>In the spawning habitat, the incubation period for eggs typically lasts for 3-6 days <span class="citation">(H. B. Bigelow and Schroeder 1953; Munroe 2000; A. F. Bigelow et al. 2002)</span>.
-Once hatched, the larvae begin their rapid migration downstream, eventually making their way towards estuary habitats where they will reside as they grow <span class="citation">(Pardue 1983)</span>.
-This estuary environment serves as a nursery for juvenile alewives until they eventually migrate to the sea <span class="citation">(Laney 1997; Kosa and Mather 2001)</span>.
-It is noteworthy that the survival rate for larvae is relatively low, with only a small percentage successfully reaching the sea for each female alewife that entered the spawning grounds.
-This percentage can be as low as 1% or even less, depending on the specific conditions of the ecosystem <span class="citation">(Kissil 1974)</span>.
-Similarly, mortality rates for migratory adults during a spawning season can reach as high as 90% in southern regions <span class="citation">(Brady et al. 2005)</span>.</p>
+<p>Alewives have a complex life cycle with distinct stages and behaviors. Spawning occurs in waves during spring, triggered by rising water temperatures and increasing day length <span class="citation">(ASMFC 2009; McCartin et al. 2019; Able et al. 2020)</span>. Adult alewives migrate upstream from marine environments to suitable brackish or freshwater spawning habitats <span class="citation">(Pardue 1983; A. F. Bigelow et al. 2002)</span>. Recent observations also suggest a correlation between alewife migration and the lunar phase <span class="citation">(Legett et al. 2021)</span>.</p>
+<p>Alewife migration and spawning precedes blueback herring by 2-3 weeks <span class="citation">(Fay, Neves, and Pardue 1983)</span>. Upon arrival at the spawning grounds, adult alewives engage in immense spawning runs, where large groups gather to deposit their adhesive eggs over a variety of substrates <span class="citation">(O’Connell and Angermeier 1997; Able et al. 2020)</span>. After spawning, both males and females return to the marine environment <span class="citation">(A. F. Bigelow et al. 2002)</span>.</p>
+<p>In the spawning habitat, the incubation period for eggs lasts 3-6 days <span class="citation">(Munroe 2000; A. F. Bigelow et al. 2002)</span>. The eggs hatch into yolk-sac larvae, representing an early developmental stage where larvae rely on an attached yolk sac for nutrients before transitioning to external feeding. For alewives, this stage typically lasts 2-5 days <em>(Bourne 1990).</em></p>
+<p>After this stage, larvae remain in the estuary to grow and migrate downstream towards more brackish areas, maturing into juvenile fish <span class="citation">(Pardue 1983)</span>. These brackish areas serve as nurseries until the juvenile alewives migrate to the sea <span class="citation">(Laney 1997; Kosa and Mather 2001)</span>. Alewife larvae can adapt to high salinities (35 psu) by 50 days post-hatch <em>(DiMaggio et al. 2015).</em> However, the survival rate for larvae is relatively low, with only a small percentage successfully reaching the sea, potentially as low as 1%, depending on ecosystem conditions <span class="citation">(Kissil 1974)</span>. Similarly, mortality rates for migratory adults during a spawning season can reach as high as 90% <span class="citation">(Brady et al. 2005)</span>.</p>
 </div>
 <div id="habitat-requirements" class="section level2 hasAnchor" number="4.2">
 <h2><span class="header-section-number">4.2</span> Habitat Requirements<a href="alewife-alosa-pseudoharengus.html#habitat-requirements" class="anchor-section" aria-label="Anchor link to header"></a></h2>
 <div id="spawning-adult-alewives" class="section level3 hasAnchor" number="4.2.1">
 <h3><span class="header-section-number">4.2.1</span> Spawning Adult Alewives<a href="alewife-alosa-pseudoharengus.html#spawning-adult-alewives" class="anchor-section" aria-label="Anchor link to header"></a></h3>
-<p>Spawning adult alewives exhibit specific preferences and requirements related to habitat characteristics.
-Their annual migration during spawning is energetically demanding and notable variations in behavior have been observed.
-Some studies report fasting during the day and extensive feeding at night, while others document refraining from eating until their return downstream to productive tidal habitats <span class="citation">(H. B. Bigelow and Schroeder 1953; Janssen and Brandt 1980; A. F. Bigelow et al. 2002)</span>.
-The preferred habitats for spawning are lacustrine and fluvial environments rather than riverine <span class="citation">(Reback et al. 2004; Frank et al. 2011)</span>.</p>
+<p>Spawning adult alewives exhibit specific habitat preferences and requirements. Their annual migration during spawning is energetically demanding, with notable variations in behavior. Some studies suggest fasting during the day and extensive feeding at night, while others report refraining from eating until their return downstream to productive tidal habitats <span class="citation">(Janssen and Brandt 1980; A. F. Bigelow et al. 2002)</span>.</p>
+<p>Preferred spawning habitats include lacustrine and fluvial environments rather than riverine ones <span class="citation">(Reback et al. 2004; Frank et al. 2011)</span>. Alewives spawn and rear in lower salinity upper river pools <em>(Turner &amp; Limburg 2016).</em></p>
 <div id="temperature" class="section level4 hasAnchor" number="4.2.1.1">
 <h4><span class="header-section-number">4.2.1.1</span> Temperature<a href="alewife-alosa-pseudoharengus.html#temperature" class="anchor-section" aria-label="Anchor link to header"></a></h4>
-<ul>
-<li>Alewives begin spawning at temperatures of 10.5 °C (Cianci 1969).</li>
-<li>Upstream migration is reported to begin at temperatures between 5◦C and 10◦C (Loesch 1987), little instream movement occurs below 8◦C or over 18◦C (Collette and KleinMacPhee 2002), and spawning ceases at water temperatures exceeding 27◦C (Kissil 1974).</li>
-<li>Appropriate spawning temperatures broadly fall between 10◦C and 22◦C (Tyus 1974; Pardue 1983; Collette and Klein-MacPhee 2002)</li>
-<li>fish tagged when temperatures were 10.29–22.31◦C (O’Connell &amp; Angermeier, 1997)</li>
-</ul>
-<p>Temperature preferences during spawning vary across studies, but there is a consensus that optimal temperatures for successful spawning fall within the range of 12 to 16 degrees Celsius <span class="citation">(Brown et al. 2000)</span>.
-Suitable spawning temperatures broadly span from 12 to 22 degrees Celsius <span class="citation">(Tyus 1974; Pardue 1983; Collette and Klein-MacPhee 2003; Mather et al. 2012)</span> and during the migration inland, alewives tend to favor offshore locations where bottom temperatures are between 7 and 11 degrees Celsius <span class="citation">(Munroe 2000)</span>.
-Spawning activity significantly diminishes above 27 degrees Celsius <span class="citation">(Kissil 1974; Pardue 1983; Brown et al. 2000)</span>.
-Deviations from the optimal temperature range can significantly impact spawning success and the timing of migration.
-Water temperature also plays a critical role in alewife abundance and movement patterns <span class="citation">(Legett et al. 2021)</span>.</p>
+<p>Spawning adult alewives exhibit distinct temperature preferences crucial to their reproductive success and migration patterns. The spawning process commences at temperatures around 10.5 °C, with upstream migration initiating within the range of 5°C to 10°C [(Cianci 1969); (Mullen et al., 1986); (Loesch 1987); <span class="citation">Munroe (2000)</span>; (Reback et al., 2004)]. Notably, limited instream movement is observed below 8°C or over 18°C, emphasizing the species’ preference for moderate temperature conditions [(Durbin et al., 1979); Collette and KleinMacPhee 2002]. Spawning ceases at temperatures exceeding 27°C, indicating an upper limit for optimal reproductive activity [(Kissil 1974);<span class="citation">Pardue (1983)</span>; <span class="citation">Brown et al. (2000)</span>; (Reback et al., 2004)]. The optimal temperature range for successful spawning is broadly identified as 10°C to 22°C, with consensus suggesting peak spawning occurring within the narrower range of 12 to 16 degrees Celsius [Tyus 1974; Pardue 1983; (O’Connell &amp; Angermeier, 1997); Collette and Klein-MacPhee 2002]. While deviations from the optimal temperature range can impact spawning success and migration timing, the overall picture indicates that alewives thrive in moderate temperature conditions.</p>
 </div>
 <div id="depth" class="section level4 hasAnchor" number="4.2.1.2">
 <h4><span class="header-section-number">4.2.1.2</span> Depth<a href="alewife-alosa-pseudoharengus.html#depth" class="anchor-section" aria-label="Anchor link to header"></a></h4>
-<ul>
-<li>0.15–3 m <span class="citation">Pardue (1983)</span></li>
-</ul>
-<p>In terms of depth preferences, spawning adult alewives are generally known to favor depths ranging from Mean Low Tide (MLT) to 10 meters <span class="citation">(Brown et al. 2000)</span>, but recent field observations indicate that a significant proportion of alewives can be found in habitats as shallow as 2 meters <span class="citation">(Mather et al. 2012)</span>.
-Offshore alewives migrating inland have been documented to favor deeper depths (depth &lt; 100m) <span class="citation">(Pardue 1983; Munroe 2000)</span>.
-As such, alewives are capable of spawning in both shallow and deep water environments, highlighting their adaptability in selecting suitable spawning locations.</p>
+<p>Spawning adult alewives exhibit specific depth preferences during their reproductive activities. Notably, adult alewives migrating inland show an overall preference for depths below 100 meters <span class="citation">(Pardue 1983; Munroe 2000)</span>. Species of herring from the same clupeid family have been known to spawn at depths ranging from 0.5 to 15 meters (Haegele &amp; Schweigert 1985). Alewives generally favor depths from Mean Low Tide (MLT) to 10 meters (Brown 2000). Other studies report that alewives favor more shallow spawning habitats ranging from 0.15 to 3 meters <span class="citation">(Pardue 1983)</span>, with significant spawning recorded around 0.5 meters (Kosa &amp; Mather 2001). Additional field observations, reveal a significant proportion of alewives occupying habitats as shallow as 2 meters <span class="citation">(@ Mather et al. 2012)</span>. This variability in depth preferences reflects the adaptability of alewives to different environmental conditions during their spawning and migration phases.</p>
 </div>
 <div id="salinity" class="section level4 hasAnchor" number="4.2.1.3">
 <h4><span class="header-section-number">4.2.1.3</span> Salinity<a href="alewife-alosa-pseudoharengus.html#salinity" class="anchor-section" aria-label="Anchor link to header"></a></h4>
-<p>Further, documented behavior of alewives challenges the conventional belief that anadromous species exclusively depend on freshwater environments for spawning.
-Alewives have been observed spawning in freshwater habitats with minimal salinity concentrations, revealing a preference for environments with salinity levels below 0.5 psu.
-However, they can tolerate salinity levels as high as 8 psu for successful spawning, as documented in the study conducted by <span class="citation">Able et al. (2020)</span>. More recently, <span class="citation">Brown et al. (2000)</span> emphasizes an additional heightened preference for habitats with salinity concentrations below 15 psu, while concentrations surpassing 20 psu are deemed unsuitable for spawning adults.
-Additionally, field studies have documented that adult alewives engage in spawning activities across a diverse array of estuarine habitats with varying salinity levels, including ponds within coastal systems, pond-like regions within coastal rivers and streams, oxbows, eddies, backwaters, stream pools, and flooded swamps <span class="citation">(Pardue 1983; Mullen, Fay, and Moring 1986; Collette and Klein-MacPhee 2003; Walsh, Settle, and Peters 2005)</span>.</p>
+<p>The documented behavior of alewives challenges conventional beliefs about anadromous species exclusively relying on freshwater environments for spawning. Observations reveal that alewives engage in spawning activities in freshwater tidal habitats with minimal salinity concentrations, demonstrating adaptability to environments with salinity levels below 0.5 psu <span class="citation">(Pardue 1983; Brown et al. 2000)</span>. This adaptability extends to tolerating higher salinity levels, with successful spawning observed in concentraions of 8 psu <span class="citation">(Able et al. 2020)</span>. Other research by <span class="citation">Brown et al. (2000)</span> emphasizes a heightened preference for habitats with salinity concentrations below 15 psu, deeming concentrations exceeding 20 psu unsuitable for spawning adults. Field studies further document that adult alewives exhibit spawning activities across diverse estuary habitats with varying salinity levels, including coastal ponds, pond-like regions in coastal rivers and streams, oxbows, eddies, backwaters, stream pools, and flooded swamps <span class="citation">(Pardue 1983; Mullen, Fay, and Moring 1986; Collette and Klein-MacPhee 2003; Walsh, Settle, and Peters 2005)</span>. Remarkably, species of herring from the same clupeid family have been known to spawn in a wide range of salinities, from freshwater to levels exceeding 35 psu (Haegele &amp; Schweigert 1985). This adaptability underscores the versatility of alewives in utilizing estuarine habitats with varying salinity conditions for their spawning activities.</p>
 </div>
 <div id="flow-velocity" class="section level4 hasAnchor" number="4.2.1.4">
 <h4><span class="header-section-number">4.2.1.4</span> Flow Velocity<a href="alewife-alosa-pseudoharengus.html#flow-velocity" class="anchor-section" aria-label="Anchor link to header"></a></h4>
 <ul>
-<li><p>Because impingement of smaller species (alewife, bluebackherring, andwalleye)onthetail-waterweirscreenoccurred in initial 4.5m·s–1 trials, andbecauseperformance was poor under the 3.5m·s–1 condition (Fig. 4), these smallerspecieswerenotrunat4.5m·s–1. (Haro 2004)</p></li>
-<li><p>alewives show a prefereance for lower velocities than blueback herring (haro 2004)</p></li>
+<li><p>Because impingement of smaller species (alewife, blueback herring, and walleye) on the tail-water weir screen occurred in initial 4.5 m·s–1 trials, and because performance was poor under the 3.5m·s–1 condition (Fig. 4), these smaller species were not run at 4.5 m·s–1. (Haro 2004)</p></li>
+<li><p>alewives show a preference for lower velocities than blueback herring (haro 2004)</p></li>
 <li><p>Tagged alewives spent little time in riffle–run habitats and substantial time in pools, although the locations of pool occupancy varied. (Mather et al., 2012)</p></li>
 <li><p>Low velocities (0.0–1.7 m/s) (Walsh et al 2005)</p></li>
 <li><p>&lt; 0.30 m/s <span class="citation">Pardue (1983)</span></p></li>
@@ -246,9 +221,11 @@ Understanding the preferred flow velocities is essential in managing and preserv
 <h4><span class="header-section-number">4.2.1.5</span> Substrate<a href="alewife-alosa-pseudoharengus.html#substrate" class="anchor-section" aria-label="Anchor link to header"></a></h4>
 <p>Previous studies have presented conflicting information regarding the substrate preferences of spawning adult alewives, often stemming from the generalization of alewives with blueback herring as river herring.
 Moreover, although <span class="citation">Brown et al. (2000)</span> argues that substrate composition holds no significance in alewife models, contrasting observations from various sources present compelling evidence in favor of a more defined range of substrate preferences among spawning alewives <span class="citation">(Fay, Neves, and Pardue 1983; Killgore, Morgan, and Hurley 1988; O’Connell and Angermeier 1997; Able et al. 2020)</span>.
-Adult alewives spawn over a range of unconsolidated substrates, including small gravel, sand, vegetation, and other soft substrates <span class="citation">(Pardue 1983; O’Connell and Angermeier 1997; Brown et al. 2000)</span>.
-Aside from their demonstrated dependence on soft substrates, spawning adult alewives also exhibit a pronounced inclination toward habitats containing sub-aquatic vegetation <span class="citation">(Killgore, Morgan, and Hurley 1988; Laney 1997)</span>.
+Adult alewives spawn over a range of unconsolidated substrates, including small gravel, sand, detritus, and other soft substrates [<span class="citation">Pardue (1983)</span>; <em>bourne 1990</em>; <span class="citation">O’Connell and Angermeier (1997)</span>; <span class="citation">Brown et al. (2000)</span>]. Additionally, spawning adult alewives may avoid habitats containing sub-aquatic vegetation <span class="citation">(Killgore, Morgan, and Hurley 1988; Laney 1997)</span>.
 Comprehending and defining these substrate preferences is crucial to effectively manage and conserve the appropriate spawning habitats for alewives.</p>
+<ul>
+<li>no strong preference for bottom substrate type (Bourne, 1990)</li>
+</ul>
 </div>
 </div>
 <div id="non-migratory-juveniles" class="section level3 hasAnchor" number="4.2.2">
@@ -265,31 +242,38 @@ Optimal temperatures for juvenile alewife development fall within the range of</
 <li><p>most juvenile recruitment in Delaware River at 22°C Potomac River at 22.3°C Nanticoke River 21.8°C (tommasi 2015)</p></li>
 <li><p>The optimal nursery rearing temperature was 20–23 °C (tommasi 2015)</p></li>
 <li><p>The optimal temperature for river herring juveniles during the nursery phase varied across systems and species, but ranged between 20 and 22 °C (tommasi)</p></li>
-<li></li>
+<li><p>final preference of young alewives was estimated to be 26.3 C (Kellogg, 1982).</p></li>
 <li><p>exposure to temperature extremes during development in nursery habitats may constrain juvenile growth and decrease performance (Pörtner and Farrell 2008; Kellogg 1982; Henderson and Brown 1985; Overton et al. 2012).</p></li>
 <li><p>broader suitability range for juvenile recruitment from 11°C to 28°C <span class="citation">(Pardue 1983; Fay, Neves, and Pardue 1983; Klauda, Fischer, and Sullivan 1991; Brown et al. 2000; Munroe 2000; Tommasi et al. 2015)</span>.</p></li>
 </ul>
-<p>Juvenile river herring do not survive temperatures of 3°C or less <span class="citation">(Otto, Kitchel, and Rice 1976; Kellogg 1982; Pardue 1983)</span>.
+<p>Juvenile river herring do not survive temperatures of 3°C or less <span class="citation">(Otto, Kitchel, and Rice 1976; Kellogg 1982; Pardue 1983:(Mullen et al., 1986))</span>.
 Maintaining water temperatures within these ranges is crucial for the successful development and overall health of non-migratory juvenile alewives and larvae.</p>
+<ul>
+<li>supported in observations where Eel River had a mean temperature of 23.1°C, while the Herring River (Bourne) had temperatures with a mean of 25.1°C (Ames &amp; Lichter, 2013).</li>
+<li>feeding behavior disrupted at 6.7 C, 4.5 C schooling behavior is disrupted, 2.8 fish are completely disoriented (Mullen et al., 1986)</li>
+</ul>
 </div>
 <div id="depth-1" class="section level4 hasAnchor" number="4.2.2.2">
 <h4><span class="header-section-number">4.2.2.2</span> Depth<a href="alewife-alosa-pseudoharengus.html#depth-1" class="anchor-section" aria-label="Anchor link to header"></a></h4>
 <ul>
-<li><p>MLT - 10 m <span class="citation">Brown et al. (2000)</span></p></li>
-<li></li>
+<li>MLT - 10 m <span class="citation">Brown et al. (2000)</span></li>
 </ul>
 <p>The depth preferences of non-migratory juvenile alewives differ from their adult counterparts, as juveniles exhibit a preference for depths ranging from 0 to 10 meters, with no habitat suitability observed beyond 20 meters <span class="citation">(Brown et al. 2000; Höök et al. 2008)</span>.
 Research by <span class="citation">Pardue (1983)</span> further supports this finding, indicating that juveniles prefer depths between 0.5 to 5 meters, and that juvenile abundance increases around five meter depths <span class="citation">(Pardue 1983)</span>.
-Overall, these field observations indicate that optimal depth for juvenile alewives &gt;= 5 meters.</p>
+Overall, these field observations indicate that optimal depth for juvenile alewives &lt;= 5 meters.</p>
 </div>
 <div id="salinity-1" class="section level4 hasAnchor" number="4.2.2.3">
 <h4><span class="header-section-number">4.2.2.3</span> Salinity<a href="alewife-alosa-pseudoharengus.html#salinity-1" class="anchor-section" aria-label="Anchor link to header"></a></h4>
 <ul>
-<li>found up to 32 psu <span class="citation">Pardue (1983)</span></li>
-<li>prefer &gt; 10 psu <span class="citation">Brown et al. (2000)</span></li>
-<li></li>
+<li><p>The findings in the study suggest that alewives, during their juvenile development, exhibit adaptations in response to different levels of salinity (salt in the water). When exposed to seawater, the alewives showed increased activity in specific proteins and structures in their gills, indicating a capacity for osmoregulation, or the ability to regulate salt and water balance. This adaptation suggests that alewives are capable of maintaining a stable internal environment in seawater. While the study doesn’t explicitly state a salinity preference, the observed physiological adjustments imply that alewives have the ability to thrive in environments with varying salinity, making them adaptable to both freshwater and saltwater habitats during different stages of their life cycle (Christensen et al., 2012).</p></li>
+<li><p>found up to 32 psu <span class="citation">Pardue (1983)</span></p></li>
+<li><p>prefer &gt; 10 psu <span class="citation">Brown et al. (2000)</span></p></li>
+<li><p>Alewives demonstrate complete survival when maintained in control conditions (0‰ to 0‰ salinity).
+However, when transferred from higher salinities (15‰ and 30‰) to 0‰ salinity, Alewives show significantly lower survival rates.
+The lower survival rates under sudden shifts to lower salinities suggest that Alewives may be less tolerant to rapid decreases in salinity, emphasizing a potential preference for higher salinity environments.
+This information implies that Alewives might be better adapted to or have a preference for estuarine areas with higher salinities.(DiMaggio et al., 2015)</p></li>
 </ul>
-<p>Juvenile alewives exhibit a distinct salinity preference, favoring concentrations exceeding 10 psu and even tolerating levels up to 30 psu <span class="citation">(Pardue 1983; Brown et al. 2000)</span>.
+<p>Juvenile alewives exhibit a distinct salinity preference, favoring concentrations exceeding 10 psu and even tolerating levels up to 30 psu <span class="citation">(Brown et al. 2000)</span>.
 Research by <span class="citation">Fay, Neves, and Pardue (1983)</span> notes their presence in areas with salinity below 12 psu, indicating adaptability to lower salinity environments.
 <span class="citation">Turner and Limburg (2016)</span> along with <span class="citation">Able et al. (2020)</span> emphasize the preference of juveniles for estuarine habitats with salinity concentrations spanning 0.5 to 25 psu, promoting an ideal balance between freshwater and marine conditions for growth.
 While salinities exceeding 20 psu might impede suitability by affecting feeding and physiological processes <span class="citation">(Fabrizio et al. 2021)</span>, higher salinities up to 30 psu show minimal adverse effects on the health and survival of juvenile alewives, with a 100% survival rate observed at 15 psu <span class="citation">(DiMaggio et al. 2015)</span>.
@@ -299,45 +283,67 @@ In summary, juvenile alewives exhibit a versatile salinity preference that range
 <h4><span class="header-section-number">4.2.2.4</span> Flow Velocity<a href="alewife-alosa-pseudoharengus.html#flow-velocity-1" class="anchor-section" aria-label="Anchor link to header"></a></h4>
 <ul>
 <li>Numbers of recruits were maximized at a flow of 672 m3·s−1 and flow of6m3·s−1 (tommasi 2015)</li>
+<li>Both species spawn primarily in habitats with little or no current Walsh 2005</li>
 </ul>
 <p>Flow velocity is a crucial determinant of the development and survival of non-migratory juvenile alewives <span class="citation">(Tommasi et al. 2015)</span>.
-Previous optimal velocities for larvae and egg development were observed from 0 to 0.3 m/s <span class="citation">(Pardue 1983)</span>.
 Other studies document juvenile alewife preference for habitats with flow velocities ranging from 0.05 to 0.17 m/s <span class="citation">(Richkus 1975; O’Connell and Angermeier 1999)</span>.
-Larval alewives are consistently found in water velocities up to approximately 0.12 m/s, but they are absent in faster currents <span class="citation">(Ingel 2013)</span>.
-Slower flow rates offer suitable conditions for juveniles and larvae to conserve energy while effectively foraging for food <span class="citation">(Haro et al. 2004)</span>.
+Slower flow rates offer suitable conditions for juveniles to conserve energy while effectively foraging for food <span class="citation">(Haro et al. 2004)</span>.
 Conversely, higher flow velocities may hinder their ability to access critical food resources, maintain their position in the water column, and displace recently spawned eggs from their initial location <span class="citation">(Haro et al. 2004; Able et al. 2020)</span>.
-Understanding the flow velocity preferences and effects on non-migratory juvenile alewives and larvae is crucial for effective habitat management and successful transition from egg to adulthood.</p>
+Understanding the flow velocity preferences and effects on non-migratory juvenile alewives is crucial for effective habitat management and successful transition from egg to adulthood.</p>
 </div>
 <div id="substrate-1" class="section level4 hasAnchor" number="4.2.2.5">
 <h4><span class="header-section-number">4.2.2.5</span> Substrate<a href="alewife-alosa-pseudoharengus.html#substrate-1" class="anchor-section" aria-label="Anchor link to header"></a></h4>
 <p>Non-migratory juvenile alewives exhibit diverse substrate preferences that reflect their adaptability to various environments.
 While previous studies suggest a preference for sandy substrates <span class="citation">Fay, Neves, and Pardue (1983)</span>, more recent observations indicate a potential preference for rocky substrates <span class="citation">(Janssen and Luebke 2004; Boscarino et al. 2020)</span>.
 Seagrass coverage also plays a vital role in the habitat of these juveniles.
-Despite some studies suggesting avoidance of areas with aquatic vegetation <span class="citation">Ingel (2013)</span>, research by <span class="citation">Laney (1997)</span> and <span class="citation">Smith and Rulifson (2015)</span> demonstrates that seagrass beds provide essential nursery habitat, offering refuge from predators and abundant food sources.
+Despite some studies suggesting avoidance of areas with aquatic vegetation <span class="citation">Ingel (2013)</span>, research by <span class="citation">Laney (1997)</span> and <span class="citation">Smith and Rulifson (2015)</span> demonstrates that seagrass beds provide essential nursery habitat for juveniles, offering refuge from predators and abundant food sources.
 Seagrass beds enhance water quality by stabilizing sediments and promoting nutrient cycling, creating a favorable environment for juvenile alewives to thrive.
 These vegetated areas are also crucial for overwintering habitat <span class="citation">(Killgore, Morgan, and Hurley 1988)</span>.
 Understanding these diverse substrate preferences and the importance of seagrass coverage is essential for effective habitat management and the successful development of non-migratory juvenile alewives.</p>
+<ul>
+<li>Alewife catches at rocky sites were about four times those for sandy sites <span class="citation">Janssen and Luebke (2004)</span></li>
+<li>could be because Wells (1980) rocky habitat was more profitable in feeding on zooplankton.</li>
+</ul>
 </div>
 </div>
 <div id="eggs-larvae" class="section level3 hasAnchor" number="4.2.3">
 <h3><span class="header-section-number">4.2.3</span> Eggs &amp; Larvae<a href="alewife-alosa-pseudoharengus.html#eggs-larvae" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<ul>
+<li>Alewife planktonic larval phases are vulnerable to passive transport dispersal (Schmidt et al 1988</li>
+</ul>
 <div id="temperature-2" class="section level4 hasAnchor" number="4.2.3.1">
 <h4><span class="header-section-number">4.2.3.1</span> Temperature<a href="alewife-alosa-pseudoharengus.html#temperature-2" class="anchor-section" aria-label="Anchor link to header"></a></h4>
 <ul>
 <li><p>most larvae growth at 26.4 with optimal estimated at 26.3 <span class="citation">Pardue (1983)</span></p></li>
+<li><p>12 - 30 egg survival broad range (Kellogg, 1982).</p></li>
 <li><p>hatching success ceases entirely above 29.7°C <span class="citation">Kellogg (1982)</span>; <span class="citation">Pardue (1983)</span></p></li>
 <li><p>Moreover, temperature can reduce the suitability of nursery areas by influencing predation rates (Tommasi 2015).</p></li>
 <li><p>Chowan River was the only system in which June maximum air temperature reached values above both the temperature of maximum alewife larval growth rate (29.1 °C) and their upper thermal tolerance (31 °C) (Kellogg 1982)</p></li>
 <li><p>peak densities were positively associated with peaks in water temperature (within the range of 4-19 C) (O’Connell &amp; Angermeier, 1999).</p></li>
+<li><p>lower temperatures and peaks in river flow negatively impacted early life stages (O’Connell &amp; Angermeier, 1999)</p></li>
+<li><p>The two highest peaks of alewife egg ‘b’ densities occurred at temperatures within optimal and suitable ranges (O’Connell &amp; Angermeier, 1999) (16-21°C and 11-28”C, respectively, Klauda et al. 1991)</p></li>
+<li><p>A metric of the optimal hatching temperature for alewife larvae was defined as 16°C, as used by Edsall (1970).</p></li>
+<li><p>maximum hatching success occurred at 12.7 and 15.0, 20.8 C, fell significantly 26.7-26.8 C, and no hatch occurred at 29.7 C (Kellogg, 1982).</p></li>
+<li><p>31 degrees larvae mortality (Kellogg, 1982).</p></li>
+<li><p>Edsall (1970) Eggs hatched at test temperatures between 7 and 29.5 *C.</p></li>
+<li><p>larval health decreases at 26.5 C (Mullen et al., 1986)</p></li>
+<li><p>11.48C to 23.08C, 10.98C to 20.88C (walsh 2005)</p></li>
+<li><p>Larvae were not found in the canal oroxbow until late April and were never abundantat water temperatures below 14 C (walsh 2005).</p></li>
 </ul>
 </div>
 <div id="depth-2" class="section level4 hasAnchor" number="4.2.3.2">
 <h4><span class="header-section-number">4.2.3.2</span> Depth<a href="alewife-alosa-pseudoharengus.html#depth-2" class="anchor-section" aria-label="Anchor link to header"></a></h4>
-<p>Lake Ontario research by <span class="citation">Ingel (2013)</span> found that early post-hatch larvae are abundant in depths less than 3 meters, while larger larvae occupy progressively deeper habitats.
-Similarly, observations in Nova Scotia’s Margaree River indicate that alewife larvae predominantly reside in depths shallower than 2 meters.
+<ul>
+<li>In general, alewife larvae were uniformly distributed in the nearshore at Chaumont and Irondequoit in 1998 out to the 15-m contour captured in waters &lt; 5 m deep (Klumb et al., 2003)</li>
+</ul>
+<p>Lake Ontario research by <span class="citation">Ingel (2013)</span> found that early post-hatch larvae are abundant in depths less than 3 meters, while larger larvae occupy progressively deeper habitats.</p>
+<p>Similarly, observations in Nova Scotia’s Margaree River indicate that alewife larvae predominantly reside in depths shallower than 2 meters.
 These shallow-water habitats provide protection from predators and access to food sources, eventually facilitating growth and development into a juvenile.</p>
 <ul>
-<li>&lt; 2 m <span class="citation">Pardue (1983)</span></li>
+<li><p>&lt; 2 m <span class="citation">Pardue (1983)</span></p></li>
+<li><p>very few larvae were found at sampling locations shallower than 0.5 m (Ingel, 2013).</p></li>
+<li><p>In Lake Ontario, early post-hatch larvae were most abundant in shallow areas less than 3m in depth, with larger larvae progressively occupying deeper habitat (Dunstall 1984).</p></li>
+<li><p>Larval Alosa in Nova Scotian fmgs rivers inhabite-i-waters that were relatively shallow (&lt;2 m) (Mullen et al., 1986)</p></li>
 </ul>
 </div>
 <div id="salinity-2" class="section level4 hasAnchor" number="4.2.3.3">
@@ -345,17 +351,35 @@ These shallow-water habitats provide protection from predators and access to foo
 <ul>
 <li><p>&lt; 12 ppt <span class="citation">Pardue (1983)</span></p></li>
 <li><p>After hatching, the larvae and small juveniles use freshwater streams (Kosa and Mather 2001; tommasi 2015)</p></li>
+<li><p>highly tolerant of salinity changes (Mullen et al., 1986)</p></li>
+<li><p>Alewives:</p></li>
+</ul>
+<p>The highest mean survival rate for Alewives is observed at 15‰ salinity (76.0%).
+As salinity increases to 20‰ and 30‰, the mean survival rates for Alewives decrease (69.3% and 64.7%, respectively).
+This pattern suggests that Alewives may exhibit a preference for lower salinity conditions, as indicated by their higher survival rates at 15‰ compared to higher salinities. (DiMaggio et al., 2015)</p>
+<ul>
+<li><p>Pacific herring eggs are tolerant to salinities in the range of 3-33% (Haegele &amp; Schweigert, 1985).</p></li>
+<li><p>Alewife embryo survival following acute transfer to low salinities (2, 5, and 10 g/L) was significantly greater (&gt; 97%) than at 15–30 g/L (P &lt; 0.0001, Fig. 2a). Alewife embryo survival at 2, 5, 10, 15, 20, 25, and 30 g/L was 97.6 ± 1.2%, 98.0 ± 0.4%, 98.1 ± 0.4%, 6.2 ± 2.7%, 3.7 ± 0.3%, 2.9 ± 0.6, and 0.7 ± 0.3%, respectively (DiMaggio 2016)</p></li>
+<li><p>herring eggs and larvae developing in abundance in sea-water with healthy and active larvae (Ford, 1929)</p></li>
 </ul>
 </div>
 <div id="flow-velocity-2" class="section level4 hasAnchor" number="4.2.3.4">
 <h4><span class="header-section-number">4.2.3.4</span> Flow Velocity<a href="alewife-alosa-pseudoharengus.html#flow-velocity-2" class="anchor-section" aria-label="Anchor link to header"></a></h4>
 <ul>
 <li><p>Occurrences of alewife early egg stages were positively related velocity (3-20 cm/s) (O’Connell &amp; Angermeier, 1999)</p></li>
+<li><p>Rapid decline in larvae associated with high flows (O’Connell &amp; Angermeier, 1999)</p></li>
 <li><p>Data from the Delaware River show that too high flows may also be detrimental to juvenile recruitment. High flow increases water velocity and may create high velocity barriers that reduce the swimming performance of anadromous fish (Haro et al. 2004).</p></li>
+<li><p>Larval alewives were consistently found in water velocities up to 12 cm/sec, but not in faster currents (Ingel, 2013).</p></li>
+<li><p>alewife distribution is not primarily influenced by overall tidal fluctuations or the highest speeds of water flow but rather by more localized and instantaneous changes in velocity, Larvae are not solely distributed in pockets of constant low-velocity habitat (Ingel, 2013).</p></li>
+<li><p>Previous optimal velocities for larvae and egg development were observed from 0 to 0.3 m/s <span class="citation">(Pardue 1983)</span>.</p></li>
 </ul>
 </div>
 <div id="substrate-2" class="section level4 hasAnchor" number="4.2.3.5">
 <h4><span class="header-section-number">4.2.3.5</span> Substrate<a href="alewife-alosa-pseudoharengus.html#substrate-2" class="anchor-section" aria-label="Anchor link to header"></a></h4>
+<ul>
+<li><p>thought to provide spawning and nursery habitat for anadromous and resident fishes (Miller et al 2006); however, in the case of alewives, larval catch was inversely related to vegetation density. larvae were most frequently found in areas with less than 10 percent vegetation density and were never found in areas where vegetation density exceeded 30 percent (Ingel, 2013).</p></li>
+<li><p>Anderson and Schmidt (1989) found that alewife larvae were a dominant fish species prior to the development of dense water-chestnut cover, but no longer inhabited these areas after the establishment of this invasive plant, while larval minnows and killifish persisted in the dense beds. Schmidt and Kiviat (1988) caught small numbers of larval alewife in water-chestnut and water celery beds compared to minnows and killifish larvae.</p></li>
+</ul>
 </div>
 </div>
 </div>
@@ -444,11 +468,13 @@ These breakpoints provide a more refined understanding of alewife habitat prefer
 <p><span class="math inline">\(0.3 &lt;= v &lt; 1.5\)</span></p>
 <p><span class="math inline">\(1.5 &lt;= v &lt; 3.5\)</span></p>
 <p><span class="math inline">\(3.5 &lt;= v &lt; 4.5\)</span></p>
+<p><span class="math inline">\(4.5 &lt;= v &lt; 5\)</span></p>
 <p><span class="math inline">\(v &gt; 5\)</span></p></td>
 <td><p>1.0</p>
 <p>1.0</p>
 <p>0.5</p>
 <p>0.3</p>
+<p>0.1</p>
 <p>0.0</p></td>
 </tr>
 <tr class="odd">
@@ -467,6 +493,21 @@ These breakpoints provide a more refined understanding of alewife habitat prefer
 <p><strong>Table 1.</strong> Model Parameters and Habitat Suitability Values for Spawning Adult Alewives</p>
 <div id="temperature-3" class="section level4 hasAnchor" number="4.3.1.1">
 <h4><span class="header-section-number">4.3.1.1</span> Temperature<a href="alewife-alosa-pseudoharengus.html#temperature-3" class="anchor-section" aria-label="Anchor link to header"></a></h4>
+<ul>
+<li>Alewives begin spawning at temperatures of 10.5 °C (Cianci 1969).</li>
+<li>Upstream migration is reported to begin at temperatures between 5◦C and 10◦C (Loesch 1987), little instream movement occurs below 8◦C or over 18◦C (Collette and KleinMacPhee 2002), and spawning ceases at water temperatures exceeding 27◦C (Kissil 1974).</li>
+<li>Appropriate spawning temperatures broadly fall between 10◦C and 22◦C (Tyus 1974; Pardue 1983; Collette and Klein-MacPhee 2002)</li>
+<li>fish tagged when temperatures were 10.29–22.31◦C (O’Connell &amp; Angermeier, 1997)</li>
+<li>temps measured before the spawning run around 6 C and temps measured during the spawning run 12.8 C-14 C (Durbin et al., 1979).</li>
+<li>spawning begins at 10.5 C (Mullen et al., 1986)</li>
+<li>Alewives begin spawning when water temperatures reach 10.56 C (Reback et al., 2004).</li>
+<li>Both species cease spawning when the water warms to 26.11 C (Reback et al., 2004).</li>
+</ul>
+<p>Temperature preferences during spawning vary across studies, but there is a consensus that optimal temperatures for successful spawning fall within the range of 12 to 16 degrees Celsius <span class="citation">(Brown et al. 2000)</span>.
+Suitable spawning temperatures broadly span from 12 to 22 degrees Celsius <span class="citation">(Tyus 1974; Pardue 1983; Collette and Klein-MacPhee 2003; Mather et al. 2012)</span> and during the migration inland, alewives tend to favor offshore locations where bottom temperatures are between 7 and 11 degrees Celsius <span class="citation">(Munroe 2000)</span>.
+Spawning activity significantly diminishes above 27 degrees Celsius <span class="citation">(Kissil 1974; Pardue 1983; Brown et al. 2000)</span>.
+Deviations from the optimal temperature range can significantly impact spawning success and the timing of migration.
+Water temperature also plays a critical role in alewife abundance and movement patterns <span class="citation">(Legett et al. 2021)</span>.</p>
 <p>In contrast to earlier models, the new HSI model delineates mean daily temperature preferences with greater accuracy.
 While previous models often employed broader temperature categories, the current model introduces finer distinctions.
 For instance, the new model identifies a specific range (12 to 16 degrees Celsius) where alewives exhibit peak suitability, providing a more accurate depiction of their thermal requirements for successful spawning.
@@ -474,6 +515,13 @@ Moreover, the model highlights an upper mean daily temperature limit (27 degrees
 </div>
 <div id="depth-3" class="section level4 hasAnchor" number="4.3.1.2">
 <h4><span class="header-section-number">4.3.1.2</span> Depth<a href="alewife-alosa-pseudoharengus.html#depth-3" class="anchor-section" aria-label="Anchor link to header"></a></h4>
+<ul>
+<li>0.15–3 m <span class="citation">Pardue (1983)</span></li>
+<li>spawning habitat were all 0.5m or less (Kosa &amp; Mather, 2001)</li>
+<li>Species of herring from the same cluepid family have been known to spawn majority 0.5-5m and up to 15 m (Haegele &amp; Schweigert, 1985).</li>
+</ul>
+<p>In terms of depth preferences, spawning adult alewives are generally known to favor depths ranging from Mean Low Tide (MLT) to 10 meters <span class="citation">(Brown et al. 2000)</span>, but recent field observations indicate that a significant proportion of alewives can be found in habitats as shallow as 2 meters <span class="citation">(Mather et al. 2012)</span>.
+Offshore alewives migrating inland have been documented to favor deeper depths (depth &lt; 100m) <span class="citation">(Pardue 1983; Munroe 2000)</span>.</p>
 <p>The updated model also offers more detailed depth preferences.
 Previous models might have employed generalized depth categories, but the new model introduces distinct depth ranges.
 This allows for a more refined assessment of habitat suitability.
@@ -482,6 +530,10 @@ Additionally, it identifies a depth threshold (100 meters) beyond which habitats
 </div>
 <div id="salinity-3" class="section level4 hasAnchor" number="4.3.1.3">
 <h4><span class="header-section-number">4.3.1.3</span> Salinity<a href="alewife-alosa-pseudoharengus.html#salinity-3" class="anchor-section" aria-label="Anchor link to header"></a></h4>
+<p>Further, documented behavior of alewives challenges the conventional belief that anadromous species exclusively depend on freshwater environments for spawning.
+Alewives have been widely observed spawning in freshwater tidal habitats with minimal salinity concentrations, revealing a habitat use in environments with salinity levels below 0.5 psu <span class="citation">(Pardue 1983)</span>.
+However, they can tolerate salinity levels as high as 8 psu for successful spawning, as documented in the study conducted by <span class="citation">Able et al. (2020)</span>. More recently, <span class="citation">Brown et al. (2000)</span> emphasizes an additional heightened preference for habitats with salinity concentrations below 15 psu, while concentrations surpassing 20 psu are deemed unsuitable for spawning adults.
+Additionally, field studies have documented that adult alewives engage in spawning activities across a diverse array of estuary habitats with varying salinity levels, including ponds within coastal systems, pond-like regions within coastal rivers and streams, oxbows, eddies, backwaters, stream pools, and flooded swamps <span class="citation">(Pardue 1983; Mullen, Fay, and Moring 1986; Collette and Klein-MacPhee 2003; Walsh, Settle, and Peters 2005)</span>. Species of herring from the same cluepid family have been known to spawn in a range of salinities from freshwater to 35+ psus (Haegele &amp; Schweigert, 1985).</p>
 <p>The new HSI model also refines the depiction of alewife salinity preferences.
 Unlike earlier models, which may have had narrow salinity categories, the updated model provides a more nuanced view.
 It pinpoints a specific range (0 to 5 psu) where alewives exhibit the highest suitability, aligning closely with empirical data.

@@ -1,9 +1,9 @@
 # Blueback Herring (*Alosa aestivalis*)
 
 This chapter aims to explore the habitat preferences and life cycle of blueback herring (*Alosa aestivalis*) in the northeastern United States.
-Alewives have faced significant declines,
+Blueback herring have faced significant declines,
 
-This chapter explores the favorable habitat conditions for spawning alewife adults, non-migratory juveniles, and larvae, which are influenced by factors such as suitable spawning habitats, water quality conditions, and availability of appropriate food resources [@lynch_projected_2015].
+This chapter explores the favorable habitat conditions for spawning blueback adults, non-migratory juveniles, as well as eggs and larvae, which are influenced by factors such as suitable spawning habitats, water quality conditions, and availability of appropriate food resources [@lynch_projected_2015].
 
  blueback herring spawn in higher salinity, faster-moving waters in the lower river (Turner & Limburg, 2016)
  
@@ -32,11 +32,14 @@ This chapter explores the favorable habitat conditions for spawning alewife adul
 - Our results demonstrate that the spawning temperature that maximized juvenile blueback herring abundance in the Delaware River was 11 °C (tommasi 2015)
 
 - spawning begins at 14 C (Mullen et al., 1986)
+-  Alewives begin spawning when water temperatures reach 51 and bluebacks 57 degrees F (Reback et al., 2004). 
+-  Both species cease spawning when the water warms to 81°F (Reback et al., 2004). 
 
 #### Depth
 
 - 0.15–3 m @pardue_habitat_1983
 - spawning habitat were all 0.5 m or less (Kosa & Mather, 2001)
+- Species of herring from the same cluepid family have been known to spawn majority 0.5-5m and up to 15 m (Haegele & Schweigert, 1985).
 
 
 #### Salinity
@@ -44,7 +47,9 @@ This chapter explores the favorable habitat conditions for spawning alewife adul
 -  spawning begins then or shortly thereafter. Although this species apparently spawns primarily in fresh water, spawning also occurs in brackish ponds at Woods Hole (Nichols and Breder, 1926; Hildebrand, 1963). 
 
 - I  found that the chief spawning grounds in the Delaware River were in tidal water (Chittenden, 1972)
-
+- Species of herring from the same cluepid family have been known to spawn in a range of salinities from freshwater to 35+ psus (Haegele & Schweigert, 1985).
+- Alewives have been widely observed spawning in freshwater tidal habitats with minimal salinity concentrations, revealing a habitat use in environments with salinity levels below 0.5 psu [@pardue_habitat_1983].
+- Blueback herring in Winnegance Lake and Patten Pond show a preference for high salinity environments for spawning, indicated by their limited residency time in freshwater. The immediate transition of fish from Winnegance Lake to the estuary after spawning suggests a preference for high salinity spawning, with the estuarine environment supporting early egg and larvae development (Payne Wynne et al., 2015).
 
 #### Flow Velocity
 
@@ -81,8 +86,11 @@ The high survival rates indicate that Bluebacks are well-adapted and can thrive 
 While the information does not explicitly state a preference for specific salinities, the high survival rates suggest that Bluebacks may have a relatively broad salinity tolerance in the studied range.(DiMaggio et al., 2015)
 
 - blueback herring is highly salinity tolerant early in life (28 psu)  (Chittenden, 1972)
+- herring eggs and larvae developing in abundance in sea-water with healthy and active larvae (Ford, 1929)
 
 #### Flow Velocity
+- Previous optimal velocities for larvae and egg development were observed from 0 to 0.3 m/s [@pardue_habitat_1983].
+
 
 #### Substrate
 -   blueback tend to favor running water and a fairly clean hard bottom, bourne 1990
@@ -98,6 +106,8 @@ While the information does not explicitly state a preference for specific salini
 - 19 C 0-5% deformities, 20 0-24% deformities, Complete larval deformities in eggs exposed to 34 C (Koo and Johnston 1978)
 - 11.48C to 23.08C, 10.98C to 20.88C walsh 2005
 - Larvae were not found in the canal oroxbow  until  late  April  and  were  never  abundantat water temperatures below 148C (walsh 2005).
+- peak densities were positively associated with peaks in water temperature (within the range of 4-19 C) (O’Connell & Angermeier, 1999).
+
 
 #### Depth
 
@@ -114,10 +124,10 @@ This pattern indicates that Bluebacks may exhibit a preference for higher salini
 
 - highly tolerant of salinity changes (Mullen et al., 1986)
 
+-  Pacific herring eggs are tolerant to salinities in the range of 3-33% (Haegele & Schweigert, 1985).
+- blueback herring embryos displayed a wide salinity tolerance throughout the range. Embryos of both species exhibited high survival in tidal salinity exposures. Survival of acutely-transferred alewife and blueback herring larvae decreased with increasing salinity (>20 g/L)(DiMaggio et al., 2016).
 
 #### Flow Velocity
-
-- peak densities were positively associated with peaks in water temperature (within the range of 4-19 C) (O’Connell & Angermeier, 1999).
 
 - lower temperatures and peaks in river flow negatively impacted early life stages (O’Connell & Angermeier, 1999)
 
