@@ -1,8 +1,8 @@
 ---
 output:
-  pdf_document: default
-  word_document: default
   html_document: default
+  word_document: default
+  pdf_document: default
 ---
 # Alewife (*Alosa pseudoharengus*)
 
@@ -80,7 +80,7 @@ Flow velocity preferences play a pivotal role in the development and survival of
 
 #### Substrate
 
-Non-migratory juvenile alewives have broad substrate preferences, underscoring their adaptability to diverse aquatic environments. While earlier studies, such as @fay_alewifeblueback_1983, indicated a preference for sandy substrates, recent observations suggest a potential inclination towards rocky substrates [@janssen_preference_2004; @boscarino_influence_2020]. Alewife catches at rocky sites have been reported to be approximately four times higher than those at sandy sites, possibly attributed to the increased profitability of rocky habitats for feeding on zooplankton [@janssen_preference_2004]; (Wells, 1980). These substrate preferences have implications for habitat management, as understanding the varied substrate choices of juvenile alewives is crucial for creating environments conducive to their successful development and survival.
+Non-migratory juvenile alewives have broad substrate preferences, underscoring their adaptability to diverse aquatic environments. While earlier studies, such as @fay_alewifeblueback_1983, indicated a preference for sandy substrates, recent observations suggest a potential inclination towards rocky substrates [@janssen_preference_2004; (Kornis & Janssen, 2011); @boscarino_influence_2020]. Alewife catches at rocky sites have been reported to be much higher than those at sandy sites, possibly attributed to the increased profitability of rocky habitats for feeding on zooplankton [@janssen_preference_2004];(Kornis & Janssen, 2011); (Wells, 1980). These substrate preferences have implications for habitat management, as understanding the varied substrate choices of juvenile alewives is crucial for creating environments conducive to their successful development and survival.
 
 The presence of seagrass and submerged aquatic vegetation (SAV) is important to non-migratory juvenile alewife habitat. Despite some studies suggesting avoidance of areas with aquatic vegetation [@ingel_habitat_2013], research by @laney_relationship_1997, Olney and Boehlert (1988), (Greene et al., 2009), and @smith_overlapping_2015 contradict this, emphasizing that seagrass beds provide essential nursery habitats for juvenile alewives. These vegetated areas serve as refuge from predators and offer abundant food sources. Seagrass beds also contribute to enhanced water quality by stabilizing sediments and promoting nutrient cycling, creating an optimal environment for the thriving of juvenile alewives. The significance of SAV extends to overwintering habitats, as suggested by @killgore_distribution_1988. The understanding of these diverse substrate preferences and the crucial role of seagrass coverage is pivotal for effective habitat management, ensuring the successful development of non-migratory juvenile alewives in varied aquatic environments.
 
@@ -96,80 +96,44 @@ The association between peak densities of alewife larvae and water temperature p
 
 #### Depth
 
-- In general, alewife larvae were uniformly distributed in the nearshore at Chaumont and Irondequoit in 1998 out to the 15-m contour captured in waters < 5 m deep (Klumb et al., 2003)
-
-Lake Ontario research by @ingel_habitat_2013 found that early post-hatch larvae are abundant in depths less than 3 meters, while larger larvae occupy progressively deeper habitats.
-
-Similarly, observations in Nova Scotia's Margaree River indicate that alewife larvae predominantly reside in depths shallower than 2 meters.
-These shallow-water habitats provide protection from predators and access to food sources, eventually facilitating growth and development into a juvenile.
-
--   < 2 m @pardue_habitat_1983
-- shallow water (2 m) over sandy substrate (Greene et al., 2009)
-
-- very few larvae were found at sampling locations shallower than 0.5 m (Ingel, 2013).
-
--  In Lake Ontario, early post-hatch larvae were most abundant in shallow areas less than 3m in depth, with larger larvae progressively occupying deeper habitat (Dunstall 1984).
-
-- Larval Alosa in Nova Scotian fmgs rivers inhabite-i-waters that were relatively shallow (<2 m) (Mullen et al., 1986)
+Alewife eggs and larvae exhibit clear depth preferences, primarily favoring shallow-water habitats during their early life stages. Observations from Lake Ontario, as documented by Klumb et al. (2003) and Ingel (2013), reveal that alewife larvae are uniformly distributed in nearshore areas, with a significant presence in waters less than 5 meters deep. In the same lake, early post-hatch larvae are particularly abundant in depths less than 3 meters, while larger larvae progressively inhabit deeper habitats (Ingel, 2013; Dunstall, 1984). Studies conducted in Nova Scotia's Margaree River and other locations further emphasize this trend, indicating that alewife larvae predominantly reside in depths shallower than 2 meters (Mullen et al., 1986; Pardue, 1983). The preference for shallow-water habitats is linked to the benefits these environments offer, providing protection from predators and facilitating access to essential food sources, crucial for the growth and development of alewife larvae into juveniles. 
 
 #### Salinity
 
--   < 12 ppt @pardue_habitat_1983
-- water was less than 12 ppt salinity (Dovel 1971). 
-- Dovel (1971) found that growth rates of alewife larvae were much lower in freshwater compared to slightly saline water (1.0 to 1.3 ppt) at 26.4°C. 
--   After hatching, the larvae and small juveniles use freshwater streams (Kosa and Mather 2001; tommasi 2015)
-- highly tolerant of salinity changes (Mullen et al., 1986)
+While there are observations indicating that alewives utilize freshwater streams for their early life stages (Kosa and Mather, 2001; Tommasi, 2015), Mullen et al. (1986) provide evidence of their high tolerance to salinity changes. Pardue's study (1983) reports the presence of alewife eggs and larvae in environments with salinity levels below 12 ppt, suggesting a potential inclination towards slightly saline conditions. This inclination is corroborated by Dovel (1971), who notes that the growth rates of alewife larvae are significantly lower in freshwater compared to slightly saline water, ranging from 1.0 to 1.3 ppt. The adaptability of alewives to a range of salinities is evident in their ability to thrive in different conditions.
 
-- Alewives:
-
-The highest mean survival rate for Alewives is observed at 15‰ salinity (76.0%).
-As salinity increases to 20‰ and 30‰, the mean survival rates for Alewives decrease (69.3% and 64.7%, respectively).
-This pattern suggests that Alewives may exhibit a preference for lower salinity conditions, as indicated by their higher survival rates at 15‰ compared to higher salinities. (DiMaggio et al., 2015)
-
--  Pacific herring eggs are tolerant to salinities in the range of 3-33% (Haegele & Schweigert, 1985).
-
-- Alewife embryo survival following acute transfer to low salinities (2, 5, and 10 g/L) was significantly greater (> 97%) than at 15–30 g/L (P < 0.0001, Fig. 2a). Alewife embryo survival at 2, 5, 10, 15, 20, 25, and 30 g/L was 97.6 ± 1.2%, 98.0 ± 0.4%, 98.1 ± 0.4%, 6.2 ± 2.7%, 3.7 ± 0.3%, 2.9 ± 0.6, and 0.7 ± 0.3%, respectively (DiMaggio 2016)
-
-- herring eggs and larvae developing in abundance in sea-water with healthy and active larvae (Ford, 1929)
+Similarly, other clupeid eggs display tolerance to salinities in the range of 3-33%, and herring eggs and larvae are reported to develop abundantly in seawater with healthy and active larvae (Haegele & Schweigert, 1985; Ford, 1929). DiMaggio et al. (2015) offer valuable insights into the survival rates of alewives at different salinities, with the highest mean survival rate observed at 15‰ salinity (76.0%). As salinity increases to 20‰ and 30‰, the mean survival rates for alewives decrease to 69.3% and 64.7%, respectively. This pattern suggests a potential preference for moderate salinity conditions, supported by the higher survival rates at 15‰ compared to higher salinities. DiMaggio's study (2015) further highlights the adaptability of alewife embryos, showing survival rates above 97% at low salinities (2, 5, and 10 g/L) and decreased survival at salinities above 15 g/L. Overall, these findings highlight the broad salinity preferences that promote successful early development and survival of alewife eggs and larvae.
 
 #### Flow Velocity
 
-- Occurrences of alewife early egg stages were positively related velocity (3-20 cm/s) (O’Connell & Angermeier, 1999)
-- Rapid decline in larvae associated with high flows (O’Connell & Angermeier, 1999)
+The early egg stages of alewives exhibit a positive relationship with flow velocity, particularly in the range of 0.03-0.2 m/s (O’Connell & Angermeier, 1999). However, there is a rapid decline in larvae abundance associated with high flows, suggesting that extreme water velocities can be detrimental to their survival (O’Connell & Angermeier, 1999). Insights from the Delaware River indicate that excessively high flows may negatively impact alewife recruitment, as elevated water velocity can create barriers that hinder the swimming performance of anadromous fish (Haro et al., 2004).
 
-- Data from the Delaware River show that too high flows may also be detrimental to juvenile recruitment. High flow increases water velocity and may create high velocity barriers that reduce the swimming performance of anadromous fish (Haro et al. 2004).
-
-- Larval alewives were consistently found in water velocities up to 12 cm/sec, but not in faster currents (Ingel, 2013).
-
-- alewife distribution is not primarily influenced by overall tidal fluctuations or the highest speeds of water flow but rather by more localized and instantaneous changes in velocity,  Larvae are not solely distributed in pockets of constant low-velocity habitat  (Ingel, 2013).
-
-- Previous optimal velocities for larvae and egg development were observed from 0 to 0.3 m/s [@pardue_habitat_1983].
+In specific habitats, larval alewives tend to be consistently found in water velocities up to 0.12 m/sec, avoiding faster currents (Ingel, 2013). The distribution of alewife larvae is not primarily influenced by overall tidal fluctuations or the highest speeds of water flow; rather, it is influenced by more localized and instantaneous changes in velocity (Ingel, 2013). Previous studies, such as Pardue (1983), observed optimal velocities for larvae and egg development ranging from 0 to 0.3 m/s. These findings collectively highlight the importance of flow velocity in shaping the distribution and development of alewife eggs and larvae, emphasizing the significance of suitable flow conditions for their early life stages.
 
 #### Substrate
 
--  thought to provide spawning and nursery habitat for anadromous and resident fishes (Miller et al 2006); however, in the case of alewives, larval catch was inversely related to vegetation density. larvae were most frequently found in areas with less than 10 percent vegetation density and were never found in areas where vegetation density exceeded 30 percent (Ingel, 2013).
+Substrate preferences significantly influence the distribution and habitat selection of alewife eggs and larvae. The sandy substrate on the eastern side of Lake Michigan was identified as a favorable environment for the primary and secondary production, limiting dreissenid mussel biomass and providing better support for prey available to larval alewife (Prendergast, 2019). Detritus concentrations, a key variable associated with larval growth rate, are positively correlated with productive regions in Lake Michigan, indicating increased prey availability for larval alewife in areas with high detritus concentrations (Prendergast, 2019). Pardue (1983) also suggests that optimal egg and larval habitat is found in substrates composed of 75% silt or other soft material containing detritus and vegetation. Soft substrates, such as sand, are considered conducive to the successful development of alewife eggs and larvae. Further, larvae have not been commonly reported in abundance over hard substrates. Reports of eggs on hard substrates might be attributed to the temporary adhesive property of alewife eggs rather than a preference for hard substrate habitats. 
 
-- Anderson and Schmidt (1989) found that alewife larvae were a dominant fish species prior to the development of dense water-chestnut cover, but no longer inhabited these areas after the establishment of this invasive plant, while larval minnows and killifish persisted in the dense beds. Schmidt and Kiviat (1988) caught small numbers of larval alewife in water-chestnut and water celery beds compared to minnows and killifish larvae. 
-
+Although SAV is thought to provide spawning and nursery habitat for most anadromous and resident fishes, alewife larval catch is inversely related to SAV density, with larvae most frequently found in areas with less than 10 percent vegetation density and never in areas exceeding 30 percent vegetation density (Miller et al 2006); (Ingel, 2013). Studies by Anderson and Schmidt (1989) and Schmidt and Kiviat (1988) further highlights the impact of vegetation cover, like water-chestnut and water celery beds, on the distribution of larval alewife, with a decline in larval abundance following the establishment of dense water-chestnut cover. These findings collectively highlight the substrate preferences of alewife eggs and larvae, emphasizing the importance of soft substrates and vegetation coverage in their habitat.
 
 ## Habitat suitability models
 
-The Alewives Habitat Suitability models, originally developed by @brown_habitat_2000 and @pardue_habitat_1983, with reliance on similar sources such as @bigelow_fishes_1953, possess several limitations that make them inadequate for current applications.
+Existing alewife habitat suitability models, originally developed by @brown_habitat_2000 and @pardue_habitat_1983, with reliance on similar sources such as @bigelow_fishes_1953 and the updated version (Bigelow et al., 2002), possess several limitations that make them inadequate for current applications.
 Primarily, these models are constructed solely on observations of alewives' daytime behavior, neglecting their significant nocturnal activity patterns.
-Recent studies have revealed that alewives are primarily active at night, engaging in feeding and exhibiting substantial downstream movement during these nocturnal periods [@janssen_will_1978; @janssen_feeding_1980; @mccartin_new_2019].
-@collette_fishes_2003 even notes that groups of alewives spawn in the evening.
-Consequently, the exclusive focus on daytime behavior in the existing models fails to capture the true habitat preferences and requirements of alewives, particularly in estuary and brackish environments.
+Recent studies have revealed that alewives are substantially active at night, engaging in feeding and exhibiting substantial downstream movement during these nocturnal periods [@janssen_will_1978; @janssen_feeding_1980; (Greene et al., 2009); @mccartin_new_2019].
+@collette_fishes_2003 and (Greene et al., 2009) even note that groups of alewives spawn in the evening.
+Consequently, the primary focus on daytime behavior in the existing models fails to capture the true habitat preferences and requirements of alewives, particularly in estuary and brackish environments.
 
 Furthermore, the current models predominantly consider variables such as temperature, depth, and substrate, while disregarding other crucial factors that significantly influence alewives' habitat selection, including flow velocity, sub-aquatic vegetation, and life stage differences.
 This limited scope results in incomplete assessments of habitat suitability.
 Moreover, the existing models fall short of encompassing the comprehensive spectrum of knowledge available for alewives, as inconsistencies and potential inaccuracies emerge from conflicting information concerning substrate, salinity, and depth preferences.
 These limitations undermine the models' effectiveness in predicting habitat suitability for alewives, and since the release of these models, updated observations and stock assessments have been published that offer more detailed information on the habitat for alewives.
 
-To address these shortcomings, updated models should encompass a more comprehensive understanding of alewives' behavior, specifically acknowledging their use of estuarine and brackish habitats.
-These habitats serve as critical areas for alewives, exhibiting relatively high levels of habitat use [@mccartin_new_2019; @stevens_evidence_2021].
+To address these shortcomings, habitat models should encompass a more comprehensive understanding of alewives' behavior, specifically acknowledging their use of estuarine and brackish habitats.
+These habitats serve as critical areas for alewives, exhibiting relatively high levels of habitat use [(Greene et al., 2009); @mccartin_new_2019; @stevens_evidence_2021].
 Incorporating these estuarine and brackish areas into management strategies is of paramount importance to ensure the conservation and successful management of the species.
 Notably, utilizing estuaries and brackish habitats for spawning may offer energetically favorable conditions for alewives, as it eliminates the need for them to acclimate to complete freshwater environments [@dimaggio_spawning_2015].
-This recognition highlights the significance of incorporating these habitats into conservation efforts and management plans to safeguard the species and support their reproductive success.
+This recognition highlights the significance of incorporating these habitats into conservation efforts and management plans to safeguard the species and support their reproductive success. The objective of this section is to define an updated habitat model for the spawning adult, non-migratory juvenile, and egg and larvae life stages of the alewife. 
 
 ### Spawning Adult Alewives
 
