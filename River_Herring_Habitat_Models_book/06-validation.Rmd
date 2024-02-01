@@ -1,3 +1,11 @@
-# Validation
+# Evaluation
 
-Future tagging data??
+## Qualitative Evaluation 
+- Tribal evaluation of quality 
+- confidence language
+
+## Quantitative Evaluation
+- Historic Herring Map?
+- Spatial accuracy (Area)?
+
+

@@ -1,7 +1,43 @@
-# Background and History
+# Introduction
 
-potential sources:
+## I. Introduction to River Herring Management
+   - A brief history of river herring management efforts.
+   - Challenges and limitations faced in historical management practices.
+   - The ecological significance of river herring in aquatic ecosystems.
 
-- However, overexploitation has reduced the population size of both species throughout their ranges (Gibson and Myers 2003; Schmidt et al. 2003).
+## II. The Evolution of Ecological Models in River Herring Management
+   - Overview of the historical use of ecological models in river herring management.
+   - Successes and limitations of previous models.
+   - The need for adaptive management strategies in light of changing ecological dynamics.
 
-- Widespread declines in these stocks and those of other alosine species have been attributed to overfishing, degraded water quality, and loss of habitat (Crecco and Savoy 1984; Kosa and Mather 2001).
+## III. Existing Habitat Models for River Herring
+   - Overview of the existing habitat models used for river herring.
+   - An analysis of their effectiveness in capturing the complexities of river herring habitats.
+   - Identifying gaps and limitations in the current habitat models.
+
+## IV. Importance of Model Updates for Better Herring Management
+   - Recognizing the importance of updated biological information.
+   - Highlighting life stage differences in river herring and their relevance to management.
+   - Emphasizing the necessity of expanding habitat preference parameters for a holistic approach.
+
+## V. Objectives of the Research
+   - Outlining the specific goals and objectives of the current study.
+   - A focus on the incorporation of updated biological information into habitat models.
+   - The significance of addressing life stage differences in river herring.
+
+## VI. Overview of the Dissertation Structure
+   - Briefly introducing the chapters and their roles in addressing the research objectives.
+   - A roadmap for readers to navigate through the various sections of the dissertation.
+
+## VII. The Rationale for Model Application to Martha's Vineyard
+   - Discussing the choice of Martha's Vineyard as the project site.
+   - The relevance of the study area to river herring management.
+   - Unique features that make Martha's Vineyard an ideal location for model application.
+
+## VIII. The Necessity of Model Evaluation
+   - Highlighting the importance of evaluating the effectiveness of ecological models.
+   - The role of model evaluation in refining and improving future management strategies.
+
+## IX. Significance of Discussion and Summary Chapters
+   - Previewing the role of the discussion and summary chapters in interpreting findings.
+   - Emphasizing the contribution of the study to advancing river herring management practices.
