@@ -1,0 +1,75 @@
+# Model Application
+
+example of application to martha's vineyard
+
+## Study Area
+We do not know right now the precise 
+places where the herring spawn within Squibnocket 
+and its tributary brooks and pond and salinity conditions where spawning occurs. spawn successfully in the slightly brackish water 
+at the west end of the Pond (or elsewhere within 
+it), or whether they manage to work their way up 
+little tributaries. Bourne 1990. 
+
+## Input Data
+
+## Results
+
+### Spawning Adults
+
+- Alewives
+- Blueback Herring
+
+### Non-Migratory Juveniles
+
+- Alewives
+- Blueback Herring
+
+### Eggs and Larvae
+
+- Alewives
+- Blueback Herring
+
+```{r}
+# Install and load the necessary libraries if not already installed
+# install.packages(c("ggplot2", "ggthemes"))
+library(ggplot2)
+library(ggthemes)
+
+# Define the temperature ranges and corresponding suitability index values
+temperature_ranges <- c(0, 8, 12, 16, 22, 27, 30, Inf)
+suitability_index <- c(0.0, 0.5, 1.0, 1.0, 0.5, 0.1, 0.0)
+
+# Create a data frame
+data <- data.frame(Temperature = temperature_ranges[-length(temperature_ranges)],
+                   SuitabilityIndex = suitability_index)
+
+# Plot the temperature suitability index curve with ggplot2
+ggplot(data, aes(x = Temperature, y = SuitabilityIndex)) +
+  geom_step(direction = "hv", color = "red", size = 1.5) +
+  
+  # Enhance theme for a professional look
+  theme_minimal() +
+  theme(panel.grid.major = element_blank(),
+        panel.grid.minor = element_blank(),
+        panel.border = element_rect(colour = "black", fill = NA, size = 1),
+        axis.line = element_line(size = 1),
+        plot.title = element_text(hjust = 0.5, size = 12, face = "bold"),
+        axis.title.x = element_text(size = 14, margin = margin(t = 10)),
+        axis.title.y = element_text(size = 14, margin = margin(r = 10)),
+        axis.text = element_text(size = 12),
+        legend.position = "none") +
+  
+  # Add labels and title
+  labs(title = "Temperature Suitability Index Curve for Spawning Adult Alewives",
+       x = "Temperature (°C)",
+       y = "Suitability Index") +
+  
+  # Customize the plot background
+  theme(plot.background = element_rect(fill = "#F0F0F0"),
+        panel.background = element_rect(fill = "#F0F0F0"))
+
+# Save the plot to a file (e.g., PDF or PNG) for inclusion in your presentation
+ggsave("Temperature_Suitability_Index_Plot.png", width = 8, height = 6, dpi = 300)
+
+```
+

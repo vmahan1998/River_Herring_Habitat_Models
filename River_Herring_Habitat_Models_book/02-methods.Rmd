@@ -1,15 +1,36 @@
 # Methods {#cross}
 
-- methods in ecological modeling
+Ecological modeling serves as a unique tool to understand complex species and ecosystems, providing insights into habitat dynamics and species interactions. There are five steps to ecological modeling including: conceptualization, quantification, application, evaluation, and communication (Grant & Swannack, 2008)(Herman et al., 2019). Each stage plays a pivotal role in the development and utilization of habitat suitability models for river herring, facilitating a comprehensive exploration of their habitat preferences, life stages, and responses to environmental variables. This chapter describes the systematic approach undertaken to conceptualize, quantify, apply, evaluate, and communicate the habitat suitability models, thereby contributing to a nuanced understanding of river herring ecology.
 
-We propose that there are temporal and spatial differences in the larval growth and mortality of river herring and that these differences are species specific. (Overton et al., 2012)
+## Conceptualization
 
-Due to their differences in biology, a single management plan will affect each species differently and exploitation within a river system may be biased towards one species (Schmidt et al 2003).
+- Introduction to conceptual figure.
 
-- how hsi breakpoints were derrived
+- Explanation of why Habitat Suitability Index (HSI) was chosen: To uncover unknown habitat and update preferences based on new observations (last published habitat model for river herring in 1983 by pardue et al). Brief discussion on strengths and weaknesses with HSI and their controversy, over-use in ecology.
+- Discussion of chosen parameters (temperature, depth, salinity, flow velocity, substrate) and their significance to fish habitat and habitat selection.
 
-- input data
+## Quantification
 
-- r functions?
+- Explanation of separate models for each species and life stage based on temporal and spatial differences in larval growth and mortality (Overton et al., 2012).
+- Emphasis on the need for species-specific management plans due to differences in biology (Schmidt et al., 2003).
+- Derivation of HSI breakpoints based on literature, documented observations, and in-situ laboratory experiments. Highlighting the sensitivity of salinities and flow velocities in river herring development.
+- Equal weighting (1.5X) given to temperature and flow velocity, identified as more influential on habitat preference (weighted mean HSI).
+There are 6 models all together 1 model for eggs & larvae, non-migratory juveniles, spawning adults for each species of river herring (Alewives and Blueback Herring).
 
-- output format?
+## Application
+
+In the application phase, the models developed for Eggs & Larvae, Non-Migratory Juvenile, and Spawning Adults of both Alewives and Blueback Herring are put to practical use. This involves a comprehensive demonstration of the model's utility through the presentation of results for each specific life stage and species. The application showcases how the models can predict habitat suitability based on key parameters such as temperature, depth, salinity, flow velocity, and substrate. By providing detailed insights into the habitat preferences and suitability values for different life stages, the application phase establishes a foundation for the subsequent model evaluation process.
+
+## Evaluation
+
+Model evaluation process encompasses three key aspects: System Quality, Technical Quality, and Usability, aligning with the framework established in _NYBEM Report 2023_. System Quality involves a qualitative language assessment to evaluate the sensibility of model parameters and their relevance to river herring habitat. Technical Quality entails validating the model's functionality and performance through an assessment of results obtained from the application. This involves a sensitivity analysis to understand the suitability values indicating herring habitat, a comparison with identified habitat against historic herring habitat maps, and consideration of the quality of input data. Usability delves into the variety of data that can be utilized as inputs into the model, the difficulty of pre-processing, a discussion of output types, and the complexity of post-processing tasks. This evaluation strategy ensures a robust assessment of the ecological models' effectiveness, reliability, and relevance to riverherring ecology.
+
+## Communication
+
+The intended audience for these models encompasses a broad spectrum of fisheries and aquatic management stakeholders, community members, researchers, and river herring enthusiasts. Recognizing potential variations in modeling knowledge within this diverse audience, model communication was tailored to ensure accessibility and comprehension.
+
+A multifaceted approach was employed to achieve this goal. Clear and informative figures are utilized to visually represent complex ecological dynamics, providing stakeholders with a tangible and intuitive grasp of the model outcomes. Additionally, concise tables of model breakpoints are presented, offering a summary of critical habitat suitability values. 
+
+As part of our communication strategy, we use multiple forms of evaluation to clearly demonstrate the reliability and robustness of the models. This involves integrating qualitative assessments, sensitivity analyses, and comparisons with historical habitat maps. The objective is to convey a comprehensive evaluation framework that resonates with a broad audience.
+
+Transparent communication of model limitations and assumptions is a top priority in model communication. Clear communication is crucial to prevent confusion in management applications. Through explicit discussions of the constraints and assumptions inherent in the models, along with clear documentation of the application steps, the aim is to facilitate informed decision-making and encourage constructive engagement with the ecological models. The model communication strategy is designed to bridge the gap between complex ecological modeling and diverse stakeholders to foster a shared understanding of river herring habitat dynamics and support informed and collaborative herring management practices.

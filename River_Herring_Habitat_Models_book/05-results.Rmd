@@ -1,8 +1,10 @@
-# Application
+# Results
+
+## Model Application
 
 example of application to martha's vineyard
 
-## Study Area
+### Study Area
  We do not know right now the precise 
 places where the herring spawn within Squibnocket 
 and its tributary brooks and pond and salinity conditions where spawning occurs. spawn successfully in the slightly brackish water 
@@ -10,13 +12,26 @@ at the west end of the Pond (or elsewhere within
 it), or whether they manage to work their way up 
 little tributaries. Bourne 1990. 
 
-## Input Data
+### Input Data
 
-## Pre-Processing
+### Spawning Adults
 
-## Post-Processing
+- Alewives
+- Blueback Herring
 
-## Results
+### Non-Migratory Juveniles
+
+- Alewives
+- Blueback Herring
+
+### Eggs and Larvae
+
+- Alewives
+- Blueback Herring
+
+## Model Validation
+
+### Evaluation Criteria
 
 ### Spawning Adults
 

@@ -5,6 +5,8 @@ date: "2024-02-01"
 output:
   word_document: default
   html_document: default
+  bibliography: Lit.R_Alewives.bib
+link-citations: yes
 ---
 
 # Alewife (*Alosa pseudoharengus*)

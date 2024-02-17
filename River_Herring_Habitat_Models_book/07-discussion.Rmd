@@ -1,5 +1,6 @@
 # Discussion
 
+## Model Results
 - Utility
   - management
   - what do the results tell us
@@ -11,7 +12,7 @@
   
 - Compare to similar models (Pardue & Brown)
 
-other factors impacting habitat health
+other factors impacting habitat health that could be added in the future
 - nitrogen
 - dissolved oxygen
 - PH levels
@@ -21,3 +22,10 @@ mortality rate substantially (Klauda, 1987; see also
 Byrne, 1988). The pH of many Cape and Island soils is 
 roughly in tnis range, and the ability of these soils 
 to neutralize additional acidic inputs is limited. Bourne 1990)
+
+## Model Communication
+
+- Discussion of whether the model is communicated effectively for accurate and easy application in other project locations. 
+- Are the assumptions and limitations staated clearly
+- Is the model clear? (are the breakpoints presented in a way that is clear and understandable)
+- Are the results understandable? What do the results mean? 

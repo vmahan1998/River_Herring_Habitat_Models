@@ -8,10 +8,12 @@
 ## II. The Evolution of Ecological Models in River Herring Management
    - Overview of the historical use of ecological models in river herring management.
    - Successes and limitations of previous models.
+   "However, current modelingpracticeisneithertransparentnorcomprehensiveinitstestingandanalysisofmodels.Concernsinclude adhocmodel design[18,19], unknownsensitivitiesand uncertaintiesofmodelpredictions,unclearsourcesofparameterization [20], inappropriatedomains of application [7,21,22], lackofunderstandingof themodel’sbehavior, and lack of thoroughmodel analysis [17,20,22].(Schmolke et al., 2010) "
    - The need for adaptive management strategies in light of changing ecological dynamics.
 
 ## III. Existing Habitat Models for River Herring
    - Overview of the existing habitat models used for river herring.
+   (Pardue 1983)(Brown Et al 2000)
    - An analysis of their effectiveness in capturing the complexities of river herring habitats.
    - Identifying gaps and limitations in the current habitat models.
 
@@ -25,19 +27,28 @@
    - A focus on the incorporation of updated biological information into habitat models.
    - The significance of addressing life stage differences in river herring.
 
-## VI. Overview of the Dissertation Structure
+## VI. Overview of the Chapter Structure
    - Briefly introducing the chapters and their roles in addressing the research objectives.
-   - A roadmap for readers to navigate through the various sections of the dissertation.
 
 ## VII. The Rationale for Model Application to Martha's Vineyard
    - Discussing the choice of Martha's Vineyard as the project site.
+   (Herring Creek Fishery)
    - The relevance of the study area to river herring management.
+   Historic Significance, Tribal Significance, and Herring Significance 
    - Unique features that make Martha's Vineyard an ideal location for model application.
+Historically and maintains a mostly brackish spawning environment, freshawater microhabitats expected in western range of habitat
+(Squibnocket used to be open to the sea until the early 1700s after a storm closed an artifical opening) Natural opening was present before this and replaced by the artifical opening after closing naturally.)
+river herring do not swim up freshwater streams attached to Squibnocket Pond
 
 ## VIII. The Necessity of Model Evaluation
    - Highlighting the importance of evaluating the effectiveness of ecological models.
+previously published models were not evaluated and models without proper evaluation can hinder management and accurate implementation of the model
+
    - The role of model evaluation in refining and improving future management strategies.
+Model evaluation can help ensure models are created using the most up to date species information, transparently state model accuracy and limitations, explain how the model was applied as well as clearly states pre- and post processing steps.
 
 ## IX. Significance of Discussion and Summary Chapters
    - Previewing the role of the discussion and summary chapters in interpreting findings.
+- different life stages have drastically dofferent preferences and therefore indpendent models should be utilized to accomodate the different resource needs at different life stages for river herring. River herring species should be careful generalizing alewife and blueback herring species together as species exhibit diffferent habitat preferences.
    - Emphasizing the contribution of the study to advancing river herring management practices.
+Utlizing multiple models that reflect the conditions for optimal development and spawning of alewives and blueback herring can identify management weaknesses at different life stages. For example, ____ found that although habitat resources were sufficient for juveniles, habita for egg and larvae developement was lacking.
