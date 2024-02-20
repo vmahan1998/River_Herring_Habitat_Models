@@ -1,63 +1,38 @@
-# Introduction
-
-## I. Introduction to River Herring Management
+# Introduction {#intro}
 
    - A brief history of river herring management efforts.
    - Challenges and limitations faced in historical management practices.
+   
+    
    - The ecological significance of river herring in aquatic ecosystems.
 
-## II. The Evolution of Ecological Models in River Herring Management
+## History of River Herring
 
-   - Overview of the historical use of ecological models in river herring management.
-   - Successes and limitations of previous models.
-   "However, current modeling practice is neither transparent nor comprehensive in its testing and analysis of models. Concerns include ad hoc model design [18,19], unknown sensitivities and uncertainties of model predictions, unclear sources of parameterization [20], inappropriate domains of application [7,21,22], lack of understanding of the model’s behavior, and lack of thorough model analysis [17,20,22].(Schmolke et al., 2010)"
-   - The need for adaptive management strategies in light of changing ecological dynamics.
+_map of river herring territory_
 
-## III. Existing Habitat Models for River Herring
+River herring is a term used to generalize diadromous cluepid species in the Northeast United States. Specifically, Alewives and Blueback herring are known collectively as River herring and are a foundational resource that has played a pivotal role in the development of many communities past and present. Before the founding of the United States, indigenous communities utilized river herring for food an fertilizer (Wampanoag). Early settlers learned how to fish river herring from these indigenous communities. During early settlement, waterways were significantly altered and commercial fishing practices grew, which eventually divulged into the exploitation of the herring stock and species as a whole. Throughout the industrial period, waterways were full of migration impedements while pollution decreased water quality. Commercial fishing was an all time high and bycatch during offshore fishing has been noted as a significant factor in the decrease of river herring (). 
 
-   - Overview of the existing habitat models used for river herring.
-   (Pardue 1983)(Brown Et al 2000)
-   - An analysis of their effectiveness in capturing the complexities of river herring habitats.
-   - Identifying gaps and limitations in the current habitat models.
 
-## IV. Importance of Model Updates for Better Herring Management
+## Ecological Significance of herring
 
-   - Recognizing the importance of updated biological information.
-   - Highlighting life stage differences in river herring and their relevance to management.
-   - Emphasizing the necessity of expanding habitat preference parameters for a holistic approach.
+River herring act as a significant flux of nutrients and energy into the terrestrial aquatic systems. This influx of energy is pivitol to these aquatic systems and provides a food resource and attract game fish to the system. 
 
-## V. Objectives of the Research
+## Ecological Modeling in River Herring Management
 
-   - Outlining the specific goals and objectives of the current study.
-   - A focus on the incorporation of updated biological information into habitat models.
-   - The significance of addressing life stage differences in river herring.
+Existing river herring habitat suitability models, originally developed by @brown_habitat_2000 and @pardue_habitat_1983, with reliance on similar sources such as @bigelow_fishes_1953 and the updated version @collette_fishes_2002, possess several limitations that make them inadequate for current applications.
 
-## VI. Overview of the Chapter Structure
+Primarily, these models are constructed solely on observations of alewives' daytime behavior, neglecting their significant nocturnal activity patterns.
+Recent studies have revealed that alewives are substantially active at night, engaging in feeding and exhibiting substantial downstream movement during these nocturnal periods [@janssen_will_1978; @janssen_feeding_1980; @greene_atlantic_2009; @mccartin_new_2019].
+@collette_fishes_2002 and @greene_atlantic_2009 even note that groups of alewives spawn in the evening. Consequently, the primary focus on daytime behavior in the existing models fails to capture the true habitat preferences and requirements of alewives, particularly in estuary and brackish environments.
 
-   - Briefly introducing the chapters and their roles in addressing the research objectives.
+Current models predominantly consider variables such as temperature, depth, and substrate, while disregarding other crucial factors that significantly influence alewives' habitat selection, including flow velocity, sub-aquatic vegetation, and life stage differences. @stevens_evidence_2021 suggests that considerable diversity in these life history patterns may exist and that life cycle diversity may be an under-examined aspect of the ecology and management of river herring. This limited scope results in incomplete assessments of habitat suitability. Further, existing models fall short of encompassing the total knowledge available for alewives, as inconsistencies and potential inaccuracies emerge from conflicting information concerning substrate, salinity, and depth preferences. Further, current modeling practice lacks transparency and thorough testing, exhibiting concerns such as ad hoc model design, unknown sensitivities, uncertainties in predictions, unclear parameterization sources, inappropriate application domains, limited understanding of model behavior, and insufficient analysis (Schmolke et al., 2010).  These limitations undermine the models' effectiveness in predicting habitat suitability for alewives, and since the release of these models, updated observations and stock assessments have been published that offer more detailed information on the habitat for alewives.
 
-## VII. The Rationale for Model Application to Martha's Vineyard
+To address these shortcomings, habitat models should encompass a more comprehensive understanding of river herring behavior, specifically acknowledging their use of estuarine and brackish habitats. These habitats serve as critical areas for alewives, exhibiting relatively high levels of habitat use [@greene_atlantic_2009; @mccartin_new_2019; @stevens_evidence_2021]. Incorporating these estuarine and brackish areas into management strategies is important to ensure the conservation and successful management of the species. 
 
-   - Discussing the choice of Martha's Vineyard as the project site.
-   (Herring Creek Fishery)
-   - The relevance of the study area to river herring management.
-   Historic Significance, Tribal Significance, and Herring Significance 
-   - Unique features that make Martha's Vineyard an ideal location for model application.
-Historically and maintains a mostly brackish spawning environment, freshawater microhabitats expected in western range of habitat
-(Squibnocket used to be open to the sea until the early 1700s after a storm closed an artifical opening) Natural opening was present before this and replaced by the artifical opening after closing naturally.)
-river herring do not swim up freshwater streams attached to Squibnocket Pond
+The importance of updating habitat models for river herring cannot be overstated. The last comprehensive habitat model for alewives and blueback herring was published in 1983, and since then, a wealth of new biological information has emerged. These developments include significant observations and a deeper understanding of river herring biology, urging the need for updated habitat models to accurately reflect these advancements. Recognizing the distinct life stage differences in river herring is crucial for effective management. Separate models for each species and life stage, considering temporal and spatial variations in larval growth and mortality [@overton_ecology_2012], emphasize the necessity for species-specific management plans [@schmidt_population_2003]. River herring exhibit diverse habitat requirements at different life stages, emphasizing the need for adaptive management approaches. Updating habitat models based on this knowledge allows for a comprehensive understanding of the habitat resources essential for healthy development at various life stages. This expanded insight enables the incorporation of critical resources into management strategies, contributing to more effective and informed approaches for the conservation and sustainable management of river herring populations.
 
-## VIII. The Necessity of Model Evaluation
+## Research Objectives
 
-   - Highlighting the importance of evaluating the effectiveness of ecological models.
-previously published models were not evaluated and models without proper evaluation can hinder management and accurate implementation of the model
+The main goal of this report is to create an improved habitat model tailored for the spawning adult, non-migratory juvenile, and egg/larvae life stages of alewives and Blueback herring. By customizing habitat preferences for each life stage, the aim is to provide more effective tools for river herring management. A crucial aspect of this effort is to integrate the latest biological information into the habitat models, including recent observations and experimental findings. Recognizing the importance of considering life stage differences in river herring, the research emphasizes the need to develop separate habitat models for each life stage of both river herring species. In summary, the overall objective of this report is to present an updated habitat model that comprehensively captures the habitat preferences of spawning adults, non-migratory juveniles, and egg/larvae life stages for both alewives and Blueback herring.
 
-   - The role of model evaluation in refining and improving future management strategies.
-Model evaluation can help ensure models are created using the most up to date species information, transparently state model accuracy and limitations, explain how the model was applied as well as clearly states pre- and post processing steps.
-
-## IX. Significance of Discussion and Summary Chapters
-
-   - Previewing the role of the discussion and summary chapters in interpreting findings.
-- different life stages have drastically dofferent preferences and therefore indpendent models should be utilized to accomodate the different resource needs at different life stages for river herring. River herring species should be careful generalizing alewife and blueback herring species together as species exhibit diffferent habitat preferences.
-   - Emphasizing the contribution of the study to advancing river herring management practices.
-Utlizing multiple models that reflect the conditions for optimal development and spawning of alewives and blueback herring can identify management weaknesses at different life stages. For example, ____ found that although habitat resources were sufficient for juveniles, habita for egg and larvae developement was lacking.
+This report is structured to systematically address the research objectives. It includes an introduction, model development stages, separate chapters on Alewife and Blueback herring models, the application, evaluation, discussion, and a summary. This organization ensures a thorough exploration and communication of updated habitat models for effective river herring management.

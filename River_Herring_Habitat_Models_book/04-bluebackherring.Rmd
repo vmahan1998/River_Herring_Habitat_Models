@@ -1,4 +1,4 @@
-# Blueback Herring (*Alosa aestivalis*)
+# Blueback Herring (*Alosa aestivalis*) {#blueback}
 
 This chapter aims to explore the habitat preferences and life cycle of blueback herring (*Alosa aestivalis*) in the northeastern United States.
 Blueback herring have faced significant declines,
@@ -40,7 +40,7 @@ This chapter explores the favorable habitat conditions for spawning blueback adu
 - 0.15–3 m @pardue_habitat_1983
 - spawning habitat were all 0.5 m or less (Kosa & Mather, 2001)
 - Species of herring from the same cluepid family have been known to spawn majority 0.5-5m and up to 15 m (Haegele & Schweigert, 1985).
-
+-  Overall depth preferences for spawning blueback seems similar to alewife and therefore same depth preferences are assumed
 
 #### Salinity
 
@@ -49,13 +49,14 @@ This chapter explores the favorable habitat conditions for spawning blueback adu
 - I  found that the chief spawning grounds in the Delaware River were in tidal water (Chittenden, 1972)
 - Species of herring from the same cluepid family have been known to spawn in a range of salinities from freshwater to 35+ psus (Haegele & Schweigert, 1985).
 - Alewives have been widely observed spawning in freshwater tidal habitats with minimal salinity concentrations, revealing a habitat use in environments with salinity levels below 0.5 psu [@pardue_habitat_1983].
-- Blueback herring in Winnegance Lake and Patten Pond show a preference for high salinity environments for spawning, indicated by their limited residency time in freshwater. The immediate transition of fish from Winnegance Lake to the estuary after spawning suggests a preference for high salinity spawning, with the estuarine environment supporting early egg and larvae development (Payne Wynne et al., 2015).
+- Blueback herring in Winnegance Lake and Patten Pond show a preference for high salinity environments for spawning, indicated by their limited residency time in freshwater. The immediate transition of fish from Winnegance Lake to the estuary after spawning suggests a preference for high salinity spawning, with the estuarine environment supporting early egg and larvae development (Payne Wynne et al., 2015). blueback herring seem to be able to tolerate higher salinity levels for spawning activity adn are even known to spawn in areas where freshwater input is extremely minimal 
 
 #### Flow Velocity
 
 -   blueback herring show a preferance for higher velocities than alewives (haro 2004)
--   Low velocities (0.0--1.7 m/s) (Walsh et al 2005)
--   0.11 m/s (O'Connell & Angermeier, 1997)
+- prefer fluvial environments which are higher velocity and not stagnant
+- Low velocities (0.0--1.7 m/s) (Walsh et al 2005)
+- 0.11 m/s (O'Connell & Angermeier, 1997)
 - blueback tend to favor running water and a fairly clean hard bottom, Bourne 1990
 - Both species spawn primarily in habitats with little or no current Walsh 2005
 
@@ -71,6 +72,9 @@ This chapter explores the favorable habitat conditions for spawning blueback adu
 ### Non-Migratory Juveniles
 
 #### Temperature
+
+- higher preference than alewife juveniles
+
 - supported in observations where Eel River had a mean temperature of 23.1°C, while the Herring River (Bourne) had temperatures with a mean of 25.1°C (Ames & Lichter, 2013).
 
 #### Depth

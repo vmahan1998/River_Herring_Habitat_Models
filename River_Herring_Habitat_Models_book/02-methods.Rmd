@@ -1,4 +1,4 @@
-# Methods {#method}
+# Model Development {#method}
 
 Ecological modeling serves as a unique tool to understand complex species and ecosystems, providing insights into habitat dynamics and species interactions. There are five steps to ecological modeling including: conceptualization, quantification, application, evaluation, and communication (Grant & Swannack, 2008). Each stage plays a pivotal role in the development and utilization of habitat suitability models for river herring, facilitating a comprehensive exploration of their habitat preferences, life stages, and responses to environmental variables. This chapter describes the systematic approach undertaken to conceptualize, quantify, apply, evaluate, and communicate the habitat suitability models, thereby contributing to a nuanced understanding of river herring ecology.
 

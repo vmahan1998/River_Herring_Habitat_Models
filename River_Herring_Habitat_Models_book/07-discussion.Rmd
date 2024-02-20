@@ -1,12 +1,10 @@
 # Discussion
 
-## Model Results
 
-- Utility
-  - management
-  - what do the results tell us
-  
-- Limitations
+## Strengths
+
+## Limitations
+
   - regional 
   - accuracy based on current knowledge
   - prediction power
@@ -24,9 +22,16 @@ Byrne, 1988). The pH of many Cape and Island soils is
 roughly in tnis range, and the ability of these soils 
 to neutralize additional acidic inputs is limited. Bourne 1990)
 
-## Model Communication
+## Implications for River Herring
+
+## Management Implications
 
 - Discussion of whether the model is communicated effectively for accurate and easy application in other project locations. 
 - Are the assumptions and limitations staated clearly
 - Is the model clear? (are the breakpoints presented in a way that is clear and understandable)
 - Are the results understandable? What do the results mean? 
+
+  - Previewing the role of the discussion and summary chapters in interpreting findings.
+- different life stages have drastically different preferences and therefore independent models should be utilized to accommodate the different resource needs at different life stages for river herring. River herring species should be careful generalizing alewife and blueback herring species together as species exhibit different habitat preferences.
+   - Emphasizing the contribution of the study to advancing river herring management practices.
+Utlizing multiple models that reflect the conditions for optimal development and spawning of alewives and blueback herring can identify management weaknesses at different life stages. For example, ____ found that although habitat resources were sufficient for juveniles, habita for egg and larvae developement was lacking.

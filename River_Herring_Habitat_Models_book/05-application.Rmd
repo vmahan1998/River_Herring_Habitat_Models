@@ -1,0 +1,42 @@
+# Results
+
+## Model Application
+
+example of application to martha's vineyard
+
+### Study Area
+ We do not know right now the precise 
+places where the herring spawn within Squibnocket 
+and its tributary brooks and pond and salinity conditions where spawning occurs. spawn successfully in the slightly brackish water 
+at the west end of the Pond (or elsewhere within 
+it), or whether they manage to work their way up 
+little tributaries. Bourne 1990. 
+
+## The Rationale for Model Application to Martha's Vineyard
+
+   - Discussing the choice of Martha's Vineyard as the project site.
+   (Herring Creek Fishery)
+   - The relevance of the study area to river herring management.
+   Historic Significance, Tribal Significance, and Herring Significance 
+   - Unique features that make Martha's Vineyard an ideal location for model application.
+Historically and maintains a mostly brackish spawning environment, freshawater microhabitats expected in western range of habitat
+(Squibnocket used to be open to the sea until the early 1700s after a storm closed an artifical opening) Natural opening was present before this and replaced by the artificial opening after closing naturally.)
+river herring do not swim up freshwater streams attached to Squibnocket Pond
+
+
+### Input Data
+
+### Spawning Adults
+
+- Alewives
+- Blueback Herring
+
+### Non-Migratory Juveniles
+
+- Alewives
+- Blueback Herring
+
+### Eggs and Larvae
+
+- Alewives
+- Blueback Herring

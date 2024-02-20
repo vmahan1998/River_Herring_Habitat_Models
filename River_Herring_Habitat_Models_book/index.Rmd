@@ -1,6 +1,6 @@
 --- 
 title: "River Herring Habitat in the Northeast United States"
-author: "Vanessa Quintana, Justin Stevens"
+author: "Vanessa Quintana, Justin Stevens, Kyle McKay, Andrew Jacobs, ..... (other interested collaborators)"
 date: "`r Sys.Date()`"
 output:
   word_document: default
@@ -11,4 +11,12 @@ link-citations: no
 github-repo: null
 site: bookdown::bookdown_site
 ---
-# Preface
+# Preface {-}
+
+## Abstract
+
+## Acknowledgments 
+
+- Wampanoag Tribe
+- New England USACE
+- NOAA SeaGrant
