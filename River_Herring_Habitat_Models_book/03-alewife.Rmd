@@ -1,42 +1,42 @@
 # Alewife (*Alosa pseudoharengus*) {#alewife}
 
-This chapter is dedicated to the habitat preferences and life cycle of alewives (*Alosa pseudoharengus*) for the Northeastern United States. Despite their historical significance, alewife populations have encountered significant declines, leading to their classification as a "species of concern" by the U.S. National Marine Fisheries Service [@nmfs_national_marine_fisheries_service_species_2009]. Various factors contribute to this decline, including deteriorating water quality, habitat loss, offshore bycatch/overfishing, increased predation, and dam construction [@kocovsky_linking_2008; @nmfs_national_marine_fisheries_service_species_2009; @bethoney_environmental_2014; @waldman_north_2022]. The consideration for inclusion in the U.S. Endangered Species List has also been raised, as indicated in reports by the National Marine Fisheries Service in 2013 [@nmfs_national_marine_fisheries_service_endangered_2013].
+This chapter is dedicated to the habitat preferences and life cycle of alewives (*Alosa pseudoharengus*) for the United States. Alewives are widely distributed throughout the Northeastern United States, thriving in freshwater rivers and estuaries along the Atlantic coast (ASMFC 1985). While historically known for extensive migrations to spawn in freshwater tidal systems, limited information is available about estuary movements for alewives. 
 
-Recent stock assessments reveal diverse trends in documented alewife runs over the last ten years, with some populations showing signs of stabilization or even growth [@asmfc_river_2017]. In 2019, the National Marine Fisheries Service concluded that listing the alewife as threatened or endangered under the Endangered Species Act (ESA) was not warranted [@nmfs_national_marine_fisheries_service_not_2019].
+Despite their historical significance, alewife populations have encountered significant declines. Various factors contribute to this decline, including deteriorating water quality, habitat loss, offshore bycatch/overfishing, increased predation, and dam construction [@kocovsky_linking_2008; @nmfs_national_marine_fisheries_service_species_2009; @bethoney_environmental_2014; @waldman_north_2022]. Recent stock assessments reveal diverse trends in documented alewife runs over the last ten years, with some populations showing signs of stabilization or even growth [@asmfc_river_2017]. The consideration for inclusion in the U.S. Endangered Species List has also been raised, as indicated in reports by the National Marine Fisheries Service in 2013 [@nmfs_national_marine_fisheries_service_endangered_2013]. In 2019, the National Marine Fisheries Service concluded that listing the alewife as threatened or endangered under the Endangered Species Act (ESA) was not warranted [@nmfs_national_marine_fisheries_service_not_2019].
 
-Alewives are widely distributed throughout the Northeastern United States, thriving in freshwater rivers and estuaries along the Atlantic coast [@asmfc_fishery_1985]. While historically known for extensive migrations to spawn in freshwater tidal systems, limited information is available about estuary movements for alewives. This chapter aims to explore the favorable habitat conditions for spawning alewife adults, non-migratory juveniles, as well as eggs and larvae, considering factors such as temperature, depth, salinity, flow velocity, and substrate.
+This chapter aims to explore the favorable habitat conditions for spawning alewife adults, non-migratory juveniles, as well as eggs and larvae, considering factors such as temperature, depth, salinity, flow velocity, and substrate.
 
-## Life cycle overview
+## Life Cycle Overview
 
-Alewives have a complex life cycle with distinct stages and behaviors. Spawning occurs in waves during spring, triggered by rising water temperatures and increasing day length [@asmfc_amendment_2009; @mccartin_new_2019; @able_alewife_2020]. Adult alewives migrate upstream from marine environments to suitable brackish or freshwater spawning habitats [@pardue_habitat_1983; @collette_fishes_2002]. Recent observations also suggest a correlation between alewife migration and the lunar phase [@legett_daily_2021].
+Alewives have a diadrmous life cycle with distinct stages and behaviors. Adult alewives are primarily a marine occupant with a largely unknown marine territory and travel inland yearly to spawn. Spawning occurs in waves during spring, triggered by rising water temperatures and increasing day length [@asmfc_amendment_2009; @mccartin_new_2019; @able_alewife_2020]. Adult alewives migrate upstream from marine environments to suitable brackish or freshwater spawning habitats [@pardue_habitat_1983; @collette_fishes_2002; @greene_atlantic_2009]. Recent observations also suggest a correlation between alewife migration and the lunar phase [@legett_daily_2021].
 
-Alewife migration and spawning precedes blueback herring by 2-3 weeks [@fay_alewifeblueback_1983]. Alewives exhibit a north-south seasonal migration pattern, with migrating adults potentially detouring into estuaries [@greene_atlantic_2009]. Upon arrival at the spawning grounds, adult alewives engage in immense spawning runs, where large groups gather to deposit their adhesive eggs over a variety of substrates [@oconnell_spawning_1997; @able_alewife_2020]. After spawning, both males and females return to the marine environment.
+Alewives exhibit a seasonal migration pattern from south to north, typically occurring from March in southern regions to May in northern areas. During this migration, adult alewives may detour into estuaries, where they find suitable conditions for rest before continuing their journey upstream [@greene_atlantic_2009]. Upon arrival at the spawning grounds, adults engage in immense spawning runs, where alewives deposit their adhesive eggs over a variety of substrates [@oconnell_spawning_1997; @able_alewife_2020]. After spawning, both males and females return to the marine environment.
 
 In the spawning habitat, the incubation period for eggs lasts 3-6 days [@munroe_overview_2000; @collette_fishes_2002]. The eggs hatch into yolk-sac larvae, representing an early developmental stage where larvae rely on an attached yolk sac for nutrients before transitioning to external feeding. For alewives, this stage typically lasts 2-5 days [@bourne_appendix_1990].
 
-After this stage, larvae remain in the estuary to grow and migrate downstream towards more brackish areas, maturing into juvenile fish [@pardue_habitat_1983]. These brackish areas serve as nurseries until the juvenile alewives migrate to the sea [@laney_relationship_1997; @kosa_processes_2001]. Alewife larvae can adapt to high salinity (35 psu) by 50 days post-hatch [@dimaggio_effects_2016]. However, the survival rate for larvae is relatively low, with only a small percentage successfully reaching the sea, potentially as low as 1%, depending on ecosystem conditions [@kissil_spawning_1974]. Similarly, mortality rates for migratory adults during a spawning season can reach as high as 90% [@brady_part_2005].
+After this stage, larvae remain in freshwater to grow and migrate downstream towards more brackish areas, maturing into juvenile fish [@pardue_habitat_1983]. These brackish areas serve as nurseries until the juvenile alewives migrate to the sea [@laney_relationship_1997; @kosa_processes_2001]. However, the survival rates for both larvae and migratory adults in the estuary are notably low, with only a small percentage of larvae successfully reaching the sea, potentially as low as 1%, and mortality rates for migratory adults during a spawning season can reach as high as 90% [@kissil_spawning_1974; @brady_part_2005].
 
 ## Spawning Adult Alewives
 
 ### Habitat Preferences
 
-Spawning adult alewives exhibit specific habitat preferences and requirements. Their annual migration during spawning is energetically demanding, with notable variations in behavior. Some studies suggest fasting during the day and extensive feeding at night, while others report refraining from eating until their return downstream to productive tidal habitats [@janssen_feeding_1980; @collette_fishes_2002; @greene_atlantic_2009].
+Spawning adult alewives exhibit specific habitat preferences and requirements. Their annual migration is energetically demanding, with notable variations in observed behavior of migrating fish. Some studies suggest fasting during the day and extensive feeding at night, while others report refraining from eating until their return downstream to productive tidal habitats [@janssen_feeding_1980; @collette_fishes_2002; @greene_atlantic_2009].
 
-Preferred spawning habitats include lacustrine and fluvial environments rather than riverine ones [@reback_survey_2004; @frank_role_2011]. Alewives spawn and rear in upper river pools [@turner_juvenile_2016; @greene_atlantic_2009].
+Preferred spawning habitats include lacustrine and fluvial environments rather than riverine ones [@reback_survey_2004; @frank_role_2011]. Alewives spawn and rear in upper river pools and ponds [@turner_juvenile_2016; @greene_atlantic_2009].
 
 #### Temperature
 
-Spawning adult alewives exhibit distinct temperature preferences crucial to their reproductive success and migration patterns. The spawning process commences at temperatures around 10.5 °C, with upstream migration initiating within the range of 5°C to 10°C [@cianci_larval_1969; @mullen_species_1986; @loesch_overview_1987; @munroe_overview_2000; @reback_survey_2004]. Notably, limited in-stream movement is observed below 8°C or over 18°C, emphasizing the species' preference for moderate temperature conditions [@durbin_effects_1979; @collette_fishes_2002]. Spawning ceases at temperatures exceeding 27°C, indicating an upper limit for optimal reproductive activity [@kissil_spawning_1974; @pardue_habitat_1983; @brown_habitat_2000; @reback_survey_2004]. The optimal temperature range for successful spawning is broadly identified as 10°C to 22°C, with consensus suggesting peak spawning occurring within the narrower range of 12 to 16 degrees Celsius [@tyus_movements_1974; @pardue_habitat_1983; @oconnell_spawning_1997; @collette_fishes_2002]. While deviations from the optimal temperature range can impact spawning success and migration timing, the overall consensus indicates that alewives thrive in moderate temperature conditions.
+Spawning adult alewives exhibit distinct temperature preferences crucial to their reproductive success and migration patterns. The spawning process commences at temperatures around 10.5 °C, with upstream migration initiating within the range of 5°C to 10°C [@cianci_larval_1969; @mullen_species_1986; @loesch_overview_1987; @munroe_overview_2000; @reback_survey_2004]. Notably, limited in-stream movement is observed below 8°C or over 18°C, emphasizing the species' preference for moderate temperature conditions [@durbin_effects_1979; @collette_fishes_2002]. Spawning ceases at temperatures exceeding 27°C, indicating an upper limit for optimal reproductive activity [@kissil_spawning_1974; @pardue_habitat_1983; @brown_habitat_2000; @reback_survey_2004]. The optimal temperature range for successful spawning is broadly identified as 10°C to 22°C, with consensus suggesting peak spawning occurring within the narrower range of 12 to 16 degrees Celsius [@tyus_movements_1974; @pardue_habitat_1983; @oconnell_spawning_1997; @collette_fishes_2002]. While deviations from the optimal temperature range can impact spawning success and migration timing.
 
 #### Depth
 
-Spawning adult alewives exhibit specific depth preferences during their reproductive activities. Notably, adult alewives migrating inland show an overall preference for depths below 100 meters [@pardue_habitat_1983; @munroe_overview_2000]. Species of herring from the same clupeid family have been known to spawn at depths ranging from 0.5 to 15 meters [@haegele_distribution_1985]. Alewives generally favor depths from Mean Low Tide (MLT) to 10 meters [@brown_habitat_2000]. Other studies report that alewives favor more shallow spawning habitats ranging from 0.15 to 3 meters [@pardue_habitat_1983; @greene_atlantic_2009], with significant spawning recorded around 0.5 meters [@kosa_processes_2001]. Additional field observations, reveal a significant proportion of alewives occupying habitats as shallow as 2 meters [@mather_assessing_2012], with the majority of spawning occurring at less than 1 m [@murdy_fishes_1997]. This variability in depth preferences reflects the adaptability of alewives to shallow conditions during their spawning and migration phases.
+Spawning adult alewives exhibit specific depth preferences during their reproductive activities. In tidally affected habitat, the preference of alewives for depths ranging from Mean Low Tide (MLT) to 10 meters indicates their affinity for shallow to moderately deep water  [@brown_habitat_2000]. Other studies report that alewives favor more shallow spawning habitats ranging from 0.15 to 3 meters [@pardue_habitat_1983; @greene_atlantic_2009], with significant spawning recorded around 0.5 meters [@kosa_processes_2001]. Additional field observations, reveal a significant proportion of alewives occupying habitats as shallow as 2 meters [@mather_assessing_2012], with the majority of spawning occurring at less than 1 m [@murdy_fishes_1997]. These observations in depth reflect the preference of spawning alewives to shallow conditions during their reproductive phase.
 
 #### Salinity
 
-The documented behavior of alewives challenges conventional beliefs about anadromous species exclusively relying on freshwater environments for spawning. Observations reveal that alewives engage in spawning activities in freshwater tidal habitats with minimal salinity concentrations, demonstrating adaptability to environments with salinity levels below 0.5 psu [@pardue_habitat_1983; @brown_habitat_2000]. This adaptability extends to tolerating higher salinity levels, with successful spawning observed in concentrations of 8 psu [@able_alewife_2020]. Other research by @brown_habitat_2000 emphasizes a heightened preference for habitats with salinity concentrations below 15 psu, deeming concentrations exceeding 20 psu unsuitable for spawning adults. 
+The documented behavior of alewives challenges conventional beliefs about anadromous species exclusively relying on freshwater environments for spawning. Observations reveal that alewives engage in spawning activities in freshwater tidal habitats with minimal salinity concentrations, demonstrating adaptability to environments with salinity levels below 0.5 psu [@pardue_habitat_1983; @brown_habitat_2000]. This adaptability extends to tolerating higher salinity levels, with successful spawning observed in concentrations of 8 psu [@able_alewife_2020]. Other research by @brown_habitat_2000 emphasizes a heightened tolerance for habitats with salinity concentrations below 15 psu, deeming concentrations exceeding 20 psu unsuitable for spawning adults. 
 
-Field studies further document that adult alewives exhibit spawning activities across diverse estuary habitats with varying salinity levels, including coastal ponds, pond-like regions in coastal rivers and streams, oxbows, eddies, backwaters, stream pools, and flooded swamps [@pardue_habitat_1983; @mullen_species_1986; @collette_fishes_2002; @walsh_early_2005]. Remarkably, species of herring from the same clupeid family have been known to spawn in a wide range of salinity, from freshwater to levels exceeding 35 psu [@haegele_distribution_1985]. Notably, utilizing estuaries and brackish habitats for spawning may offer energetically favorable conditions for alewives, as it eliminates the need for them to acclimate to complete freshwater environments [@dimaggio_spawning_2015]. 
+Field studies further document that adult alewives exhibit spawning activities across diverse habitats with varying salinity concentrations, including coastal ponds, pond-like regions in coastal rivers and streams, oxbows, eddies, backwaters, stream pools, flooded swamps, and drowned river valleys [@pardue_habitat_1983; @mullen_species_1986; @collette_fishes_2002; @walsh_early_2005]. Notably, utilizing estuaries and brackish habitats for spawning may offer energetically favorable conditions for alewives, as it eliminates the need for them to acclimate to complete freshwater environments [@dimaggio_spawning_2015]. 
 
 #### Flow Velocity
 
@@ -57,72 +57,182 @@ The depth preferences in the model offer a more detailed assessment of habitat s
 
 In the realm of flow velocity, the model introduces distinct ranges, highlighting the optimal conditions at 0 to 0.3 meters per second and extending high suitability to 0.3 to 1.7 meters per second. An upper threshold of 4.5 meters per second is defined, aligning with observed behaviors and contributing to a more detailed view of the flow velocity requirements for alewives. The model also emphasizes the importance of diverse substrate types, including both soft (e.g., small gravel, sand, silt, detritus) and hard substrates (e.g., rock, boulders, clam beds), as well as the consideration of SAV presence or absence in spawning habitats. This update enhances the understanding of alewife spawning habitat and provides valuable insights for effective management and conservation efforts.
 
-+----------------------------+---------------------+-------------------------------+
-| **Parameter**              | Range               | **Habitat Suitability Value** |
-+============================+=====================+===============================+
-| A. Temperature (°C)        | $0.0 < t < 3.0$     | 0.0                           |
-|                            |                     |                               |
-|                            | $3.0 <= t < 5.0$    | 0.1                           |
-|                            |                     |                               |
-|                            | $5.0 <= t < 8.0$    | 0.5                           |
-|                            |                     |                               |
-|                            | $8.0 <= t < 10.5$   | 0.7                           |
-|                            |                     |                               |
-|                            | $10.5 <= t < 12$    | 0.8                           |
-|                            |                     |                               |
-|                            | $12 <= t < 16$      | 1.0                           |
-|                            |                     |                               |
-|                            | $16 <= t < 22$      | 0.8                           |
-|                            |                     |                               |
-|                            | $22 <= t < 27$      | 0.5                           |
-|                            |                     |                               |
-|                            | $t >= 27$           | 0.0                           |
-|                            |                     |                               |
-+----------------------------+---------------------+-------------------------------+
-| B. Depth (*meters*)        | $0.0 < d < 2.0$     | 1.0                           |
-|                            |                     |                               |
-|                            | $2.0 <= d < 5.0$    | 0.8                           |
-|                            |                     |                               |
-|                            | $5.0 <= d < 10.0$   | 0.5                           |
-|                            |                     |                               |
-|                            | $10.0 <= d < 15.0$  | 0.3                           |
-|                            |                     |                               |
-|                            | $15.0 <= d <= 20.0$ | 0.1                           |
-|                            |                     |                               |
-|                            | $d > 20.0$          | 0.0                           |
-|                            |                     |                               |
-+----------------------------+---------------------+-------------------------------+
-| C. Salinity (*psu*)        | $0.5 <= s < 8.0$    | 1.0                           |
-|                            |                     |                               |
-|                            | $8.0 <= s < 15.0$   | 0.5                           |
-|                            |                     |                               |
-|                            | $15.0 <= s <= 20.0$ | 0.3                           |
-|                            |                     |                               |
-|                            | $s > 20$            | 0.0                           |
-|                            |                     |                               |
-+----------------------------+---------------------+-------------------------------+
-| D. Flow Velocity (*m/s*)   | $0 < v < 0.3$       | 1.0                           |
-|                            |                     |                               |
-|                            | $0.3 <= v < 1.7$    | 0.8                           |
-|                            |                     |                               |
-|                            | $1.7 <= v < 3.5$    | 0.5                           |
-|                            |                     |                               |
-|                            | $3.5 <= v < 4.5$    | 0.1                           |
-|                            |                     |                               |
-|                            | $v >= 4.5$          | 0.0                           |
-|                            |                     |                               |
-+----------------------------+---------------------+-------------------------------+
-| E. Substrate               | Hard Substrate      | 0.3                           |
-|                            |                     |                               |
-|                            | Soft Substrate      | 1.0                           |
-|                            |                     |                               |
-|                            | Present SAV         | 0.1                           |
-|                            |                     |                               |
-|                            | Absent SAV          | 1.0                           |
-|                            |                     |                               |
-+----------------------------+---------------------+-------------------------------+
++----------------------------+---------------------+-------------------------------+------------------------+------------------------+
+| **Parameter**              | Range               | **Habitat Suitability Value** | **Brown et al. (2000)**| **Pardue (1983)**      |
++============================+=====================+===============================+========================+========================+
+| A. Temperature (°C)        | $0.0 < t < 3.0$     | 0.0                           |                        |                        |
+|                            |                     |                               |                        |                        |
+|                            | $3.0 <= t < 5.0$    | 0.1                           |                        |                        |
+|                            |                     |                               |                        |                        |
+|                            | $5.0 <= t < 8.0$    | 0.5                           |                        |                        |
+|                            |                     |                               |                        |                        |
+|                            | $8.0 <= t < 10.5$   | 0.7                           |                        |                        |
+|                            |                     |                               |                        |                        |
+|                            | $10.5 <= t < 12$    | 0.8                           |                        |                        |
+|                            |                     |                               |                        |                        |
+|                            | $12 <= t < 16$      | 1.0                           |                        |                        |
+|                            |                     |                               |                        |                        |
+|                            | $16 <= t < 22$      | 0.8                           |                        |                        |
+|                            |                     |                               |                        |                        |
+|                            | $22 <= t < 27$      | 0.5                           |                        |                        |
+|                            |                     |                               |                        |                        |
+|                            | $t >= 27$           | 0.0                           |                        |                        |
+|                            |                     |                               |                        |                        |
++----------------------------+---------------------+-------------------------------+------------------------+------------------------+
+| B. Depth (*meters*)        | $0.0 < d < 2.0$     | 1.0                           |                        |                        |
+|                            |                     |                               |                        |                        |
+|                            | $2.0 <= d < 5.0$    | 0.8                           |                        |                        |
+|                            |                     |                               |                        |                        |
+|                            | $5.0 <= d < 10.0$   | 0.5                           |                        |                        |
+|                            |                     |                               |                        |                        |
+|                            | $10.0 <= d < 15.0$  | 0.3                           |                        |                        |
+|                            |                     |                               |                        |                        |
+|                            | $15.0 <= d <= 20.0$ | 0.1                           |                        |                        |
+|                            |                     |                               |                        |                        |
+|                            | $d > 20.0$          | 0.0                           |                        |                        |
+|                            |                     |                               |                        |                        |
++----------------------------+---------------------+-------------------------------+------------------------+------------------------+
+| C. Salinity (*psu*)        | $0.5 <= s < 8.0$    | 1.0                           |                        |                        |
+|                            |                     |                               |                        |                        |
+|                            | $8.0 <= s < 15.0$   | 0.5                           |                        |                        |
+|                            |                     |                               |                        |                        |
+|                            | $15.0 <= s <= 20.0$ | 0.3                           |                        |                        |
+|                            |                     |                               |                        |                        |
+|                            | $s > 20$            | 0.0                           |                        |                        |
+|                            |                     |                               |                        |                        |
++----------------------------+---------------------+-------------------------------+------------------------+------------------------+
+| D. Flow Velocity (*m/s*)   | $0 < v < 0.3$       | 1.0                           |                        |                        |
+|                            |                     |                               |                        |                        |
+|                            | $0.3 <= v < 1.7$    | 0.8                           |                        |                        |
+|                            |                     |                               |                        |                        |
+|                            | $1.7 <= v < 3.5$    | 0.5                           |                        |                        |
+|                            |                     |                               |                        |                        |
+|                            | $3.5 <= v < 4.5$    | 0.1                           |                        |                        |
+|                            |                     |                               |                        |                        |
+|                            | $v >= 4.5$          | 0.0                           |                        |                        |
+|                            |                     |                               |                        |                        |
++----------------------------+---------------------+-------------------------------+------------------------+------------------------+
+| E. Substrate               | Hard Substrate      | 0.3                           |                        |                        |
+|                            |                     |                               |                        |                        |
+|                            | Soft Substrate      | 1.0                           |                        |                        |
+|                            |                     |                               |                        |                        |
+|                            | Present SAV         | 0.1                           |                        |                        |
+|                            |                     |                               |                        |                        |
+|                            | Absent SAV          | 1.0                           |                        |                        |
+|                            |                     |                               |                        |                        |
++----------------------------+---------------------+-------------------------------+------------------------+------------------------+
 
 :Model Parameters and Habitat Suitability Values for Spawning Adult Alewives
+
+
+## Eggs & Larvae
+
+### Habitat Preferences
+
+The early life stages of alewives, particularly their planktonic larval phases, are characterized by vulnerability to passive transport dispersal [@schmidt_communities_1988]. Understanding the habitat preferences exhibited by alewife eggs and larvae is essential for comprehending their developmental dynamics and ensuring optimal conditions for survival. This section will delve into key environmental parameters influencing the distribution and behavior of alewife eggs and larvae. Factors such as temperature, depth, salinity, flow velocity, and substrate play crucial roles in shaping the habitat preferences of these early life stages. Notably, studies, such as those by @oconnell_spawning_1997, emphasize current velocity as one of the strongest predictors for the presence of alewife eggs. 
+
+#### Temperature
+
+Water temperature significantly shapes the growth, survival, and overall development of alewife eggs and larvae. @pardue_habitat_1983 and @kellogg_temperature_1982 reveal the optimal temperature for larval growth at approximately 26.4°C, with the estimated peak at 26.3°C. A broad suitable temperature range is evident as egg survival occurs between 12°C and 30°C, and temperatures exceeding 31°C lead to larvae mortality. Beyond direct developmental impacts, temperature influences the suitability of nursery areas, as noted by @tommasi_effect_2015. Specific river systems, like the Chowan River, experience temperatures surpassing the upper thermal tolerance of alewife larvae, influencing their distribution [@kellogg_temperature_1982].
+
+The association between peak densities of alewife larvae and water temperature peaks highlights temperature sensitivity in early life stages of alewife. Lower temperatures and peaks in river flow negatively affect alewife larvae, indicating a complex interplay between temperature and environmental conditions [@oconnell_habitat_1999]. Optimal temperature ranges for egg density peaks fall between 16-21°C and 11-28°C, showcasing the adaptability of alewife eggs to varying temperature conditions [@oconnell_habitat_1999; @klauda_alewife_1991]. This is supported in observations from @kellogg_temperature_1982 where maximum hatching success occurred at 12.7°C, 15.0°C, and 20.8°C. Optimal hatching temperature is defined at 16°C [@esdall_effect_1970], with hatching success ceasing above 29.7°C [@kellogg_temperature_1982; @pardue_habitat_1983]. Temperature is a crucial factor impacting the development and survival of alewife eggs and larvae. 
+
+#### Depth
+
+Alewife eggs and larvae exhibit clear depth preferences, primarily favoring shallow-water habitats during their early life stages. Observations from Lake Ontario, as documented by @klumb_importance_2003 and @ingel_habitat_2013, reveal that alewife larvae are uniformly distributed in nearshore areas, with a significant presence in waters less than 5 meters deep. In the same lake, early post-hatch larvae are particularly abundant in depths less than 3 meters, while larger larvae progressively inhabit deeper habitats [@ingel_habitat_2013; @dunstall_distribution_1984]. Studies conducted in Nova Scotia's Margaree River and other locations further emphasize this trend, indicating that alewife larvae predominantly reside in depths shallower than 2 meters [@mullen_species_1986]. The preference for shallow-water habitats is linked to the benefits these environments offer, providing protection from predators and facilitating access to essential food sources, crucial for the growth and development of alewife larvae into juveniles. 
+
+#### Salinity
+
+While there are observations indicating that alewives utilize freshwater streams for their early life stages [@kosa_processes_2001; @tommasi_effect_2015], @mullen_species_1986 provides evidence of their high tolerance to salinity changes. @pardue_habitat_1983 reports the presence of alewife eggs and larvae in environments with salinity levels below 12 ppt, suggesting a potential inclination towards slightly saline conditions. This inclination is corroborated by @dovel_recent_1971, who notes that the growth rates of larvae are significantly lower in freshwater compared to slightly saline water, ranging from 1.0 to 1.3 ppt. The adaptability of alewives to a range of salinities is evident in their ability to thrive in different conditions.
+
+@dimaggio_effects_2016 offer valuable insights into the survival rates of alewives at different salinities, with the highest mean survival rate observed at 15‰ salinity (76.0%). As salinity increases to 20‰ and 30‰, the mean survival rates for alewives decrease to 69.3% and 64.7%, respectively. This pattern suggests a potential preference for moderate salinity conditions, supported by the higher survival rates at 15‰ compared to higher salinities. dimaggio_effects_2016 further highlights the adaptability of alewife embryos, showing survival rates above 97% at low salinities (2, 5, and 10 g/L) and decreased survival at salinities above 15 g/L. Overall, these findings highlight the broad salinity tolerance that promotes successful early development and survival of alewife eggs and larvae.
+
+ Alewife larvae can adapt to high salinity (35 psu) by 50 days post-hatch [@dimaggio_effects_2016].
+ 
+#### Flow Velocity
+
+The early egg stages of alewives exhibit a positive relationship with flow velocity, particularly in the range of 0.03-0.2 m/s [@oconnell_habitat_1999]. However, there is a rapid decline in larvae abundance associated with high flows, suggesting that extreme water velocities can be detrimental to their survival [@oconnell_habitat_1999]. Insights from the Delaware River indicate that excessively high flows may negatively impact alewife recruitment, as elevated water velocity can create barriers that hinder the swimming performance of anadromous fish [@haro_swimming_2004].
+
+In specific habitats, larval alewives tend to be consistently found in water velocities up to 0.12 m/sec, avoiding faster currents [@ingel_habitat_2013]. The distribution of alewife larvae is not primarily influenced by overall tidal fluctuations or the highest speeds of water flow; rather, it is influenced by more localized and instantaneous changes in velocity [@ingel_habitat_2013]. Previous studies, such as @pardue_habitat_1983, observed optimal velocities for larvae and egg development ranging from 0 to 0.3 m/s. These findings collectively highlight the importance of flow velocity in shaping the distribution and development of alewife eggs and larvae, emphasizing the significance of suitable flow conditions for their early life stages.
+
+#### Substrate
+
+Substrate preferences significantly influence the distribution and habitat selection of alewife eggs and larvae. The sandy substrate on the eastern side of Lake Michigan was identified as a favorable environment for the primary and secondary production, limiting dreissenid mussel biomass and providing better support for prey available to larval alewife [@prendergast_physical_2019]. Detritus concentrations, a key variable associated with larval growth rate, are positively correlated with productive regions in Lake Michigan, indicating increased prey availability for larval alewife in areas with high detritus concentrations [@prendergast_physical_2019]. @pardue_habitat_1983 also suggests that optimal egg and larval habitat is found in substrates composed of 75% silt or other soft material containing detritus and vegetation. Soft substrates, such as sand, are considered conducive to the successful development of alewife eggs and larvae. Further, larvae have not been commonly reported in abundance over hard substrates. Reports of eggs on hard substrates might be attributed to the temporary adhesive property of alewife eggs rather than a preference for hard substrate habitats. 
+
+Although SAV is thought to provide spawning and nursery habitat for most anadromous and resident fishes, alewife larval catch is inversely related to SAV density, with larvae most frequently found in areas with less than 10 percent vegetation density and never in areas exceeding 30 percent vegetation density [@ingel_habitat_2013]. Observations by @schmidt_communities_1988 further highlight the impact of vegetation cover, like water-chestnut and water celery beds, on the distribution of larvae, with a decline in larval abundance following the establishment of dense water-chestnut cover. These findings emphasize the importance of soft substrates and vegetation coverage in egg and larvae habitat for alewives.
+
+### Habitat Suitability Model
+
+The habitat suitability model for alewife eggs and larvae encompasses specified ranges and corresponding suitability values for temperature, depth, salinity, flow velocity, and substrate. The temperature parameter delineates thermal tolerances, emphasizing an optimal range between 16 and 28 degrees Celsius. Beyond these limits, suitability sharply declines, with extreme temperatures below 3 degrees or above 30 degrees Celsius deemed unsuitable. This highlights the significance of maintaining specific temperature conditions for alewife development to ensure optimal conditions for their survival.
+
+The depth parameter provides insights into the preferred distribution of alewives, with a peak suitability observed in depths ranging from 0 to 3 meters. As depths increase, the suitability progressively decreases, indicating that eggs and larvae are more commonly found in shallower waters. Salinity considerations are also integrated, indicating a higher suitability in habitats with salinity levels between 0.5 and 12 psu. As salinity exceeds 20 psu, the suitability diminishes, suggesting an upper limit for suitable salinity conditions at this life stage in alewives.
+
+The model specifies an optimal range of 0.03 to 0.12 meters per second for flow velocity. This parameter highlights the importance of low flow rates for alewife habitats, while higher velocities result in reduced suitability. The substrate parameter emphasizes the significance of substrate type and the presence of SAV for alewife eggs and larvae. Hard substrates and the absence of SAV are associated with increased abundance, underlining the importance of substrate variety in alewife habitats. Overall, this model defines environmental factors influencing habitat suitability for alewife eggs and larvae, aiding in effective conservation and management strategies.
+
++----------------------------+---------------------+-------------------------------+------------------------+------------------------+
+| **Parameter**              | Range               | **Habitat Suitability Value** | **Brown et al. (2000)**| **Pardue (1983)**      |
++============================+=====================+===============================+========================+========================+
+| A. Temperature (°C)        | $0 < t < 3$         | 0.0                           |                        |                        |
+|                            |                     |                               |                        |                        |
+|                            | $3 <= t < 7$        | 0.1                           |                        |                        |
+|                            |                     |                               |                        |                        |
+|                            | $7 <= t < 11$       | 0.3                           |                        |                        |
+|                            |                     |                               |                        |                        |
+|                            | $11 <= t < 16$      | 0.5                           |                        |                        |
+|                            |                     |                               |                        |                        |
+|                            | $16 <= t < 28$      | 1.0                           |                        |                        |
+|                            |                     |                               |                        |                        |
+|                            | $28 <= t < 30$      | 0.1                           |                        |                        |
+|                            |                     |                               |                        |                        |
+|                            | $t >= 30$           | 0.0                           |                        |                        |
+|                            |                     |                               |                        |                        |
++----------------------------+---------------------+-------------------------------+------------------------+------------------------+
+| B. Depth (*meters*)        | $0 < d < 3$         | 1.0                           |                        |                        |
+|                            |                     |                               |                        |                        |
+|                            | $3 <= d < 5$        | 0.8                           |                        |                        |
+|                            |                     |                               |                        |                        |
+|                            | $5 <= d < 10$       | 0.5                           |                        |                        |
+|                            |                     |                               |                        |                        |
+|                            | $10 <= d < 20$      | 0.1                           |                        |                        |
+|                            |                     |                               |                        |                        |
+|                            | $d >= 20$           | 0.0                           |                        |                        |
+|                            |                     |                               |                        |                        |
++----------------------------+---------------------+-------------------------------+------------------------+------------------------+
+| C. Salinity (*psu*)        | $0 < s < 0.5$       | 0.8                           |                        |                        |
+|                            |                     |                               |                        |                        |
+|                            | $0.5 <= s < 12.0$   | 1.0                           |                        |                        |
+|                            |                     |                               |                        |                        |
+|                            | $12.0 <= s < 15.0$  | 0.75                          |                        |                        |
+|                            |                     |                               |                        |                        |
+|                            | $15.0 <= s <= 20.0$ | 0.7                           |                        |                        |
+|                            |                     |                               |                        |                        |
+|                            | $s > 20$            | 0.65                          |                        |                        |
+|                            |                     |                               |                        |                        |
++----------------------------+---------------------+-------------------------------+------------------------+------------------------+
+| D. Flow Velocity (*m/s*)   | $0 < v < 0.03$      | 0.7                           |                        |                        |
+|                            |                     |                               |                        |                        |
+|                            | $0.03 <= v < 0.12$  | 1.0                           |                        |                        |
+|                            |                     |                               |                        |                        |
+|                            | $0.12 <= v < 0.3$   | 0.5                           |                        |                        |
+|                            |                     |                               |                        |                        |
+|                            | $0.3 <= v < 3.5$    | 0.3                           |                        |                        |
+|                            |                     |                               |                        |                        |
+|                            | $3.5 <= v < 4.5$    | 0.1                           |                        |                        |
+|                            |                     |                               |                        |                        |
+|                            | $v >= 4.5$          | 0.0                           |                        |                        |
+|                            |                     |                               |                        |                        |
++----------------------------+---------------------+-------------------------------+------------------------+------------------------+
+| E. Substrate               | Hard Substrate      | 0.5                           |                        |                        |
+|                            |                     |                               |                        |                        |
+|                            | Soft Substrate      | 1.0                           |                        |                        |
+|                            |                     |                               |                        |                        |
+|                            | Present SAV         | 0.1                           |                        |                        |
+|                            |                     |                               |                        |                        |
+|                            | Absent SAV          | 1.0                           |                        |                        |
+|                            |                     |                               |                        |                        |
++----------------------------+---------------------+-------------------------------+------------------------+------------------------+
+
+:Model Parameters and Habitat Suitability Values for Alewife Larvae and Egg Development Stages
 
 ## Non-Migratory Juveniles
 
@@ -136,6 +246,8 @@ Temperature plays a pivotal role in shaping the distribution, behavior, and earl
 
 The broader suitability range for juvenile recruitment spans 11°C to 28°C [@pardue_habitat_1983; @fay_alewifeblueback_1983; @klauda_alewife_1991; @brown_habitat_2000; @munroe_overview_2000; @tommasi_effect_2015). Juvenile alewives do not survive temperatures below 3°C [@otto_lethal_1976; @kellogg_temperature_1982; @pardue_habitat_1983; @munroe_overview_2000]. Specific thresholds, such as feeding behavior disruption at 6.7°C and schooling behavior disruption at 4.5°C, underscore the vulnerability of juvenile alewives to temperature fluctuations, with complete disorientation occurring at 2.8°C [@mullen_species_1986]. Exposure to temperature extremes outside the suitable range can negatively impact juvenile growth and performance [@kellogg_temperature_1982; @henderson_effects_1985; @portner_physiology_2008; @overton_spatial_2012]. Maintaining temperatures within the suitable thresholds is crucial for ensuring successful development and overall health of non-migratory juvenile alewives as they transition to adulthood.
 
+However, it's essential to consider potential genetic separation and adaptation along the species range. The last stock assessment identified distinct stocks in the Gulf of Maine, Southern New England, and the Mid-Atlantic [@asmfc_river_2017]. Many of the data available are from the Mid-Atlantic and, therefore, may represent populations more thermally adapted to warmer waters. The thermal tolerance of a Maine alewife may differ from that of a Virginia alewife, indicating potential variations in temperature preferences and tolerances among different populations. 
+
 #### Depth
 
 The depth preferences of non-migratory juvenile alewives, as observed in studies such as @brown_habitat_2000 and @mullen_species_1986, differ significantly from their adult counterparts. Juveniles exhibit a preference for depths ranging from 0 to 10 meters, and no observed habitat suitability beyond 20 meters [@brown_habitat_2000; @hook_annual_2008]. Additional research by @pardue_habitat_1983 reinforces this trend, indicating that juveniles favor depths between 0.5 to 5 meters, and their abundance notably increases around five-meter depths. Similarly, other juvenile cluepids were found abundant in 4.6 meters [@mullen_species_1986]. After leaving the estuary, juveniles can be found in deeper waters off-shore before swimming farther out to sea [@greene_atlantic_2009]. These combined field observations show that the optimal depth for juvenile alewives is equal to or less than 5 meters.
@@ -144,17 +256,17 @@ The depth preferences of non-migratory juvenile alewives, as observed in studies
 
 Juvenile alewives display considerable adaptability to varying salinity levels, as evidenced by physiological changes observed in response to seawater exposure. This adaptation suggests capacity for osmoregulation, enabling them to regulate salt and water balance and maintain stability in seawater environments [@christensen_branchial_2012]. Additional studies, such as @leim_life_1924, @pardue_habitat_1983, and @brown_habitat_2000, provide further insights into the versatility of alewives in diverse salinity conditions and imply that alewives can thrive in environments with fluctuating salinity, emphasizing adaptability to both freshwater and saltwater habitats during different life stages.
 
-Research by @richkus_response_1975 indicates that juvenile alewives, transferred between freshwater and saline water, experienced zero mortality, suggesting a robust tolerance to salinity changes. However, @dimaggio_effects_2016 note lower survival rates when transferred from higher salinities to lower ones, emphasizing a potential preference for higher salinity environments. The presence of juvenile alewives in estuarine waters, where they are preyed upon by bluefish [@creaser_distribution_1994], underscores their distinct salinity preference, spanning from areas exceeding 10 psu to levels as high as 30 psu [@pardue_habitat_1983; @brown_habitat_2000]. @turner_juvenile_2016 and @able_alewife_2020 highlight juvenile preference for estuarine habitats with salinity concentrations ranging from 0.5 to 25 psu, promoting an ideal balance between freshwater and marine conditions for growth. Overall, juvenile alewives exhibit a wide range salinity preferences, showcasing their adaptability to diverse environments for optimal growth and survival.
+Research by @richkus_response_1975 indicates that juvenile alewives, transferred between freshwater and saline water, experienced zero mortality, suggesting a robust tolerance to salinity changes. However, @dimaggio_effects_2016 note lower survival rates when transferred from higher salinities to lower ones, emphasizing a potential preference for higher salinity environments. The presence of juvenile alewives in estuarine waters, where they are preyed upon by bluefish [@creaser_distribution_1994], underscores their distinct salinity preference, spanning from area exceeding 10 psu to levels as high as 30 psu [@pardue_habitat_1983; @brown_habitat_2000]. @turner_juvenile_2016 and @able_alewife_2020 highlight juvenile preference for estuarine habitats with salinity concentrations ranging from 0.5 to 25 psu, promoting an ideal balance between freshwater and marine conditions for growth. Overall, juvenile alewives exhibit a wide range salinity preferences, showcasing their adaptability to diverse environments for optimal growth and survival.
 
 #### Flow Velocity
 
-Flow velocity preferences play a pivotal role in the development and survival of non-migratory juvenile alewives. Laboratory experiments suggest that juvenile alewives tend to avoid water velocities exceeding 0.1 m/s [@greene_atlantic_2009]. Other observations document the presence of juvenile alewives in habitats with flow velocities ranging from 0.05 to 0.17 m/s [@richkus_response_1975; @oconnell_habitat_1999]. Slower flow rates are conducive to energy conservation and effective foraging, while higher flow velocities may impede access to critical food resources, and disrupt their position in the water column [@haro_swimming_2004; @able_alewife_2020]. Understanding flow velocity preferences is essential for informed habitat management, ensuring successful transitions for non-migratory juvenile alewives to adulthood.
+Flow velocity preferences play a pivotal role in the development and survival of non-migratory juvenile alewives. Laboratory experiments suggest that juvenile alewives tend to avoid water velocities exceeding 0.1 m/s [@greene_atlantic_2009]. Other observations document the presence of juvenile alewives in habitats with flow velocities ranging from 0.05 to 0.17 m/s [@richkus_response_1975; @oconnell_habitat_1999]. Slower flow rates are conducive to energy conservation and effective foraging, while higher flow velocities may impede access to critical food resources, and disrupt their position in the water column [@haro_swimming_2004; @able_alewife_2020]. Understanding flow velocity preferences is essential for informed habitat management, ensuring successful transitions for non-migratory juvenile alewives to subadult age classes
 
 #### Substrate
 
-Non-migratory juvenile alewives have broad substrate preferences, underscoring their adaptability to diverse aquatic environments. While earlier studies, such as @fay_alewifeblueback_1983, indicated a preference for sandy substrates, recent observations suggest a potential inclination towards rocky substrates [@janssen_preference_2004; @kornis_linking_2011; @boscarino_influence_2020]. Alewife catches at rocky sites have been reported to be much higher than those at sandy sites, possibly attributed to the increased profitability of rocky habitats for feeding on zooplankton [@janssen_preference_2004; @kornis_linking_2011]. These substrate preferences have implications for habitat management,and creating environments conducive to the successful development and survival of juvenile alewives.
+Non-migratory juvenile alewives have broad substrate preferences, highlighting their adaptability to diverse aquatic environments. While earlier studies, such as @fay_alewifeblueback_1983, indicated a preference for sandy substrates, recent observations suggest a potential inclination towards rocky substrates [@janssen_preference_2004; @kornis_linking_2011; @boscarino_influence_2020]. Alewife catches at rocky sites have been reported to be much higher than those at sandy sites, possibly attributed to the increased profitability of rocky habitats for feeding on zooplankton [@janssen_preference_2004; @kornis_linking_2011]. These substrate preferences have implications for habitat management,and creating environments conducive to the successful development and survival of juvenile alewives.
 
-The presence of seagrass and SAV is important to non-migratory juvenile alewife habitat. Despite some studies suggesting avoidance of areas with aquatic vegetation [@ingel_habitat_2013], research by @olney_nearshore_1988, @laney_relationship_1997, @greene_atlantic_2009, and @smith_overlapping_2015 contradict this, emphasizing that seagrass beds provide essential nursery habitats for juvenile alewives. These vegetated areas serve as refuge from predators and offer abundant food sources. Seagrass beds also contribute to enhanced water quality by stabilizing sediments and promoting nutrient cycling, creating an optimal environment for the thriving of juvenile alewives. The significance of SAV extends to overwintering habitats, as suggested by @killgore_distribution_1988. The understanding of these diverse substrate preferences and seagrass coverage is vital for effective habitat management, ensuring the successful development of non-migratory juvenile alewives in varied aquatic environments.
+The presence of seagrass and SAV is important to non-migratory juvenile alewife habitat. Despite some studies suggesting avoidance of areas with aquatic vegetation [@ingel_habitat_2013], research by @olney_nearshore_1988, @laney_relationship_1997, @greene_atlantic_2009, and @smith_overlapping_2015 contradict this, emphasizing that seagrass beds provide essential nursery habitats for juvenile alewives. These vegetated areas serve as refuge from predators and offer abundant food sources. Seagrass beds also contribute to enhanced water quality by stabilizing sediments and promoting nutrient cycling, creating an optimal environment for the thriving of juvenile alewives. The significance of SAV extends to overwintering habitats, as suggested by @killgore_distribution_1988. 
 
 ### Habitat Suitability Model
 
@@ -226,110 +338,3 @@ In summary, the HSI model offers a detailed perspective on habitat preferences f
 +----------------------------+---------------------+-------------------------------+
 
 :Model Parameters and Habitat Suitability Values for Non-Migratory Juvenile Alewives
-
-## Eggs & Larvae
-
-### Habitat Preferences
-
-The early life stages of alewives, particularly their planktonic larval phases, are characterized by vulnerability to passive transport dispersal [@schmidt_communities_1988]. Understanding the habitat preferences exhibited by alewife eggs and larvae is essential for comprehending their developmental dynamics and ensuring optimal conditions for survival. This section will delve into key environmental parameters influencing the distribution and behavior of alewife eggs and larvae. Factors such as temperature, depth, salinity, flow velocity, and substrate play crucial roles in shaping the habitat preferences of these early life stages. Notably, studies, such as those by @oconnell_spawning_1997, emphasize current velocity as one of the strongest predictors for the presence of alewife eggs. 
-
-#### Temperature
-
-Water temperature significantly shapes the growth, survival, and overall development of alewife eggs and larvae. @pardue_habitat_1983 and @kellogg_temperature_1982 reveal the optimal temperature for larval growth at approximately 26.4°C, with the estimated peak at 26.3°C. A broad suitable temperature range is evident as egg survival occurs between 12°C and 30°C, and temperatures exceeding 31°C lead to larvae mortality. Beyond direct developmental impacts, temperature influences the suitability of nursery areas, as noted by @tommasi_effect_2015. Specific river systems, like the Chowan River, experience temperatures surpassing the upper thermal tolerance of alewife larvae, influencing their distribution [@kellogg_temperature_1982].
-
-The association between peak densities of alewife larvae and water temperature peaks highlights temperature sensitivity in early life stages of alewife. Lower temperatures and peaks in river flow negatively affect alewife larvae, indicating a complex interplay between temperature and environmental conditions [@oconnell_habitat_1999]. Optimal temperature ranges for egg density peaks fall between 16-21°C and 11-28°C, showcasing the adaptability of alewife eggs to varying temperature conditions [@oconnell_habitat_1999; @klauda_alewife_1991]. This is supported in observations from @kellogg_temperature_1982 where maximum hatching success occurred at 12.7°C, 15.0°C, and 20.8°C. Optimal hatching temperature is defined at 16°C [@esdall_effect_1970], with hatching success ceasing above 29.7°C [@kellogg_temperature_1982; @pardue_habitat_1983]. Temperature is a crucial factor impacting the development and survival of alewife eggs and larvae. 
-
-#### Depth
-
-Alewife eggs and larvae exhibit clear depth preferences, primarily favoring shallow-water habitats during their early life stages. Observations from Lake Ontario, as documented by @klumb_importance_2003 and @ingel_habitat_2013, reveal that alewife larvae are uniformly distributed in nearshore areas, with a significant presence in waters less than 5 meters deep. In the same lake, early post-hatch larvae are particularly abundant in depths less than 3 meters, while larger larvae progressively inhabit deeper habitats [@ingel_habitat_2013; @dunstall_distribution_1984]. Studies conducted in Nova Scotia's Margaree River and other locations further emphasize this trend, indicating that alewife larvae predominantly reside in depths shallower than 2 meters [@mullen_species_1986]. The preference for shallow-water habitats is linked to the benefits these environments offer, providing protection from predators and facilitating access to essential food sources, crucial for the growth and development of alewife larvae into juveniles. 
-
-#### Salinity
-
-While there are observations indicating that alewives utilize freshwater streams for their early life stages [@kosa_processes_2001; @tommasi_effect_2015], @mullen_species_1986 provides evidence of their high tolerance to salinity changes. @pardue_habitat_1983 reports the presence of alewife eggs and larvae in environments with salinity levels below 12 ppt, suggesting a potential inclination towards slightly saline conditions. This inclination is corroborated by @dovel_recent_1971, who notes that the growth rates of larvae are significantly lower in freshwater compared to slightly saline water, ranging from 1.0 to 1.3 ppt. The adaptability of alewives to a range of salinities is evident in their ability to thrive in different conditions.
-
-Similarly, other clupeid eggs display tolerance to salinities in the range of 3-33%, and herring eggs and larvae are reported to develop abundantly in seawater with healthy and active larvae [@haegele_distribution_1985; @ford_herring_1929]. @dimaggio_effects_2016 offer valuable insights into the survival rates of alewives at different salinities, with the highest mean survival rate observed at 15‰ salinity (76.0%). As salinity increases to 20‰ and 30‰, the mean survival rates for alewives decrease to 69.3% and 64.7%, respectively. This pattern suggests a potential preference for moderate salinity conditions, supported by the higher survival rates at 15‰ compared to higher salinities. dimaggio_effects_2016 further highlights the adaptability of alewife embryos, showing survival rates above 97% at low salinities (2, 5, and 10 g/L) and decreased survival at salinities above 15 g/L. Overall, these findings highlight the broad salinity preferences that promote successful early development and survival of alewife eggs and larvae.
-
-#### Flow Velocity
-
-The early egg stages of alewives exhibit a positive relationship with flow velocity, particularly in the range of 0.03-0.2 m/s [@oconnell_habitat_1999]. However, there is a rapid decline in larvae abundance associated with high flows, suggesting that extreme water velocities can be detrimental to their survival [@oconnell_habitat_1999]. Insights from the Delaware River indicate that excessively high flows may negatively impact alewife recruitment, as elevated water velocity can create barriers that hinder the swimming performance of anadromous fish [@haro_swimming_2004].
-
-In specific habitats, larval alewives tend to be consistently found in water velocities up to 0.12 m/sec, avoiding faster currents [@ingel_habitat_2013]. The distribution of alewife larvae is not primarily influenced by overall tidal fluctuations or the highest speeds of water flow; rather, it is influenced by more localized and instantaneous changes in velocity [@ingel_habitat_2013]. Previous studies, such as @pardue_habitat_1983, observed optimal velocities for larvae and egg development ranging from 0 to 0.3 m/s. These findings collectively highlight the importance of flow velocity in shaping the distribution and development of alewife eggs and larvae, emphasizing the significance of suitable flow conditions for their early life stages.
-
-#### Substrate
-
-Substrate preferences significantly influence the distribution and habitat selection of alewife eggs and larvae. The sandy substrate on the eastern side of Lake Michigan was identified as a favorable environment for the primary and secondary production, limiting dreissenid mussel biomass and providing better support for prey available to larval alewife [@prendergast_physical_2019]. Detritus concentrations, a key variable associated with larval growth rate, are positively correlated with productive regions in Lake Michigan, indicating increased prey availability for larval alewife in areas with high detritus concentrations [@prendergast_physical_2019]. @pardue_habitat_1983 also suggests that optimal egg and larval habitat is found in substrates composed of 75% silt or other soft material containing detritus and vegetation. Soft substrates, such as sand, are considered conducive to the successful development of alewife eggs and larvae. Further, larvae have not been commonly reported in abundance over hard substrates. Reports of eggs on hard substrates might be attributed to the temporary adhesive property of alewife eggs rather than a preference for hard substrate habitats. 
-
-Although SAV is thought to provide spawning and nursery habitat for most anadromous and resident fishes, alewife larval catch is inversely related to SAV density, with larvae most frequently found in areas with less than 10 percent vegetation density and never in areas exceeding 30 percent vegetation density [@ingel_habitat_2013]. Observations by @schmidt_communities_1988 further highlight the impact of vegetation cover, like water-chestnut and water celery beds, on the distribution of larval alewife, with a decline in larval abundance following the establishment of dense water-chestnut cover. These findings collectively highlight the substrate preferences of alewife eggs and larvae, emphasizing the importance of soft substrates and vegetation coverage in their habitat.
-
-### Habitat Suitability Model
-
-The habitat suitability model for alewife eggs and larvae encompasses specified ranges and corresponding suitability values for temperature, depth, salinity, flow velocity, and substrate. The temperature parameter delineates thermal tolerances, emphasizing an optimal range between 16 and 28 degrees Celsius. Beyond these limits, suitability sharply declines, with extreme temperatures below 3 degrees or above 30 degrees Celsius deemed unsuitable. This highlights the significance of maintaining specific temperature conditions for alewife development to ensure optimal conditions for their survival.
-
-The depth parameter provides insights into the preferred distribution of alewives, with a peak suitability observed in depths ranging from 0 to 3 meters. As depths increase, the suitability progressively decreases, indicating that eggs and larvae are more commonly found in shallower waters. Salinity considerations are also integrated, indicating a higher suitability in habitats with salinity levels between 0.5 and 12 psu. As salinity exceeds 20 psu, the suitability diminishes, suggesting an upper limit for suitable salinity conditions at this life stage in alewives.
-
-The model specifies an optimal range of 0.03 to 0.12 meters per second for flow velocity. This parameter highlights the importance of low flow rates for alewife habitats, while higher velocities result in reduced suitability. The substrate parameter emphasizes the significance of substrate type and the presence of SAV for alewife eggs and larvae. Hard substrates and the absence of SAV are associated with increased abundance, underlining the importance of substrate variety in alewife habitats. Overall, this model defines environmental factors influencing habitat suitability for alewife eggs and larvae, aiding in effective conservation and management strategies.
-
-+----------------------------+---------------------+-------------------------------+
-| **Parameter**              | Range               | **Habitat Suitability Value** |
-+============================+=====================+===============================+
-| A. Temperature (°C)        | $0 < t < 3$         | 0.0                           |
-|                            |                     |                               |
-|                            | $3 <= t < 7$        | 0.1                           |
-|                            |                     |                               |
-|                            | $7 <= t < 11$       | 0.3                           |
-|                            |                     |                               |
-|                            | $11 <= t < 16$      | 0.5                           |
-|                            |                     |                               |
-|                            | $16 <= t < 28$      | 1.0                           |
-|                            |                     |                               |
-|                            | $28 <= t < 30$      | 0.1                           |
-|                            |                     |                               |
-|                            | $t >= 30$           | 0.0                           |
-|                            |                     |                               |
-+----------------------------+---------------------+-------------------------------+
-| B. Depth (*meters*)        | $0 < d < 3$         | 1.0                           |
-|                            |                     |                               |
-|                            | $3 <= d < 5$        | 0.8                           |
-|                            |                     |                               |
-|                            | $5 <= d < 10$       | 0.5                           |
-|                            |                     |                               |
-|                            | $10 <= d < 20$      | 0.1                           |
-|                            |                     |                               |
-|                            | $d >= 20$           | 0.0                           |
-|                            |                     |                               |
-+----------------------------+---------------------+-------------------------------+
-| C. Salinity (*psu*)        | $0 < s < 0.5$       | 0.8                           |
-|                            |                     |                               |
-|                            | $0.5 <= s < 12.0$   | 1.0                           |
-|                            |                     |                               |
-|                            | $12.0 <= s < 15.0$  | 0.75                          |
-|                            |                     |                               |
-|                            | $15.0 <= s <= 20.0$ | 0.7                           |
-|                            |                     |                               |
-|                            | $s > 20$            | 0.65                          |
-|                            |                     |                               |
-+----------------------------+---------------------+-------------------------------+
-| D. Flow Velocity (*m/s*)   | $0 < v < 0.03$      | 0.7                           |
-|                            |                     |                               |
-|                            | $0.03 <= v < 0.12$  | 1.0                           |
-|                            |                     |                               |
-|                            | $0.12 <= v < 0.3$   | 0.5                           |
-|                            |                     |                               |
-|                            | $0.3 <= v < 3.5$    | 0.3                           |
-|                            |                     |                               |
-|                            | $3.5 <= v < 4.5$    | 0.1                           |
-|                            |                     |                               |
-|                            | $v >= 4.5$          | 0.0                           |
-|                            |                     |                               |
-+----------------------------+---------------------+-------------------------------+
-| E. Substrate               | Hard Substrate      | 0.5                           |
-|                            |                     |                               |
-|                            | Soft Substrate      | 1.0                           |
-|                            |                     |                               |
-|                            | Present SAV         | 0.1                           |
-|                            |                     |                               |
-|                            | Absent SAV          | 1.0                           |
-|                            |                     |                               |
-+----------------------------+---------------------+-------------------------------+
-
-:Model Parameters and Habitat Suitability Values for Alewife Larvae and Egg Development Stages

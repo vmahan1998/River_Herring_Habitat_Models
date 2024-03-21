@@ -1,6 +1,4 @@
-# Results
-
-## Model Application
+# Model Application
 
 example of application to martha's vineyard
 
